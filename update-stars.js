@@ -110,11 +110,12 @@ function generateReadme(grouped, total) {
   fs.writeFileSync('README.md', readme);
   console.log('README.md generated');
   
+  execSync('git add README.md');
+  
   try {
-    execSync('git diff --quiet README.md', { stdio: 'ignore' });
+    execSync('git diff --cached --quiet', { stdio: 'ignore' });
     console.log('No changes to commit');
   } catch (e) {
-    execSync('git add README.md');
     execSync(`git commit -m "${COMMIT_MSG}"`);
     execSync('git push');
     console.log('Changes pushed');
