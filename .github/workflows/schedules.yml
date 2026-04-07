@@ -1,33 +1,23 @@
-name: update awesome-stars
+name: update stars
 on:
-  workflow_dispatch:
   schedule:
-  - cron: 30 0 * * *
+    - cron: '0 6 * * *' 
+  workflow_dispatch: {}
+
 jobs:
-  awesome-stars:
-    name: update awesome-stars
+  job:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
-    - uses: actions/checkout@v3
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install click github3.py gql[requests]
-    - name: get repository name
-      run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
-    - name: update repo category by language
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        REPOSITORY: ${{ env.REPOSITORY_NAME }}
-        USERNAME: ${{ github.repository_owner }}
-      run: python -m starred.cli --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by language update by github actions cron, created by starred'
-    - name: update repo category by topic
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        REPOSITORY: ${{ env.REPOSITORY_NAME }}
-        USERNAME: ${{ github.repository_owner }}
-      run: python -m starred.cli --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by topic update by github actions cron, created by starred' --topic --topic_limit 500 --filename topics.md
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 'lts/*'
+      - name: Update
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{ env.REPOSITORY_NAME }}
+          USERNAME: ${{ github.repository_owner }}
+        run: node update-stars.js
