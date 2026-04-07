@@ -1,8 +1,6 @@
 from gql import gql, Client
 from gql.transport.requests import RequestsHTTPTransport
-import requests
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
+import time
 
 QUERY = gql("""
     query ($username: String!, $after: String) {
@@ -71,29 +69,29 @@ class GitHubGQL:
         self.token = token
         headers = {"Authorization": f"Bearer {token}"}
         
-        # Configure retry strategy
-        retry_strategy = Retry(
-            total=3,
-            backoff_factor=1,
-            status_forcelist=[502, 503, 504],
-        )
-        
-        # Create a session with retry adapter
-        session = requests.Session()
-        adapter = HTTPAdapter(max_retries=retry_strategy)
-        session.mount("https://", adapter)
-        
         self.transport = RequestsHTTPTransport(
             url=self.API_URL, 
             headers=headers,
-            use_json=True,
-            session=session
+            use_json=True
         )
         self.client = Client(transport=self.transport, fetch_schema_from_transport=False)
 
+    def _execute_with_retry(self, query, variables, max_retries=3):
+        """Execute query with retry on server errors."""
+        for attempt in range(max_retries):
+            try:
+                return self.client.execute(query, variable_values=variables)
+            except Exception as e:
+                if attempt == max_retries - 1:
+                    raise
+                if '502' in str(e) or '503' in str(e) or '504' in str(e):
+                    time.sleep(2 ** attempt)
+                    continue
+                raise
+
     def get_user_starred_by_username(self, username: str, after: str = '', topic_stargazer_count_limit: int = 0):
         items = []
-        result = self.client.execute(QUERY, variable_values={"username": username, "after": after})
+        result = self._execute_with_retry(QUERY, {"username": username, "after": after})
 
         has_next = result['user']['starredRepositories']['pageInfo']['hasNextPage']
         end_cursor = result['user']['starredRepositories']['pageInfo']['endCursor']
