@@ -1,5 +1,6 @@
 from gql import gql, Client
 from gql.transport.requests import RequestsHTTPTransport
+import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
@@ -77,11 +78,17 @@ class GitHubGQL:
             status_forcelist=[502, 503, 504],
         )
         
+        # Create a session with retry adapter
+        session = requests.Session()
+        adapter = HTTPAdapter(max_retries=retry_strategy)
+        session.mount("https://", adapter)
+        
         self.transport = RequestsHTTPTransport(
             url=self.API_URL, 
             headers=headers,
-            retries=retry_strategy
+            use_json=True
         )
+        self.transport.session = session
         self.client = Client(transport=self.transport, fetch_schema_from_transport=False)
 
     def get_user_starred_by_username(self, username: str, after: str = '', topic_stargazer_count_limit: int = 0):
