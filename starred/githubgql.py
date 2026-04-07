@@ -1,5 +1,7 @@
 from gql import gql, Client
 from gql.transport.requests import RequestsHTTPTransport
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 QUERY = gql("""
     query ($username: String!, $after: String) {
@@ -67,7 +69,19 @@ class GitHubGQL:
     def __init__(self, token):
         self.token = token
         headers = {"Authorization": f"Bearer {token}"}
-        self.transport = RequestsHTTPTransport(url=self.API_URL, headers=headers)
+        
+        # Configure retry strategy
+        retry_strategy = Retry(
+            total=3,
+            backoff_factor=1,
+            status_forcelist=[502, 503, 504],
+        )
+        
+        self.transport = RequestsHTTPTransport(
+            url=self.API_URL, 
+            headers=headers,
+            retries=retry_strategy
+        )
         self.client = Client(transport=self.transport, fetch_schema_from_transport=False)
 
     def get_user_starred_by_username(self, username: str, after: str = '', topic_stargazer_count_limit: int = 0):
