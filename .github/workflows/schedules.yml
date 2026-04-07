@@ -18,6 +18,8 @@ jobs:
       - name: Update
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPOSITORY: ${{ env.REPOSITORY_NAME }}
           USERNAME: ${{ github.repository_owner }}
-        run: node update-stars.js
+        run: |
+          git config user.name "${{ github.repository_owner }}"
+          git config user.email "${{ github.repository_owner }}@users.noreply.github.com"
+          node update-stars.js
