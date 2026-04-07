@@ -86,9 +86,9 @@ class GitHubGQL:
         self.transport = RequestsHTTPTransport(
             url=self.API_URL, 
             headers=headers,
-            use_json=True
+            use_json=True,
+            session=session
         )
-        self.transport.session = session
         self.client = Client(transport=self.transport, fetch_schema_from_transport=False)
 
     def get_user_starred_by_username(self, username: str, after: str = '', topic_stargazer_count_limit: int = 0):
