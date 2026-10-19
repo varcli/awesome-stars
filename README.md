@@ -3,7 +3,7 @@
 > A curated list of my GitHub stars!
 
 ![Total](https://img.shields.io/badge/Total-1055-green.svg)
-![Updated](https://img.shields.io/badge/Updated-2026-10-18-blue.svg)
+![Updated](https://img.shields.io/badge/Updated-2026-10-19-blue.svg)
 
 ## 🏠 Contents
 
@@ -48,7 +48,7 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) | AdminLTE - Free admin dashboard template based on Bootstrap 5 | ColorlibHQ | 45660 |
+| 1 | [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) | AdminLTE - Free admin dashboard template based on Bootstrap 5 | ColorlibHQ | 45665 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -56,37 +56,37 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [codegraph](https://github.com/colbymchenry/codegraph) | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local | colbymchenry | 74352 |
-| 2 | [angie](https://github.com/webserver-llc/angie) | Angie - drop-in replacement for nginx | webserver-llc | 2592 |
+| 1 | [codegraph](https://github.com/colbymchenry/codegraph) | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local | colbymchenry | 74420 |
+| 2 | [angie](https://github.com/webserver-llc/angie) | Angie - drop-in replacement for nginx | webserver-llc | 2595 |
 | 3 | [chsrc](https://github.com/RubyMetric/chsrc) | chsrc 全平台通用换源工具与框架. Change Source everywhere for every software | RubyMetric | 6901 |
-| 4 | [immortalwrt](https://github.com/immortalwrt/immortalwrt) | An opensource OpenWrt variant for mainland China users. | immortalwrt | 11758 |
+| 4 | [immortalwrt](https://github.com/immortalwrt/immortalwrt) | An opensource OpenWrt variant for mainland China users. | immortalwrt | 11763 |
 | 5 | [PolarDB-for-PostgreSQL](https://github.com/polardb/PolarDB-for-PostgreSQL) | A cloud-native database based on PostgreSQL developed by Alibaba Cloud. | polardb | 3208 |
-| 6 | [pgvector](https://github.com/pgvector/pgvector) | Open-source vector similarity search for Postgres | pgvector | 23397 |
+| 6 | [pgvector](https://github.com/pgvector/pgvector) | Open-source vector similarity search for Postgres | pgvector | 23408 |
 | 7 | [mysql_fdw](https://github.com/EnterpriseDB/mysql_fdw) | PostgreSQL foreign data wrapper for MySQL | EnterpriseDB | 601 |
-| 8 | [documentdb](https://github.com/documentdb/documentdb) | MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity. | documentdb | 3462 |
-| 9 | [timescaledb](https://github.com/timescale/timescaledb) | A time-series database for high-performance real-time analytics packaged as a Postgres extension | timescale | 23713 |
+| 8 | [documentdb](https://github.com/documentdb/documentdb) | MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity. | documentdb | 3463 |
+| 9 | [timescaledb](https://github.com/timescale/timescaledb) | A time-series database for high-performance real-time analytics packaged as a Postgres extension | timescale | 23717 |
 | 10 | [lwan](https://github.com/lpereira/lwan) | Experimental, scalable, high performance HTTP server | lpereira | 6041 |
 | 11 | [pg_pathman](https://github.com/postgrespro/pg_pathman) | Partitioning tool for PostgreSQL | postgrespro | 588 |
-| 12 | [citus](https://github.com/citusdata/citus) | Distributed PostgreSQL as an extension | citusdata | 12818 |
-| 13 | [TDengine](https://github.com/taosdata/TDengine) | High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios | taosdata | 25167 |
-| 14 | [openresty](https://github.com/openresty/openresty) | High Performance Web Platform Based on Nginx and LuaJIT | openresty | 14074 |
+| 12 | [citus](https://github.com/citusdata/citus) | Distributed PostgreSQL as an extension | citusdata | 12817 |
+| 13 | [TDengine](https://github.com/taosdata/TDengine) | High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios | taosdata | 25170 |
+| 14 | [openresty](https://github.com/openresty/openresty) | High Performance Web Platform Based on Nginx and LuaJIT | openresty | 14077 |
 | 15 | [IdGenerator](https://github.com/yitter/IdGenerator) | 💎多语言实现，高性能生成唯一数字ID。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId ），单机或分布式唯一IdGenerator。💎顶尖优化，超强效能。 | yitter | 3214 |
-| 16 | [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. | ventoy | 80137 |
-| 17 | [tengine](https://github.com/alibaba/tengine) | A high-performance web server and reverse proxy, 100% compatible with nginx. | alibaba | 13393 |
-| 18 | [lede](https://github.com/coolsnowwolf/lede) | Lean's LEDE source | coolsnowwolf | 31592 |
+| 16 | [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. | ventoy | 80171 |
+| 17 | [tengine](https://github.com/alibaba/tengine) | A high-performance web server and reverse proxy, 100% compatible with nginx. | alibaba | 13396 |
+| 18 | [lede](https://github.com/coolsnowwolf/lede) | Lean's LEDE source | coolsnowwolf | 31595 |
 | 19 | [rt-n56u](https://github.com/hanwckf/rt-n56u) | Padavan | hanwckf | 3346 |
-| 20 | [xLua](https://github.com/Tencent/xLua) | xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc. | Tencent | 10202 |
-| 21 | [linux](https://github.com/torvalds/linux) | Linux kernel source tree | torvalds | 252335 |
-| 22 | [vlmcsd](https://github.com/Wind4/vlmcsd) | KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin) | Wind4 | 8825 |
-| 23 | [rufus](https://github.com/pbatard/rufus) | The Reliable USB Formatting Utility | pbatard | 38016 |
-| 24 | [ijkplayer](https://github.com/bilibili/ijkplayer) | Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support. | bilibili | 33214 |
-| 25 | [Team-Win-Recovery-Project](https://github.com/TeamWin/Team-Win-Recovery-Project) | Core recovery files for the Team Win Recovery Project (T.W.R.P) - this is not up to date, please see https://github.com/TeamWin/android_bootable_recovery/ | TeamWin | 2062 |
-| 26 | [mimikatz](https://github.com/gentilkiwi/mimikatz) | A little tool to play with Windows security | gentilkiwi | 21916 |
-| 27 | [PuTTY](https://github.com/larryli/PuTTY) | PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。 | larryli | 1599 |
+| 20 | [xLua](https://github.com/Tencent/xLua) | xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc. | Tencent | 10203 |
+| 21 | [linux](https://github.com/torvalds/linux) | Linux kernel source tree | torvalds | 252554 |
+| 22 | [vlmcsd](https://github.com/Wind4/vlmcsd) | KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin) | Wind4 | 8823 |
+| 23 | [rufus](https://github.com/pbatard/rufus) | The Reliable USB Formatting Utility | pbatard | 38029 |
+| 24 | [ijkplayer](https://github.com/bilibili/ijkplayer) | Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support. | bilibili | 33217 |
+| 25 | [Team-Win-Recovery-Project](https://github.com/TeamWin/Team-Win-Recovery-Project) | Core recovery files for the Team Win Recovery Project (T.W.R.P) - this is not up to date, please see https://github.com/TeamWin/android_bootable_recovery/ | TeamWin | 2061 |
+| 26 | [mimikatz](https://github.com/gentilkiwi/mimikatz) | A little tool to play with Windows security | gentilkiwi | 21919 |
+| 27 | [PuTTY](https://github.com/larryli/PuTTY) | PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。 | larryli | 1600 |
 | 28 | [net-speeder](https://github.com/snooda/net-speeder) | net-speeder 在高延迟不稳定链路上优化单线程下载速度  | snooda | 2136 |
-| 29 | [redis](https://github.com/microsoftarchive/redis) | Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes | microsoftarchive | 20999 |
-| 30 | [redis](https://github.com/redis/redis) | For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine. | redis | 76930 |
-| 31 | [git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements. | git | 63874 |
+| 29 | [redis](https://github.com/microsoftarchive/redis) | Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes | microsoftarchive | 20996 |
+| 30 | [redis](https://github.com/redis/redis) | For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine. | redis | 77014 |
+| 31 | [git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements. | git | 63898 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -94,7 +94,7 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [Blazorise](https://github.com/Megabit/Blazorise) | Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Tailwind, Bulma, AntDesign, and Material. | Megabit | 3539 |
+| 1 | [Blazorise](https://github.com/Megabit/Blazorise) | Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Tailwind, Bulma, AntDesign, and Material. | Megabit | 3538 |
 | 2 | [VelaShell](https://github.com/joesdu/VelaShell) | Cross-platform SSH/SFTP/FTP terminal client with its own VT engine, draggable split workspace, tunnels and a dual-mode plugin system. .NET 11 + Avalonia. Windows · Linux · macOS. | joesdu | 61 |
 | 3 | [Aneiang.Yarp](https://github.com/AneiangSoft/Aneiang.Yarp) | Production-Grade Full-Featured API Gateway Powered by YARP Dashboard · WAF Firewall · Notifications · Dynamic Routing · Auto-Registration · IP Isolation · Circuit Breaker · Health Check · Config Rollback | AneiangSoft | 82 |
 | 4 | [TickerQ](https://github.com/Arcenox-co/TickerQ) | TickerQ is a fast, reflection-free background task scheduler for .NET  built with source generators, EF Core integration, cron + time-based execution, and a real-time dashboard. | Arcenox-co | 3646 |
@@ -105,20 +105,20 @@
 | 9 | [FFMpegCore](https://github.com/rosenbjerg/FFMpegCore) | A .NET FFMpeg/FFProbe wrapper for easily integrating media analysis and conversion into your C# applications | rosenbjerg | 2099 |
 | 10 | [YoloSharp](https://github.com/IntptrMax/YoloSharp) | Train Yolo with C# | IntptrMax | 266 |
 | 11 | [AKStream](https://github.com/chatop2020/AKStream) | AKStream是一套全平台(Linux,MacOS,Windows)、全架构(X86_64,Arm...)、全功能的流媒体管理控制接口平台。集成GB28181,RTSP,RTMP,HTTP等设备推拉流控制、PTZ控制、音视频文件录制管理、音视频文件裁剪合并等功能与一体 | chatop2020 | 1539 |
-| 12 | [mapperly](https://github.com/riok/mapperly) | A .NET source generator for generating object mappings. No runtime reflection. | riok | 4197 |
+| 12 | [mapperly](https://github.com/riok/mapperly) | A .NET source generator for generating object mappings. No runtime reflection. | riok | 4196 |
 | 13 | [sharp-abp](https://github.com/cocosip/sharp-abp) | Abp-vNext extension modules | cocosip | 219 |
 | 14 | [speckle-sharp-connectors](https://github.com/specklesystems/speckle-sharp-connectors) | Speckle Connectors V3 | specklesystems | 67 |
-| 15 | [spectre.console](https://github.com/spectreconsole/spectre.console) | A .NET library that makes it easier to create beautiful console applications. | spectreconsole | 11664 |
-| 16 | [BotSharp](https://github.com/SciSharp/BotSharp) | AI Multi-Agent Framework in .NET | SciSharp | 3113 |
+| 15 | [spectre.console](https://github.com/spectreconsole/spectre.console) | A .NET library that makes it easier to create beautiful console applications. | spectreconsole | 11665 |
+| 16 | [BotSharp](https://github.com/SciSharp/BotSharp) | AI Multi-Agent Framework in .NET | SciSharp | 3114 |
 | 17 | [mcpdotnet](https://github.com/PederHP/mcpdotnet) | .NET implementation of the Model Context Protocol (MCP) | PederHP | 235 |
 | 18 | [CSnakes](https://github.com/tonybaloney/CSnakes) | Embed Python in .NET | tonybaloney | 1119 |
 | 19 | [Architecture](https://github.com/cnblogs/Architecture) | Building blocks for creating DDD+CQRS microservice with ASP.NET Core | cnblogs | 44 |
 | 20 | [TorchSharp](https://github.com/dotnet/TorchSharp) | A .NET library that provides access to the library that powers PyTorch. | dotnet | 1860 |
-| 21 | [netcorepal-cloud-framework](https://github.com/netcorepal/netcorepal-cloud-framework) | 一个基于ASP.NET Core实现的整洁领域驱动设计落地战术框架。  A tactical framework for Clean Domain-Driven Design based on ASP.NET Core. | netcorepal | 427 |
+| 21 | [netcorepal-cloud-framework](https://github.com/netcorepal/netcorepal-cloud-framework) | 一个基于ASP.NET Core实现的整洁领域驱动设计落地战术框架。  A tactical framework for Clean Domain-Driven Design based on ASP.NET Core. | netcorepal | 426 |
 | 22 | [ThingsGateway](https://github.com/ThingsGateway/ThingsGateway) | ThingsGateway is a cross-platform, high-performance gateway for edge data acquisition and IoT connectivity. Developed with .NET 8, it offers a suite of powerful tools, including advanced PLC communication libraries and debugging software. | ThingsGateway | 1488 |
 | 23 | [speckle-sharp](https://github.com/specklesystems/speckle-sharp) | .NET SDK, Schema and Connectors: Revit, Rhino, Grasshopper, Dynamo, ETABS, AutoCAD, Civil3D & more. | specklesystems | 436 |
-| 24 | [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) | 🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。 | YSGStudyHards | 11082 |
-| 25 | [PDFPatcher](https://github.com/wmjordan/PDFPatcher) | PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等 | wmjordan | 12734 |
+| 24 | [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) | 🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同��步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。 | YSGStudyHards | 11085 |
+| 25 | [PDFPatcher](https://github.com/wmjordan/PDFPatcher) | PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等 | wmjordan | 12740 |
 | 26 | [openai-dotnet](https://github.com/openai/openai-dotnet) | The official .NET library for the OpenAI API | openai | 2713 |
 | 27 | [EasilyNET](https://github.com/joesdu/EasilyNET) | MongoDB,RabbitMQ,DependencyInjection,WebAPI and more tools | joesdu | 97 |
 | 28 | [Serialize.Linq](https://github.com/esskar/Serialize.Linq) | C# library to serialize LINQ expressions | esskar | 546 |
@@ -128,31 +128,31 @@
 | 32 | [figgle](https://github.com/drewnoakes/figgle) | ASCII banner generation for .NET | drewnoakes | 493 |
 | 33 | [XbimEssentials](https://github.com/xBimTeam/XbimEssentials) | A .NET library to work with data in the IFC format. This is the core component of the Xbim Toolkit | xBimTeam | 579 |
 | 34 | [revit-ifc](https://github.com/Autodesk/revit-ifc) | IFC for Revit (2019+) and Navisworks (2019-2024) | Autodesk | 646 |
-| 35 | [garnet](https://github.com/microsoft/garnet) | Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients. | microsoft | 12052 |
+| 35 | [garnet](https://github.com/microsoft/garnet) | Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients. | microsoft | 12055 |
 | 36 | [NetBeauty2](https://github.com/nulastudio/NetBeauty2) | Move a .NET Framework/.NET Core app runtime components and dependencies into a sub-directory and make it beauty. | nulastudio | 506 |
 | 37 | [NetTopologySuite](https://github.com/NetTopologySuite/NetTopologySuite) | A .NET GIS solution that is fast and reliable for the .NET platform. | NetTopologySuite | 1725 |
 | 38 | [Gridify](https://github.com/alirezanet/Gridify) | Easy and optimized way to apply Filtering, Sorting, and Pagination using text-based data. | alirezanet | 1167 |
 | 39 | [elsa-core](https://github.com/elsa-workflows/elsa-core) | The Workflow Engine for .NET | elsa-workflows | 7906 |
-| 40 | [optimizer](https://github.com/hellzerg/optimizer) | The finest Windows Optimizer | hellzerg | 18240 |
+| 40 | [optimizer](https://github.com/hellzerg/optimizer) | The finest Windows Optimizer | hellzerg | 18238 |
 | 41 | [MrAdvice](https://github.com/ArxOne/MrAdvice) | .NET aspect weaver (build task under NuGet package) | ArxOne | 321 |
-| 42 | [opencvsharp](https://github.com/shimat/opencvsharp) | OpenCV wrapper for .NET | shimat | 6113 |
+| 42 | [opencvsharp](https://github.com/shimat/opencvsharp) | OpenCV wrapper for .NET | shimat | 6114 |
 | 43 | [PluginFramework](https://github.com/weikio/PluginFramework) | Everything is a Plugin in .NET | weikio | 600 |
-| 44 | [UniGetUI](https://github.com/Devolutions/UniGetUI) | UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers | Devolutions | 26643 |
+| 44 | [UniGetUI](https://github.com/Devolutions/UniGetUI) | UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers | Devolutions | 26663 |
 | 45 | [Sdcb.SparkDesk](https://github.com/sdcb/Sdcb.SparkDesk) | 讯飞星火大模型非官方.NET SDK Xunfei's "Xinghuo" SparkDesk large model unofficial sdk for .NET | sdcb | 83 |
-| 46 | [Gateway](https://github.com/apiumc/Gateway) | Apiumc Gateway 是高性能的Web网关代理服务，它是Http协议的深度应用，是网关功能集大成者，它一个工具等于 Nginx + Https证书 + 内网穿透 + 图片切割水印 + 网关登录，且全程配置界面化，让你告别难懂、难记的指令配置；在追求功能多样性上，性能也无语伦比，拥有大幅度改善应用性能多种措施，是企业和从业者非常值得掌握的的Web应用托管工具，是F5国产替代首先。 | apiumc | 37 |
+| 46 | [Gateway](https://github.com/apiumc/Gateway) | Apiumc Gateway 是高性能的Web网关代理服务，它是Http协议的深度应用，是网关功��集大成者，它一个工具等于 Nginx + Https证书 + 内网穿透 + 图片切割水印 + 网关登录，且全程配置界面化，让你告别难懂、难记的指令配置；在追求功能多样性上，性能也无语伦比，拥有大幅度改善应用性能多种措施，是企业和从业者非常值得掌握的的Web应用托管工具，是F5国产替代首先。 | apiumc | 37 |
 | 47 | [ServiceSelf](https://github.com/xljiulang/ServiceSelf) | 为.NET 泛型主机的应用程序提供自安装为服务进程的能力 | xljiulang | 130 |
 | 48 | [p2p-tunnel](https://github.com/snltty/p2p-tunnel) | .NET7 Socket NAT transfer，UDP,TCP punch hole，tcp forward，udp forward，http1.1 proxy，socks5 proxy，networking | snltty | 473 |
 | 49 | [silky](https://github.com/liuhll/silky) | The Silky framework is designed to help developers quickly build a microservice development framework through simple code and configuration under the .net platform. | liuhll | 293 |
 | 50 | [coravel](https://github.com/jamesmh/coravel) | Near-zero config .NET library that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze! | jamesmh | 4287 |
 | 51 | [MrHuo.OAuth](https://github.com/mrhuo/MrHuo.OAuth) | .netcore 下最好用的第三方登录组件集合，集成了国内外大部分平台，欢迎使用。 | mrhuo | 482 |
 | 52 | [TheIdServer](https://github.com/Aguafrommars/TheIdServer) | OpenID/Connect, OAuth2, WS-Federation and SAML 2.0 server based on Duende IdentityServer and ITFoxtec Identity SAML 2.0 with its admin UI | Aguafrommars | 756 |
-| 53 | [runtime](https://github.com/dotnet/runtime) | .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps. | dotnet | 18367 |
+| 53 | [runtime](https://github.com/dotnet/runtime) | .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps. | dotnet | 18368 |
 | 54 | [workflow-core](https://github.com/danielgerlag/workflow-core) | Lightweight workflow engine for .NET Standard | danielgerlag | 5936 |
-| 55 | [Avalonia](https://github.com/AvaloniaUI/Avalonia) | Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI | AvaloniaUI | 31673 |
+| 55 | [Avalonia](https://github.com/AvaloniaUI/Avalonia) | Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI | AvaloniaUI | 31684 |
 | 56 | [MSFramework](https://github.com/zlzforever/MSFramework) | A micro service template | zlzforever | 6 |
 | 57 | [Vue.NetCore](https://github.com/cq-panda/Vue.NetCore) | (已支持sqlsugar).NetCore、.Net6、Vue2、Vue3、Vite、TypeScript、Element plus+uniapp前后端分离，全自动生成代码；支持移动端(ios/android/h5/微信小程序。http://www.volcore.xyz/ | cq-panda | 4236 |
 | 58 | [codearts](https://github.com/tinylit/codearts) | 【代码艺术】一款轻量高效的基础框架（包含类型转换、复制、映射，以及ORM支持）。 | tinylit | 40 |
-| 59 | [Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) | Full-stack .Net 10 Clean Architecture (Microservices, Modular Monolith, Monolith), Blazor, Angular 22, React 19, Vue 3.5, BFF with YARP, NextJs 16, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, OpenID Connect, EF Core, OpenTelemetry, SignalR, Background Services, Health Checks, Rate Limiting, Clouds (Azure, AWS, GCP), ... | phongnguyend | 2463 |
+| 59 | [Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) | Full-stack .Net 10 Clean Architecture (Microservices, Modular Monolith, Monolith), Blazor, Angular 22, React 19, Vue 3.5, BFF with YARP, NextJs 16, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, OpenID Connect, EF Core, OpenTelemetry, SignalR, Background Services, Health Checks, Rate Limiting, Clouds (Azure, AWS, GCP), ... | phongnguyend | 2462 |
 | 60 | [Mkh](https://github.com/17MKH/Mkh) | 基于.Net 6+Vue3开发的业务模块化快速开发框架 | 17MKH | 222 |
 | 61 | [CleanArchitectureWithBlazorServer](https://github.com/neozhu/CleanArchitectureWithBlazorServer) | This repository is designed to create an enterprise Blazor Server application that follows the principles of Clean Architecture and implements Blazor Clean Architecture best practices for scalability, maintainability, and testability. | neozhu | 1235 |
 | 62 | [products](https://github.com/DuendeSoftware/products) | The most flexible and standards-compliant OpenID Connect and OAuth 2.x framework for ASP.NET Core | DuendeSoftware | 1614 |
@@ -160,10 +160,10 @@
 | 64 | [Bonobo-Git-Server](https://github.com/jakubgarfield/Bonobo-Git-Server) | Bonobo Git Server for Windows is a web application you can install on your IIS and easily manage and connect to your git repositories. Go to homepage for release and more info. | jakubgarfield | 1838 |
 | 65 | [MASA.Framework](https://github.com/masastack/MASA.Framework) | .NET next-generation microservice development framework, which provides cloud native best practices based on Dapr. | masastack | 770 |
 | 66 | [CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) | Functional extensions for C# | vkhorikov | 2833 |
-| 67 | [openiddict-core](https://github.com/openiddict/openiddict-core) | Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET | openiddict | 5276 |
+| 67 | [openiddict-core](https://github.com/openiddict/openiddict-core) | Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET | openiddict | 5277 |
 | 68 | [abp-next-admin](https://github.com/colinin/abp-next-admin) | 这是基于vue-vben-admin 模板适用于abp vNext的前端管理项目 | colinin | 1024 |
 | 69 | [ElasticLINQ](https://github.com/ElasticLINQ/ElasticLINQ) | Use LINQ to query Elasticsearch with results as .NET objects | ElasticLINQ | 380 |
-| 70 | [Finbuckle.MultiTenant](https://github.com/Finbuckle/Finbuckle.MultiTenant) | MultiTenant is an open source multi-tenancy library for modern .NET created and maintained by Finbuckle LLC. | Finbuckle | 1630 |
+| 70 | [Finbuckle.MultiTenant](https://github.com/Finbuckle/Finbuckle.MultiTenant) | MultiTenant is an open source multi-tenancy library for modern .NET created and maintained by Finbuckle LLC. | Finbuckle | 1631 |
 | 71 | [dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) | Production Grade Cloud-Ready .NET 10 Starter Kit (Web API + React Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included. | fullstackhero | 6818 |
 | 72 | [Admin.NET](https://github.com/Run2948/Admin.NET) | 🔥基于Furion/.NET 5实现的通用管理平台。整合最新技术，模块插件式开发，前后端分离，开箱即用。集成EF Core、多租户、缓存、数据校验、鉴权、事件总线、动态API、通讯、远程请求、任务调度、gRPC等众多黑科技。代码简洁、易扩展，让开发更简单、更通用、更流行！ | Run2948 | 26 |
 | 73 | [ProjectRenamer](https://github.com/ModernRonin/ProjectRenamer) | Conveniently rename your csproj files  | ModernRonin | 172 |
@@ -182,57 +182,57 @@
 | 86 | [AspNetCore.Proxy](https://github.com/twitchax/AspNetCore.Proxy) | ASP.NET Core Proxies made easy. | twitchax | 551 |
 | 87 | [Flurl](https://github.com/tmenier/Flurl) | Fluent URL builder and testable HTTP client for .NET | tmenier | 4403 |
 | 88 | [AwaitableCompletionSource](https://github.com/xljiulang/AwaitableCompletionSource) | AwaitableCompletionSource在多个场景下可替代TaskCompletionSource，更少的cpu时间和内存分配。 | xljiulang | 31 |
-| 89 | [yarp](https://github.com/dotnet/yarp) | A toolkit for developing high-performance HTTP reverse proxy applications. | dotnet | 9629 |
+| 89 | [yarp](https://github.com/dotnet/yarp) | A toolkit for developing high-performance HTTP reverse proxy applications. | dotnet | 9628 |
 | 90 | [ProxyKit](https://github.com/ProxyKit/ProxyKit) | A toolkit to create code-first HTTP reverse proxies on ASP.NET Core | ProxyKit | 1112 |
 | 91 | [sqliteef6migrations](https://github.com/bubibubi/sqliteef6migrations) | System.Data.SQLite.EntityFramework.Migrations - Migrations for SQLite Entity Framework provider | bubibubi | 41 |
-| 92 | [FreeRedis](https://github.com/2881099/FreeRedis) | 🦄 FreeRedis is .NET40+ redis client. supports cluster, sentinel, master-slave, pub-sub, lua, pipeline, transaction, streams, redisearch, client-side-caching, and pooling. | 2881099 | 988 |
-| 93 | [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) | 🖱️ 纯粹的Windows右键菜单管理程序 | BluePointLilac | 20278 |
+| 92 | [FreeRedis](https://github.com/2881099/FreeRedis) | ���� FreeRedis is .NET40+ redis client. supports cluster, sentinel, master-slave, pub-sub, lua, pipeline, transaction, streams, redisearch, client-side-caching, and pooling. | 2881099 | 988 |
+| 93 | [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) | 🖱️ 纯粹的Windows右键菜单管理程序 | BluePointLilac | 20294 |
 | 94 | [EFCore.NamingConventions](https://github.com/efcore/EFCore.NamingConventions) | Entity Framework Core plugin to apply naming conventions to table and column names (e.g. snake_case) | efcore | 961 |
 | 95 | [Fody](https://github.com/Fody/Fody) | Extensible tool for weaving .net assemblies | Fody | 4543 |
 | 96 | [QueryingInEFCore](https://github.com/VahidN/QueryingInEFCore) | Querying in Entity Framework Core | VahidN | 28 |
 | 97 | [SQLBuilder](https://github.com/zqlovejyc/SQLBuilder) | .NET Framework4.5版本Expression表达式转换为SQL语句，支持SqlServer、MySql、Oracle、Sqlite、PostgreSql；基于Dapper实现了不同数据库对应的数据仓储Repository； | zqlovejyc | 83 |
 | 98 | [kephas](https://github.com/kephas-software/kephas) | Kephas Framework | kephas-software | 28 |
 | 99 | [certify](https://github.com/webprofusion/certify) | Professional ACME Client for Windows (and now cross-platform via Certify Management Hub). Certificate Management UI, powered by Let's Encrypt and compatible with all ACME v2 CAs. Used by over 150,000 organisations. Download from certifytheweb.com | webprofusion | 1711 |
-| 100 | [win-acme](https://github.com/win-acme/win-acme) | Automate SSL/TLS certificates on Windows with ease | win-acme | 5816 |
+| 100 | [win-acme](https://github.com/win-acme/win-acme) | Automate SSL/TLS certificates on Windows with ease | win-acme | 5817 |
 | 101 | [WestwindToolkit](https://github.com/RickStrahl/WestwindToolkit) | A utility toolkit for .NET development from Core to Web | RickStrahl | 273 |
-| 102 | [AntDeploy](https://github.com/yuzd/AntDeploy) | Tools to deploy applications to remote server(iis,windowsService,linuxService,docker) support netframework and dotnetcore,support rollback and increment deploy | yuzd | 836 |
-| 103 | [ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) | 🌈A rich set of enterprise-class UI components based on Ant Design and Blazor. | ant-design-blazor | 6181 |
+| 102 | [AntDeploy](https://github.com/yuzd/AntDeploy) | Tools to deploy applications to remote server(iis,windowsService,linuxService,docker) support netframework and dotnetcore,support rollback and increment deploy | yuzd | 837 |
+| 103 | [ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) | 🌈A rich set of enterprise-class UI components based on Ant Design and Blazor. | ant-design-blazor | 6180 |
 | 104 | [EasySlideVerification](https://github.com/sonosun/EasySlideVerification) | 滑动验证，拼图验证 | sonosun | 65 |
-| 105 | [SunnyUI](https://github.com/yhuse/SunnyUI) | SunnyUI.NET 是基于.NET Framework 4.0+、.NET6、.NET8、.NET9  框架的 C# WinForm UI、开源控件库、工具类库、扩展类库、多页面开发框架。 | yhuse | 2592 |
+| 105 | [SunnyUI](https://github.com/yhuse/SunnyUI) | SunnyUI.NET 是基于.NET Framework 4.0+、.NET6、.NET8、.NET9  框架的 C# WinForm UI、开源控件库、工具类库、扩展类库、多页面开发框架。 | yhuse | 2593 |
 | 106 | [v2rayN-trojan](https://github.com/frankfoxy/v2rayN-trojan) | v2rayN + trojan support | frankfoxy | 37 |
 | 107 | [CollectiveOAuth](https://github.com/geekoutnet/CollectiveOAuth) | .NET 平台第三方 OAuth 登录聚合库，对齐 JustAuth 1.16.7。一套接口接入微信、企业微信、支付宝、钉钉、QQ、微博、抖音、华为、淘宝、GitHub、Google、Microsoft、Twitter 等 31 个平台，支持 .NET Framework 4.6.2+、.NET Standard 2.0、.NET 8。 | geekoutnet | 158 |
 | 108 | [AbpHelper.GUI](https://github.com/EasyAbp/AbpHelper.GUI) | Providing code generation and more features to help you develop applications and modules with the ABP framework. | EasyAbp | 791 |
 | 109 | [AbpHelper.CLI](https://github.com/EasyAbp/AbpHelper.CLI) | Providing code generation and more features to help you develop applications and modules with the ABP framework. | EasyAbp | 306 |
 | 110 | [MiCake](https://github.com/MiCake/MiCake) | 🍰 A lightweight Domain-Driven Design (DDD) toolkit for .NET | MiCake | 117 |
-| 111 | [ProxySU](https://github.com/proxysu/ProxySU) | Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网） | proxysu | 5712 |
-| 112 | [Humanizer](https://github.com/Humanizr/Humanizer) | Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities | Humanizr | 9934 |
+| 111 | [ProxySU](https://github.com/proxysu/ProxySU) | Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网） | proxysu | 5714 |
+| 112 | [Humanizer](https://github.com/Humanizr/Humanizer) | Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities | Humanizr | 9935 |
 | 113 | [NanUI](https://github.com/XuanchenLin/NanUI) | NanUI is an open source .NET project for developers who want to create Windows desktop applications with HTML, CSS and JavaScript. | XuanchenLin | 3800 |
 | 114 | [litjson](https://github.com/LitJSON/litjson) | JSON library for the .Net framework | LitJSON | 1449 |
 | 115 | [AgileMapper](https://github.com/agileobjects/AgileMapper) | A zero-configuration, highly-configurable, unopinionated object mapper with viewable execution plans. Flattens, unflattens, deep clones, merges, updates and projects queries. .NET 3.5+ and .NET Standard 1.0+. | agileobjects | 464 |
-| 116 | [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) | CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！ | TGSAN | 19582 |
+| 116 | [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) | CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！ | TGSAN | 19585 |
 | 117 | [Kogel.Dapper.Extension](https://github.com/kogel-net/Kogel.Dapper.Extension) | orm框架  dapper to linq | kogel-net | 223 |
 | 118 | [Netnr.Login](https://github.com/netnr/Netnr.Login) | 第三方 OAuth2 授权登录，QQ、微信开放平台（Weixin）、微信公众平台（WeixinMP）服务号、微博（Weibo）、淘宝（Taobao）、支付宝（Alipay）、钉钉（DingTalk）、飞书（Feishu）、华为（Huawei）、小米（Xiaomi）、码云（Gitee）、GitHub、GitLab、微软（Microsoft ）、StackOverflow、谷歌（Google）、Facebook、ORCID | netnr | 173 |
-| 119 | [squidex](https://github.com/Squidex/squidex) | Headless CMS and Content Managment Hub | Squidex | 2509 |
+| 119 | [squidex](https://github.com/Squidex/squidex) | Headless CMS and Content Managment Hub | Squidex | 2510 |
 | 120 | [NetModular](https://github.com/iamoldli/NetModular) | NetModular 是基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开发框架 | iamoldli | 1362 |
 | 121 | [Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE) | Import and export general library, support Dto import and export, template export, fancy export and dynamic export, support Excel, Csv, Word, Pdf and Html. | dotnetcore | 2238 |
-| 122 | [modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) | Full Modular Monolith application with Domain-Driven Design approach. | kgrzybek | 14079 |
+| 122 | [modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) | Full Modular Monolith application with Domain-Driven Design approach. | kgrzybek | 14080 |
 | 123 | [Masuit.Tools](https://github.com/ldqk0/Masuit.Tools) | 该仓库为 https://github.com/ldqk/Masuit.Tools 的镜像仓库，代码更新存在较大的延迟。建议前往源仓库：https://github.com/ldqk/Masuit.Tools | ldqk0 | 810 |
-| 124 | [GuardClauses](https://github.com/ardalis/GuardClauses) | A simple package with guard clause extensions. | ardalis | 3316 |
+| 124 | [GuardClauses](https://github.com/ardalis/GuardClauses) | A simple package with guard clause extensions. | ardalis | 3315 |
 | 125 | [JobHub](https://github.com/Nongzhsh/JobHub) | 提取各大网站有效的招聘信息（前程无忧、智联招聘、猎聘网…） | Nongzhsh | 69 |
-| 126 | [quartznet](https://github.com/quartznet/quartznet) | Quartz Enterprise Scheduler .NET | quartznet | 7095 |
+| 126 | [quartznet](https://github.com/quartznet/quartznet) | Quartz Enterprise Scheduler .NET | quartznet | 7096 |
 | 127 | [casbin-Casbin.NET](https://github.com/apache/casbin-Casbin.NET) | An authorization library that supports access control models like ACL, RBAC, ABAC in .NET (C#) | apache | 1340 |
 | 128 | [Kong.Net](https://github.com/lianggx/Kong.Net) | .NET Core Client of the Kong | lianggx | 341 |
 | 129 | [Panda.DynamicWebApi](https://github.com/pda-team/Panda.DynamicWebApi) | ASP.NET Core Dynamic Restful WebApi. Generating WebApi from Classes. Such as: Direct Generation of WebApi Based on Business Logic Layer.  | pda-team | 605 |
-| 130 | [querybuilder](https://github.com/sqlkata/querybuilder) | SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird | sqlkata | 3383 |
-| 131 | [Foundatio](https://github.com/FoundatioFx/Foundatio) | Pluggable foundation blocks for building distributed apps. | FoundatioFx | 2102 |
+| 130 | [querybuilder](https://github.com/sqlkata/querybuilder) | SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird | sqlkata | 3382 |
+| 131 | [Foundatio](https://github.com/FoundatioFx/Foundatio) | Pluggable foundation blocks for building distributed apps. | FoundatioFx | 2103 |
 | 132 | [file-service](https://github.com/md-frank/file-service) | ASP.NET Core based universal file server | md-frank | 255 |
-| 133 | [winsw](https://github.com/winsw/winsw) | A wrapper executable that can run any executable as a Windows service, in a permissive license. | winsw | 14372 |
+| 133 | [winsw](https://github.com/winsw/winsw) | A wrapper executable that can run any executable as a Windows service, in a permissive license. | winsw | 14373 |
 | 134 | [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) | An easy to use .NET API for RabbitMQ | EasyNetQ | 3062 |
 | 135 | [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) | Enums.NET is a high-performance type-safe .NET enum utility library | TylerBrinkley | 1834 |
 | 136 | [DNTFrameworkCore](https://github.com/rabbal/DNTFrameworkCore) | Lightweight and Extensible Infrastructure for Building Web Applications - Web Application Framework | rabbal | 315 |
 | 137 | [WTM](https://github.com/dotnetcore/WTM) | Use WTM to write .netcore app fast !!! | dotnetcore | 4349 |
 | 138 | [aspnetcore-vueclimiddleware](https://github.com/EEParker/aspnetcore-vueclimiddleware) | Helpers for building single-page applications on ASP.NET MVC Core using Vue Cli or Quasar Cli. | EEParker | 337 |
-| 139 | [MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp) | Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#] | MessagePack-CSharp | 6793 |
+| 139 | [MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp) | Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#] | MessagePack-CSharp | 6796 |
 | 140 | [anet](https://github.com/anet-lib/anet) | A .NET Core Common Library , Framework and Boilerplate.  | anet-lib | 253 |
 | 141 | [FreeSql](https://github.com/dotnetcore/FreeSql) | .NET aot orm, VB.NET/C# orm, Mysql/PostgreSQL/SqlServer/Oracle orm, Sqlite/Firebird/Clickhouse/DuckDB orm, 达梦/金仓/虚谷/翰高/高斯 orm, 神通 orm, 南大通用 orm, 国产 orm, TDengine orm, QuestDB orm, MsAccess orm. | dotnetcore | 4404 |
 | 142 | [WebAPIContrib.Core](https://github.com/WebApiContrib/WebAPIContrib.Core) | Community Contributions for ASP.NET Core | WebApiContrib | 460 |
@@ -240,7 +240,7 @@
 | 144 | [dnSpy](https://github.com/dnSpy/dnSpy) | .NET debugger and assembly editor | dnSpy | 29660 |
 | 145 | [GitCandy](https://github.com/IoTSharp/GitCandy) | A git server side platform based on .Net 10  一个基于.Net 10 的git服务端。QQ群：200319579。 | IoTSharp | 263 |
 | 146 | [System.Linq.Dynamic.Core](https://github.com/zzzprojects/System.Linq.Dynamic.Core) | The .NET Standard / .NET Core version from the System Linq Dynamic functionality. | zzzprojects | 1712 |
-| 147 | [choco](https://github.com/chocolatey/choco) | Chocolatey - the package manager for Windows | chocolatey | 11540 |
+| 147 | [choco](https://github.com/chocolatey/choco) | Chocolatey - the package manager for Windows | chocolatey | 11543 |
 | 148 | [winforms](https://github.com/dotnet/winforms) | Windows Forms is a .NET UI framework for building Windows desktop applications. | dotnet | 4869 |
 | 149 | [wpf](https://github.com/dotnet/wpf) | WPF is a .NET Core UI framework for building Windows desktop applications. | dotnet | 7741 |
 | 150 | [EntityFramework.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers) | Adds events for entity inserting, inserted, updating, updated, deleting, and deleted | NickStrupat | 379 |
@@ -250,7 +250,7 @@
 | 154 | [Ocelot](https://github.com/ThreeMammals/Ocelot) | .NET API Gateway | ThreeMammals | 8718 |
 | 155 | [V2RayN](https://github.com/v2ray/V2RayN) | A Windows GUI client for V2Ray. | v2ray | 495 |
 | 156 | [umi](https://github.com/mopsicus/umi) | Unity mobile input (UMI) plugin for Android and iOS, allows to use features of mobile native input fields | mopsicus | 484 |
-| 157 | [ailab](https://github.com/microsoft/ailab) | Experience, Learn and Code the latest breakthrough innovations with Microsoft AI | microsoft | 7850 |
+| 157 | [ailab](https://github.com/microsoft/ailab) | Experience, Learn and Code the latest breakthrough innovations with Microsoft AI | microsoft | 7848 |
 | 158 | [DryIoc](https://github.com/dadhi/DryIoc) | DryIoc is fast, small, full-featured IoC Container for .NET | dadhi | 1133 |
 | 159 | [machinelearning](https://github.com/dotnet/machinelearning) | ML.NET is an open source and cross-platform machine learning framework for .NET. | dotnet | 9357 |
 | 160 | [NanoFabric](https://github.com/geffzhang/NanoFabric) | 基于Consul + .NET Core + Polly + Ocelot + Exceptionless + IdentityServer等开源项目的微服务开发框架 | geffzhang | 1450 |
@@ -264,7 +264,7 @@
 | 168 | [Ray](https://github.com/RayTale/Ray) | 项目停止更新，新项目：https://github.com/RayTale/Vertex | RayTale | 601 |
 | 169 | [Lolita](https://github.com/PomeloFoundation/Lolita) | A light-weight extension which provides bulk update and delete operations for Entity Framework Core. | PomeloFoundation | 120 |
 | 170 | [stashbox](https://github.com/z4kn4fein/stashbox) | A lightweight, fast, and portable dependency injection framework for .NET-based solutions. | z4kn4fein | 155 |
-| 171 | [serilog](https://github.com/serilog/serilog) | Simple .NET logging with fully-structured events | serilog | 8052 |
+| 171 | [serilog](https://github.com/serilog/serilog) | Simple .NET logging with fully-structured events | serilog | 8051 |
 | 172 | [FluentAssemblyScanner](https://github.com/osoykan-archive/FluentAssemblyScanner) | Fluent assembly and type scanner :mag: for .Net | osoykan-archive | 56 |
 | 173 | [Blogifier](https://github.com/blogifierdotnet/Blogifier) | Blogifier is an open-source publishing platform Written in ASP.NET and Blazor WebAssembly. With Blogifier make a personal blog or a website. | blogifierdotnet | 1292 |
 | 174 | [SimpleInjector](https://github.com/simpleinjector/SimpleInjector) | An easy, flexible, and fast Dependency Injection library that promotes best practice to steer developers towards the pit of success. | simpleinjector | 1266 |
@@ -276,7 +276,7 @@
 | 180 | [Security](https://github.com/aspnet/Security) | [Archived] Middleware for security and authorization of web apps. Project moved to https://github.com/aspnet/AspNetCore | aspnet | 1296 |
 | 181 | [NETCore.Encrypt](https://github.com/myloveCc/NETCore.Encrypt) | NETCore encrypt and decrypt tool，Include aes，des，rsa，md5，sha1，sha256，sha384，sha512 | myloveCc | 640 |
 | 182 | [httplib](https://github.com/j6mes/httplib) | HttpLib. A free HTTP library for C# | j6mes | 248 |
-| 183 | [Insight.Database](https://github.com/jonwagner/Insight.Database) | Fast, lightweight .NET micro-ORM | jonwagner | 914 |
+| 183 | [Insight.Database](https://github.com/jonwagner/Insight.Database) | Fast, lightweight .NET micro-ORM | jonwagner | 915 |
 | 184 | [hashids.net](https://github.com/ullmark/hashids.net) | A small .NET package to generate YouTube-like hashes from one or many numbers. Use hashids when you do not want to expose your database ids to the user. | ullmark | 3352 |
 | 185 | [Mego](https://github.com/CarefreeXT/Mego) | A high performance and powerful ORM framework supporting SQL Server, MySQL, Sqlite, SqlCE, PostgreSQL etc.. | CarefreeXT | 23 |
 | 186 | [Hawk](https://github.com/ferventdesert/Hawk) | visualized crawler & ETL IDE written with C#/WPF | ferventdesert | 3204 |
@@ -292,8 +292,8 @@
 | 196 | [WebApiClient](https://github.com/dotnetcore/WebApiClient) | A REST API library with better functionality, performance, and scalability than refit | dotnetcore | 2137 |
 | 197 | [NPOI.Extension](https://github.com/rigofunc/NPOI.Extension) | This repo contains the extension for the NPOI, which provides IEnumerable<T> have save to and load from excel functionalities. | rigofunc | 90 |
 | 198 | [EventFlow](https://github.com/eventflow/EventFlow) | Async/await first CQRS+ES and DDD framework for .NET | eventflow | 2568 |
-| 199 | [ICanPay](https://github.com/hiihellox10/ICanPay) | ICanPay是一个简单易用的支付平台支付处理类库，目前支持的支付平台有：支付宝(Alipay)、微信支付(WeChatPay)、财付通(Tenpay)、易宝(Yeepay)�� | hiihellox10 | 146 |
-| 200 | [PaySharp](https://github.com/Varorbc/PaySharp) | PaySharp是一个支持多商户多种支付方式的跨平台网关处理类库，使用PaySharp可以简化订单的创建、查询、退款和接收网关返回的���付通知等操作。 | Varorbc | 849 |
+| 199 | [ICanPay](https://github.com/hiihellox10/ICanPay) | ICanPay是一个简单易用的支付平台支付处理类库，目前支持的支付平台有：支付宝(Alipay)、微信支付(WeChatPay)、财付通(Tenpay)、易宝(Yeepay)。 | hiihellox10 | 146 |
+| 200 | [PaySharp](https://github.com/Varorbc/PaySharp) | PaySharp是一个支持多商户多种支付方式的跨平台网关处理类库，使用PaySharp可以简化订单的创建、查询、退款和接收网关返回的支付通知等操作。 | Varorbc | 849 |
 | 201 | [Pomelo.EntityFrameworkCore.Extensions.ToSql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.Extensions.ToSql) |  | PomeloFoundation | 62 |
 | 202 | [TinyPinyin.Net](https://github.com/hstarorg/TinyPinyin.Net) | 适用于.Net平台的快速、低内存占用的汉字转拼音库。核心算法来自TinyPinyin(https://github.com/promeG/TinyPinyin) | hstarorg | 227 |
 | 203 | [JumpHelper](https://github.com/Nihiue/JumpHelper) | 微信小游戏 跳一跳 Hack | Nihiue | 98 |
@@ -301,9 +301,9 @@
 | 205 | [Hangfire](https://github.com/HangfireIO/Hangfire) | An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required | HangfireIO | 10151 |
 | 206 | [AspNetCoreSpa](https://github.com/fullstackproltd/AspNetCoreSpa) | Asp.Net 7.0 & Angular 15 SPA Fullstack application with plenty of examples. Live demo:  | fullstackproltd | 1536 |
 | 207 | [ecommon](https://github.com/tangxuehua/ecommon) | A common infrastructure library. | tangxuehua | 181 |
-| 208 | [Electron.NET](https://github.com/ElectronNET/Electron.NET) | :electron: Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor). | ElectronNET | 7599 |
+| 208 | [Electron.NET](https://github.com/ElectronNET/Electron.NET) | :electron: Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor). | ElectronNET | 7600 |
 | 209 | [osharp](https://github.com/dotnetcore/osharp) | OSharp是一个基于.Net6.0的快速开发框架，框架对 AspNetCore 的配置、依赖注入、日志、缓存、实体框架、Mvc(WebApi)、身份认证、功能权限、数据权限等模块进行更高一级的自动化封装，并规范了一套业务实现的代码结构与操作流程，使 .Net  框架更易于应用到实际项目开发中。 | dotnetcore | 2845 |
-| 210 | [shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) |  | shadowsocksrr | 14966 |
+| 210 | [shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) |  | shadowsocksrr | 14964 |
 | 211 | [NSwag](https://github.com/RicoSuter/NSwag) | The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.  | RicoSuter | 7368 |
 | 212 | [Util](https://github.com/dotnetcore/Util) | Util是一个.Net平台下的应用框架，旨在提升中小团队的开发能力，由工具类、分层架构基类、Ui组件，配套代码生成模板，权限等组成。 | dotnetcore | 4597 |
 | 213 | [SqlFu](https://github.com/sapiens/SqlFu) | Fast and versatile .net core data mapper/micro-orm | sapiens | 230 |
@@ -311,7 +311,7 @@
 | 215 | [LCLFramework](https://github.com/luomingui/LCLFramework) | LCLFramework就是一套在.NET下支持面向领域驱动的软件系统管理类软件的快速开发框架 文档地址： | luomingui | 49 |
 | 216 | [OrchardCore](https://github.com/OrchardCMS/OrchardCore) | Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework. | OrchardCMS | 8203 |
 | 217 | [MvvmCross](https://github.com/MvvmCross/MvvmCross) | The .NET MVVM framework for cross-platform solutions, including Android, iOS, MacCatalyst, macOS, tvOS, WPF, WinUI | MvvmCross | 3919 |
-| 218 | [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. | NickeManarin | 27808 |
+| 218 | [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. | NickeManarin | 27814 |
 | 219 | [Dora](https://github.com/jiangjinnan/Dora) |  | jiangjinnan | 429 |
 | 220 | [shriek-fx](https://github.com/ElderJames/shriek-fx) | An easy-to-use rapid development framework developed on the basis of.NET Core 2.0, following the constraints of domain Driven Design (DDD) specifications, combined with the CQRS architecture to provide the infrastructure for event-driven, event backtracking, responsiveness, and more. Let developers enjoy the true meaning of object-oriented design patterns brought by the aesthetic. | ElderJames | 652 |
 | 221 | [OSS.Clients.Pay](https://github.com/KevinWG/OSS.Clients.Pay) | 开源支付SDK(标准库)，主要打造微信支付，支付宝支付，标准库项目，同时支持.net framework和.net core | KevinWG | 338 |
@@ -319,21 +319,21 @@
 | 223 | [AppBrix](https://github.com/MarinAtanasov/AppBrix) | AppBrix is a way of thinking about and building scalable modular applications. | MarinAtanasov | 8 |
 | 224 | [Platformus](https://github.com/Platformus/Platformus) | Platformus is free, open source, and cross-platform developer-friendly CMS based on ASP.NET Core, ExtCore framework, and Magicalizer | Platformus | 484 |
 | 225 | [ExtCore](https://github.com/ExtCore/ExtCore) | Free, open source and cross-platform framework for creating modular and extendable web applications based on ASP.NET Core | ExtCore | 784 |
-| 226 | [gitextensions](https://github.com/gitextensions/gitextensions) | Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019). | gitextensions | 8594 |
-| 227 | [OAuthLogin2.0](https://github.com/dazhuangtage/OAuthLogin2.0) | .Net平台下第三方登录组件,内置QQ,��里巴巴,淘宝,京东,蘑菇街,有赞等平台。支持扩展。 | dazhuangtage | 54 |
+| 226 | [gitextensions](https://github.com/gitextensions/gitextensions) | Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019). | gitextensions | 8595 |
+| 227 | [OAuthLogin2.0](https://github.com/dazhuangtage/OAuthLogin2.0) | .Net平台下第三方登录组件,内置QQ,阿里巴巴,淘宝,京东,蘑菇街,有赞等平台。支持扩展。 | dazhuangtage | 54 |
 | 228 | [AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework) | AspectCore is an AOP-based cross platform framework for .NET Standard. | dotnetcore | 1764 |
-| 229 | [CAP](https://github.com/dotnetcore/CAP) | Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern | dotnetcore | 7115 |
+| 229 | [CAP](https://github.com/dotnetcore/CAP) | Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern | dotnetcore | 7117 |
 | 230 | [SolrNet](https://github.com/SolrNet/SolrNet) | Solr client for .Net | SolrNet | 952 |
 | 231 | [MassTransit](https://github.com/MassTransit/MassTransit) | Distributed Application Framework for .NET | MassTransit | 7809 |
 | 232 | [jwt](https://github.com/jwt-dotnet/jwt) | Jwt.Net, a JWT (JSON Web Token) implementation for .NET | jwt-dotnet | 2187 |
-| 233 | [npoi](https://github.com/nissl-lab/npoi) | a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop. | nissl-lab | 6200 |
+| 233 | [npoi](https://github.com/nissl-lab/npoi) | a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop. | nissl-lab | 6201 |
 | 234 | [CacheManager](https://github.com/MichaCo/CacheManager) | CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features. | MichaCo | 2422 |
 | 235 | [DependencyInjection](https://github.com/aspnet/DependencyInjection) | [Archived] Contains common DI abstractions that ASP.NET Core and Entity Framework Core use. Project moved to https://github.com/aspnet/Extensions | aspnet | 865 |
-| 236 | [piranha.core](https://github.com/PiranhaCMS/piranha.core) | Piranha CMS is the friendly editor-focused CMS for .NET that can be used both as an integrated CMS or as a headless API. | PiranhaCMS | 2196 |
+| 236 | [piranha.core](https://github.com/PiranhaCMS/piranha.core) | Piranha CMS is the friendly editor-focused CMS for .NET that can be used both as an integrated CMS or as a headless API. | PiranhaCMS | 2197 |
 | 237 | [yessql](https://github.com/sebastienros/yessql) | A .NET document database working on any RDBMS | sebastienros | 1364 |
 | 238 | [stove-archived](https://github.com/stoveproject-archive/stove-archived) | Domain Driven Design oriented application framework, meets CRUD needs | stoveproject-archive | 164 |
-| 239 | [ZKEACMS](https://github.com/SeriaWei/ZKEACMS) | ZKEACMS build with .Net 8 (.Net CMS)可视化设计在线编辑内容管理系统 | SeriaWei | 2842 |
-| 240 | [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) | Google's Material Design in XAML & WPF, for C# & VB.Net.  | MaterialDesignInXAML | 16281 |
+| 239 | [ZKEACMS](https://github.com/SeriaWei/ZKEACMS) | ZKEACMS build with .Net 8 (.Net CMS)可视化设计在线编辑内容管理系统 | SeriaWei | 2843 |
+| 240 | [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) | Google's Material Design in XAML & WPF, for C# & VB.Net.  | MaterialDesignInXAML | 16282 |
 | 241 | [EntityFramework.Utilities](https://github.com/MikaelEliasson/EntityFramework.Utilities) | Provides extensions for EntityFramework that doesn't exist out of the box like delete and update by query and bulk inserts | MikaelEliasson | 446 |
 | 242 | [SmartSql](https://github.com/dotnetcore/SmartSql) | SmartSql = MyBatis in C# + .NET Core+ Cache(Memory \| Redis) + R/W Splitting + PropertyChangedTrack  +Dynamic Repository + InvokeSync + Diagnostics | dotnetcore | 1134 |
 | 243 | [AutoMapper.EF6](https://github.com/AutoMapper/AutoMapper.EF6) | Extensions for AutoMapper and EF6 | AutoMapper | 222 |
@@ -342,36 +342,36 @@
 | 246 | [MongoCola](https://github.com/magicdict/MongoCola) | A MongoDB Administration Tool  | magicdict | 536 |
 | 247 | [DapperPoco](https://github.com/md-frank/DapperPoco) | 基于Dapper的、轻量级的、高性能的、简单的、灵活的ORM框架 | md-frank | 144 |
 | 248 | [apworks-core](https://github.com/daxnet/apworks-core) | Apworks framework supporting .NET Core | daxnet | 202 |
-| 249 | [aspnetcore](https://github.com/dotnet/aspnetcore) | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. | dotnet | 38476 |
+| 249 | [aspnetcore](https://github.com/dotnet/aspnetcore) | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. | dotnet | 38475 |
 | 250 | [ABPHelper](https://github.com/wakuflair/ABPHelper) | ABPHelper is a Visual Studio Extension(VSIX) that helps you with developing ASP.NET Boilerplate applications. | wakuflair | 104 |
 | 251 | [VisualStudioUninstaller](https://github.com/microsoft/VisualStudioUninstaller) | Visual Studio Uninstallation sometimes can be unreliable and often leave out a lot of unwanted artifacts. Visual Studio Uninstaller is designed to thoroughly and reliably remove these unwanted artifacts. | microsoft | 3960 |
 | 252 | [elasticsearch-net](https://github.com/elastic/elasticsearch-net) | This strongly-typed, client library enables working with Elasticsearch. It is the official client maintained and supported by Elastic. | elastic | 3649 |
 | 253 | [Migrator.EF6](https://github.com/mrahhal/Migrator.EF6) | .NET Core CLI tool to enable EF6 migrations in an Asp.Net Core app. | mrahhal | 81 |
-| 254 | [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) | Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor. Moved to https://github.com/dotnet/eShop. | dotnet-architecture | 24293 |
+| 254 | [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) | Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor. Moved to https://github.com/dotnet/eShop. | dotnet-architecture | 24294 |
 | 255 | [api-plugin-for-nopcommerce](https://github.com/SevenSpikes/api-plugin-for-nopcommerce) | API plugin for nopCommerce | SevenSpikes | 289 |
-| 256 | [SuperSocket](https://github.com/kerryjiang/SuperSocket) | SuperSocket is a high-performance, extensible socket server application framework for .NET. It provides a robust architecture for building custom network communication applications with support for multiple protocols including TCP, UDP, and WebSocket. | kerryjiang | 4236 |
+| 256 | [SuperSocket](https://github.com/kerryjiang/SuperSocket) | SuperSocket is a high-performance, extensible socket server application framework for .NET. It provides a robust architecture for building custom network communication applications with support for multiple protocols including TCP, UDP, and WebSocket. | kerryjiang | 4237 |
 | 257 | [dapper-repositories](https://github.com/phnx47/dapper-repositories) | Generate SQL for CRUD operations based on your POCO classes for Dapper | phnx47 | 705 |
-| 258 | [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) | mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. | mRemoteNG | 11164 |
+| 258 | [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) | mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. | mRemoteNG | 11165 |
 | 259 | [WxOpen](https://github.com/JeffreySu/WxOpen) | 微信小程序 C# SDK，Senparc.Weixin.WxOpen.dll | JeffreySu | 214 |
-| 260 | [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) | A simple, cross platform, modulith ecommerce system built on .NET | simplcommerce | 4413 |
-| 261 | [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) | A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort. | MahApps | 9835 |
-| 262 | [nopCommerce](https://github.com/nopSolutions/nopCommerce) | ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart. | nopSolutions | 10159 |
+| 260 | [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) | A simple, cross platform, modulith ecommerce system built on .NET | simplcommerce | 4412 |
+| 261 | [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) | A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort. | MahApps | 9834 |
+| 262 | [nopCommerce](https://github.com/nopSolutions/nopCommerce) | ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart. | nopSolutions | 10161 |
 | 263 | [ef6](https://github.com/dotnet/ef6) | This is the codebase for Entity Framework 6 (previously maintained at https://entityframework.codeplex.com). Entity Framework Core is maintained at https://github.com/dotnet/efcore. | dotnet | 1448 |
 | 264 | [Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) | Entity Framework Core provider for MySQL and MariaDB built on top of MySqlConnector | PomeloFoundation | 2972 |
 | 265 | [MR.AspNetCore.Jobs](https://github.com/mrahhal/MR.AspNetCore.Jobs) | A background processing library for Asp.Net Core. | mrahhal | 60 |
 | 266 | [akka.net](https://github.com/akkadotnet/akka.net) | Canonical actor model implementation for .NET with local + distributed actors in C# and F#. | akkadotnet | 5088 |
 | 267 | [Kalman.Studio](https://github.com/loamen/Kalman.Studio) | Kalman.Studio代码生成器是一款基于T4模板引擎的代码生成器和开发辅助工具。可以根据数据库元数据架构信息来生成代码，还可以解析PowerDesigner物理模型文件，根据PDM模型对象来生成代码等。 | loamen | 208 |
 | 268 | [T4Toolbox](https://github.com/olegsych/T4Toolbox) |  | olegsych | 256 |
-| 269 | [Autofac](https://github.com/autofac/Autofac) | An addictive .NET IoC container | autofac | 4659 |
+| 269 | [Autofac](https://github.com/autofac/Autofac) | An addictive .NET IoC container | autofac | 4660 |
 | 270 | [GitLink](https://github.com/GitTools/GitLink) | Making .NET open source accessible! | GitTools | 556 |
-| 271 | [mono](https://github.com/mono/mono) | Mono open source ECMA CLI, C# and .NET implementation. | mono | 11470 |
+| 271 | [mono](https://github.com/mono/mono) | Mono open source ECMA CLI, C# and .NET implementation. | mono | 11472 |
 | 272 | [JavaScriptServices](https://github.com/aspnet/JavaScriptServices) | [Archived] This repository has been archived | aspnet | 3001 |
-| 273 | [AngleSharp](https://github.com/AngleSharp/AngleSharp) | :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications. | AngleSharp | 5542 |
-| 274 | [NLog](https://github.com/NLog/NLog) | NLog - Flexible and Structured Logging for various .NET Platforms | NLog | 6549 |
+| 273 | [AngleSharp](https://github.com/AngleSharp/AngleSharp) | :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications. | AngleSharp | 5543 |
+| 274 | [NLog](https://github.com/NLog/NLog) | NLog - Flexible and Structured Logging for various .NET Platforms | NLog | 6550 |
 | 275 | [Windsor](https://github.com/castleproject/Windsor) | Castle Windsor is a best of breed, mature Inversion of Control container available for .NET | castleproject | 1534 |
 | 276 | [FluentBootstrap](https://github.com/daveaglick/FluentBootstrap) | Provides extensions, helper classes, model binding, and other goodies to help you use the Bootstrap CSS framework from .NET code. | daveaglick | 195 |
-| 277 | [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) | :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software | thangchung | 21414 |
-| 278 | [ILSpy](https://github.com/icsharpcode/ILSpy) | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform! | icsharpcode | 26698 |
+| 277 | [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) | :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software | thangchung | 21417 |
+| 278 | [ILSpy](https://github.com/icsharpcode/ILSpy) | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform! | icsharpcode | 26718 |
 | 279 | [Massive](https://github.com/FransBouma/Massive) | A small, happy, dynamic MicroORM for .NET that will love you forever. | FransBouma | 1795 |
 | 280 | [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) | The Redis client for .NET | StackExchange | 6204 |
 | 281 | [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) | A C# port of shadowsocks | shadowsocks | 59526 |
@@ -394,17 +394,17 @@
 | 298 | [aspnetcore-doc-cn](https://github.com/dotnetcore/aspnetcore-doc-cn) | The Simplified Chinese edition of Microsoft ASP.NET Core documentation, translated by .NET Core Community and .NET China Community. | dotnetcore | 520 |
 | 299 | [AutoMapper](https://github.com/LuckyPennySoftware/AutoMapper) | A convention-based object-object mapper in .NET.  | LuckyPennySoftware | 10188 |
 | 300 | [BlogEngine.NET](https://github.com/BlogEngine/BlogEngine.NET) | Multi-User ASP.NET Blogging Application | BlogEngine | 985 |
-| 301 | [Dapper](https://github.com/DapperLib/Dapper) | Dapper - a simple object mapper for .Net | DapperLib | 18405 |
+| 301 | [Dapper](https://github.com/DapperLib/Dapper) | Dapper - a simple object mapper for .Net | DapperLib | 18404 |
 | 302 | [dotnet](https://github.com/MiniProfiler/dotnet) | A simple but effective mini-profiler for ASP.NET (and Core) websites | MiniProfiler | 3005 |
 | 303 | [Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) | C# Extension Methods \| Over 1000 extension methods: | zzzprojects | 1729 |
 | 304 | [vc-platform](https://github.com/VirtoCommerce/vc-platform) | Virto Commerce B2B Innovation Platform | VirtoCommerce | 1314 |
 | 305 | [KalikoCMS.Core](https://github.com/KalikoCMS/KalikoCMS.Core) | Open source content management system (CMS) for the ASP.NET platform. | KalikoCMS | 147 |
-| 306 | [SmartStoreNET](https://github.com/smartstore/SmartStoreNET) | Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution | smartstore | 2660 |
+| 306 | [SmartStoreNET](https://github.com/smartstore/SmartStoreNET) | Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution | smartstore | 2661 |
 | 307 | [aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | ASP.NET Boilerplate - Web Application Framework | aspnetboilerplate | 11994 |
 | 308 | [cms](https://github.com/ixre/cms) | DDD 开源.NET CMS、跨平台,  兼容.NET Core和ASP.NET,支持Docker容器 | ixre | 343 |
 | 309 | [WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) | 微信全平台 .NET SDK， Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 10.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#. | JeffreySu | 8906 |
 | 310 | [WeiXinSDK](https://github.com/RabbitTeam/WeiXinSDK) | 微信开发SDK。 | RabbitTeam | 172 |
-| 311 | [Mvc](https://github.com/aspnet/Mvc) | [Archived] ASP.NET Core MVC is a model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor. Project moved to https://github.com/aspnet/AspNetCore | aspnet | 5560 |
+| 311 | [Mvc](https://github.com/aspnet/Mvc) | [Archived] ASP.NET Core MVC is a model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor. Project moved to https://github.com/aspnet/AspNetCore | aspnet | 5559 |
 | 312 | [CommOAuth2](https://github.com/sloth4413/CommOAuth2) | 支持国内淘宝，支付宝，新浪，微信，腾讯微博快捷登录 | sloth4413 | 60 |
 | 313 | [Dos.ORM](https://github.com/itdos/Dos.ORM) | 此源码已迁移至 【AI 深度融合 V8引擎 的开源低代码平台】 - Microi吾码：https://microi.net | itdos | 289 |
 | 314 | [efcore](https://github.com/dotnet/efcore) | EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations. | dotnet | 14798 |
@@ -422,28 +422,28 @@
 |---|---|---|---|---|
 | 1 | [ufjs](https://github.com/snice/ufjs) | 用 Vue 3 + Vite 开发 跨端应用，Flutter渲染。 | snice | 15 |
 | 2 | [clink](https://github.com/chrisant996/clink) | Bash's powerful command line editing in cmd.exe | chrisant996 | 5548 |
-| 3 | [helium](https://github.com/imputnet/helium) | Private, fast, and honest web browser | imputnet | 21671 |
-| 4 | [oceanbase](https://github.com/oceanbase/oceanbase) | OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demanding workloads. | oceanbase | 10340 |
-| 5 | [ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) | WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT/STUN/TURN server and client framework based on C++11 | ZLMediaKit | 17623 |
-| 6 | [MTranServer](https://github.com/xxnuo/MTranServer) | Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器 | xxnuo | 4719 |
-| 7 | [Shell](https://github.com/moudey/Shell) | Powerful context menu manager for Windows File Explorer | moudey | 6911 |
-| 8 | [srs](https://github.com/ossrs/srs) | SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711. | ossrs | 29352 |
+| 3 | [helium](https://github.com/imputnet/helium) | Private, fast, and honest web browser | imputnet | 21700 |
+| 4 | [oceanbase](https://github.com/oceanbase/oceanbase) | OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demanding workloads. | oceanbase | 10342 |
+| 5 | [ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) | WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT/STUN/TURN server and client framework based on C++11 | ZLMediaKit | 17628 |
+| 6 | [MTranServer](https://github.com/xxnuo/MTranServer) | Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器 | xxnuo | 4720 |
+| 7 | [Shell](https://github.com/moudey/Shell) | Powerful context menu manager for Windows File Explorer | moudey | 6910 |
+| 8 | [srs](https://github.com/ossrs/srs) | SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711. | ossrs | 29354 |
 | 9 | [mediasoup](https://github.com/versatica/mediasoup) | Cutting Edge WebRTC Video Conferencing | versatica | 7398 |
-| 10 | [dragonfly](https://github.com/dragonflydb/dragonfly) | A modern replacement for Redis and Memcached | dragonflydb | 31790 |
-| 11 | [proxysql](https://github.com/sysown/proxysql) | High-performance proxy for MySQL and PostgreSQL | sysown | 6940 |
+| 10 | [dragonfly](https://github.com/dragonflydb/dragonfly) | A modern replacement for Redis and Memcached | dragonflydb | 31795 |
+| 11 | [proxysql](https://github.com/sysown/proxysql) | High-performance proxy for MySQL and PostgreSQL | sysown | 6939 |
 | 12 | [MaxScale](https://github.com/mariadb-corporation/MaxScale) | An intelligent database proxy. | mariadb-corporation | 1498 |
 | 13 | [electron-edge-js](https://github.com/agracio/electron-edge-js) | Run .NET code in Electron on Windows, MacOS, and Linux | agracio | 391 |
-| 14 | [winget-cli](https://github.com/microsoft/winget-cli) | WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface). | microsoft | 26510 |
-| 15 | [Qv2ray](https://github.com/Qv2ray/Qv2ray) | :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 \| ��持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 \| 使用 C++ / Qt 开发 \| 可拓展插件式设计 :star: | Qv2ray | 16883 |
-| 16 | [subconverter](https://github.com/tindy2013/subconverter) | Utility to convert between various subscription format | tindy2013 | 17093 |
-| 17 | [Trojan-Qt5](https://github.com/Trojan-Qt5/Trojan-Qt5) | Removed due to regulation | Trojan-Qt5 | 2663 |
-| 18 | [trojan](https://github.com/trojan-gfw/trojan) | An unidentifiable mechanism that helps you bypass GFW. | trojan-gfw | 19751 |
-| 19 | [Tars](https://github.com/TarsCloud/Tars) | Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule. | TarsCloud | 10080 |
-| 20 | [service-fabric](https://github.com/microsoft/service-fabric) | Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale. | microsoft | 3068 |
-| 21 | [qBittorrent](https://github.com/qbittorrent/qBittorrent) | qBittorrent BitTorrent client | qbittorrent | 40890 |
+| 14 | [winget-cli](https://github.com/microsoft/winget-cli) | WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface). | microsoft | 26511 |
+| 15 | [Qv2ray](https://github.com/Qv2ray/Qv2ray) | :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 \| 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 \| 使用 C++ / Qt 开发 \| 可拓展插件式设计 :star: | Qv2ray | 16880 |
+| 16 | [subconverter](https://github.com/tindy2013/subconverter) | Utility to convert between various subscription format | tindy2013 | 17097 |
+| 17 | [Trojan-Qt5](https://github.com/Trojan-Qt5/Trojan-Qt5) | Removed due to regulation | Trojan-Qt5 | 2662 |
+| 18 | [trojan](https://github.com/trojan-gfw/trojan) | An unidentifiable mechanism that helps you bypass GFW. | trojan-gfw | 19750 |
+| 19 | [Tars](https://github.com/TarsCloud/Tars) | Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule. | TarsCloud | 10079 |
+| 20 | [service-fabric](https://github.com/microsoft/service-fabric) | Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale. | microsoft | 3069 |
+| 21 | [qBittorrent](https://github.com/qbittorrent/qBittorrent) | qBittorrent BitTorrent client | qbittorrent | 40909 |
 | 22 | [qupzilla](https://github.com/QupZilla/qupzilla) | Cross-platform Qt web browser | QupZilla | 1133 |
-| 23 | [incubator-weex](https://github.com/apache/incubator-weex) | Apache Weex (Incubating) | apache | 13591 |
-| 24 | [shadowsocks-c](https://github.com/shadowsocks/shadowsocks-c) | Self-contained Shadowsocks implementation in C with libuv, asynchronous DNS, and portable static builds for Linux, macOS, Windows, and FreeBSD. | shadowsocks | 16184 |
+| 23 | [incubator-weex](https://github.com/apache/incubator-weex) | Apache Weex (Incubating) | apache | 13589 |
+| 24 | [shadowsocks-c](https://github.com/shadowsocks/shadowsocks-c) | Self-contained Shadowsocks implementation in C with libuv, asynchronous DNS, and portable static builds for Linux, macOS, Windows, and FreeBSD. | shadowsocks | 16186 |
 | 25 | [weex](https://github.com/alibaba/weex) | A framework for building Mobile cross-platform UI | alibaba | 18492 |
 
 **[⬆ Back to Index](#-contents)**
@@ -458,12 +458,12 @@
 | 4 | [swagger-ui-cimpress](https://github.com/Cimpress/swagger-ui-cimpress) | A swagger-ui fork with an easy to read, responsive three pane view. | Cimpress | 32 |
 | 5 | [merger](https://github.com/qr-merger/merger) | Lightweight, Integrated QR Code Payment Interface -  https://qr.huangxin.org | qr-merger | 265 |
 | 6 | [WebStorm-Chinese](https://github.com/ewen0930/WebStorm-Chinese) | WebStorm Chinese Language Pack（中文语言包） | ewen0930 | 548 |
-| 7 | [CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) | CSS Inspiration，在这里找到写 CSS 的灵感！ | chokcoco | 10844 |
-| 8 | [tachyons](https://github.com/tachyons-css/tachyons) | Functional css for humans | tachyons-css | 11724 |
+| 7 | [CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) | CSS Inspiration，在这里找到写 CSS 的灵感！ | chokcoco | 10842 |
+| 8 | [tachyons](https://github.com/tachyons-css/tachyons) | Functional css for humans | tachyons-css | 11726 |
 | 9 | [DataTables](https://github.com/DataTables/DataTables) | DataTables - legacy repo | DataTables | 7391 |
 | 10 | [WechatBribery](https://github.com/yukozh/WechatBribery) |  | yukozh | 18 |
-| 11 | [bulma](https://github.com/jgthms/bulma) | Modern CSS framework based on Flexbox | jgthms | 50037 |
-| 12 | [animate.css](https://github.com/animate-css/animate.css) | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | animate-css | 82874 |
+| 11 | [bulma](https://github.com/jgthms/bulma) | Modern CSS framework based on Flexbox | jgthms | 50039 |
+| 12 | [animate.css](https://github.com/animate-css/animate.css) | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | animate-css | 82884 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -471,8 +471,8 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [metabase](https://github.com/metabase/metabase) | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | metabase | 49721 |
-| 2 | [FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font with programming ligatures | tonsky | 82103 |
+| 1 | [metabase](https://github.com/metabase/metabase) | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | metabase | 49731 |
+| 2 | [FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font with programming ligatures | tonsky | 82106 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -481,7 +481,7 @@
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
 | 1 | [meteor-admin](https://github.com/yogiben/meteor-admin) | A complete admin dashboard solution | yogiben | 822 |
-| 2 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | No longer maintained, see pinned issues | FelisCatus | 22603 |
+| 2 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | No longer maintained, see pinned issues | FelisCatus | 22605 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -489,7 +489,7 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | flutter | 180260 |
+| 1 | [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | flutter | 180289 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -513,58 +513,58 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [magpie](https://github.com/yetone/magpie) | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. | yetone | 15456 |
-| 2 | [godoxy](https://github.com/yusing/godoxy) | High-performance reverse proxy and container orchestrator for self-hosters | yusing | 4161 |
-| 3 | [silo](https://github.com/pgsty/silo) | S3-Compatible Object Storage. A MinIO fork maintained by PGSTY | pgsty | 4164 |
-| 4 | [inbucket](https://github.com/inbucket/inbucket) | Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required. | inbucket | 2308 |
+| 1 | [magpie](https://github.com/yetone/magpie) | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. | yetone | 16670 |
+| 2 | [godoxy](https://github.com/yusing/godoxy) | High-performance reverse proxy and container orchestrator for self-hosters | yusing | 4164 |
+| 3 | [silo](https://github.com/pgsty/silo) | S3-Compatible Object Storage. A MinIO fork maintained by PGSTY | pgsty | 4184 |
+| 4 | [inbucket](https://github.com/inbucket/inbucket) | Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required. | inbucket | 2309 |
 | 5 | [portapps](https://github.com/portapps/portapps) | 🛰 Collection of portable apps for Windows | portapps | 1231 |
-| 6 | [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API | router-for-me | 55567 |
-| 7 | [crush](https://github.com/charmbracelet/crush) | Glamourous agentic coding for all 💘 | charmbracelet | 28687 |
-| 8 | [WeKnora](https://github.com/Tencent/WeKnora) | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | Tencent | 34567 |
-| 9 | [FerretDB](https://github.com/FerretDB/FerretDB) | A truly Open Source MongoDB alternative | FerretDB | 11101 |
+| 6 | [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API | router-for-me | 55671 |
+| 7 | [crush](https://github.com/charmbracelet/crush) | Glamourous agentic coding for all 💘 | charmbracelet | 28704 |
+| 8 | [WeKnora](https://github.com/Tencent/WeKnora) | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | Tencent | 34698 |
+| 9 | [FerretDB](https://github.com/FerretDB/FerretDB) | A truly Open Source MongoDB alternative | FerretDB | 11100 |
 | 10 | [cfssl](https://github.com/cloudflare/cfssl) | CFSSL: Cloudflare's PKI and TLS toolkit | cloudflare | 9487 |
-| 11 | [openresty-manager](https://github.com/Safe3/openresty-manager) | Modern, secure, and elegant server control panel, alternative to OpenResty Edge and Nginx Proxy Manager. | Safe3 | 1468 |
+| 11 | [openresty-manager](https://github.com/Safe3/openresty-manager) | Modern, secure, and elegant server control panel, alternative to OpenResty Edge and Nginx Proxy Manager. | Safe3 | 1469 |
 | 12 | [panel](https://github.com/acepanel/panel) | ⚡ AcePanel - Enterprise server operation and maintenance management panel | acepanel | 2990 |
 | 13 | [dry](https://github.com/moncho/dry) | dry - A Docker manager for the terminal @ | moncho | 3283 |
-| 14 | [certimate](https://github.com/certimate-go/certimate) | An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。 | certimate-go | 9376 |
-| 15 | [dpanel](https://github.com/donknap/dpanel) | 轻量化 docker 可视化管理面板。lightweight  panel for docker | donknap | 4147 |
-| 16 | [casdoor](https://github.com/casdoor/casdoor) | An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD | casdoor | 14597 |
-| 17 | [memos](https://github.com/usememos/memos) | A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted. | usememos | 63882 |
-| 18 | [v2rayA](https://github.com/v2rayA/v2rayA) | A web client for its own Xray-based core with global transparent proxy on Linux, Windows and macOS. | v2rayA | 15703 |
-| 19 | [CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. | IceWhaleTech | 37330 |
-| 20 | [migrate](https://github.com/golang-migrate/migrate) | Database migrations. CLI and Golang library. | golang-migrate | 18975 |
-| 21 | [res-downloader](https://github.com/putyy/res-downloader) | 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载! | putyy | 20712 |
-| 22 | [harness](https://github.com/harness/harness) | Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. | harness | 38567 |
-| 23 | [tidb](https://github.com/pingcap/tidb) | TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling. | pingcap | 40648 |
-| 24 | [vitess](https://github.com/vitessio/vitess) | Vitess is a database clustering system for horizontal scaling of MySQL. | vitessio | 21388 |
-| 25 | [mkcert](https://github.com/FiloSottile/mkcert) | A simple zero-config tool to make locally trusted development certificates with any names you'd like. | FiloSottile | 59744 |
-| 26 | [gotenberg](https://github.com/gotenberg/gotenberg) | A developer-friendly API for converting many document formats into PDF files, and more! | gotenberg | 13323 |
-| 27 | [LocalAI](https://github.com/mudler/LocalAI) | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. | mudler | 49614 |
-| 28 | [skopeo](https://github.com/podman-container-tools/skopeo) | Work with remote images registries - retrieving information, images, signing content | podman-container-tools | 11319 |
-| 29 | [go2rtc](https://github.com/AlexxIT/go2rtc) | Ultimate camera streaming application | AlexxIT | 14405 |
-| 30 | [1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform. | 1Panel-dev | 37195 |
-| 31 | [ElasticView](https://github.com/1340691923/ElasticView) | 这是一个简单易用的数据治理平台。目前，官方插件支持ElasticSearch，mysql，mongodb,redis,json管理(不再维护) | 1340691923 | 1237 |
-| 32 | [nginx-ui](https://github.com/0xJacky/nginx-ui) | Yet another WebUI for Nginx | 0xJacky | 11642 |
-| 33 | [traefik](https://github.com/traefik/traefik) | The Cloud Native Application Proxy | traefik | 65268 |
+| 14 | [certimate](https://github.com/certimate-go/certimate) | An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。 | certimate-go | 9382 |
+| 15 | [dpanel](https://github.com/donknap/dpanel) | 轻量化 docker 可视化管理面板。lightweight  panel for docker | donknap | 4146 |
+| 16 | [casdoor](https://github.com/casdoor/casdoor) | An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD | casdoor | 14599 |
+| 17 | [memos](https://github.com/usememos/memos) | A timeline for your thoughts. Just type. It stays yours. | usememos | 63909 |
+| 18 | [v2rayA](https://github.com/v2rayA/v2rayA) | A web client for its own Xray-based core with global transparent proxy on Linux, Windows and macOS. | v2rayA | 15706 |
+| 19 | [CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. | IceWhaleTech | 37335 |
+| 20 | [migrate](https://github.com/golang-migrate/migrate) | Database migrations. CLI and Golang library. | golang-migrate | 18976 |
+| 21 | [res-downloader](https://github.com/putyy/res-downloader) | 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载! | putyy | 20736 |
+| 22 | [harness](https://github.com/harness/harness) | Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. | harness | 38593 |
+| 23 | [tidb](https://github.com/pingcap/tidb) | TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling. | pingcap | 40654 |
+| 24 | [vitess](https://github.com/vitessio/vitess) | Vitess is a database clustering system for horizontal scaling of MySQL. | vitessio | 21387 |
+| 25 | [mkcert](https://github.com/FiloSottile/mkcert) | A simple zero-config tool to make locally trusted development certificates with any names you'd like. | FiloSottile | 59745 |
+| 26 | [gotenberg](https://github.com/gotenberg/gotenberg) | A developer-friendly API for converting many document formats into PDF files, and more! | gotenberg | 13346 |
+| 27 | [LocalAI](https://github.com/mudler/LocalAI) | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. | mudler | 49635 |
+| 28 | [skopeo](https://github.com/podman-container-tools/skopeo) | Work with remote images registries - retrieving information, images, signing content | podman-container-tools | 11323 |
+| 29 | [go2rtc](https://github.com/AlexxIT/go2rtc) | Ultimate camera streaming application | AlexxIT | 14414 |
+| 30 | [1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform. | 1Panel-dev | 37204 |
+| 31 | [ElasticView](https://github.com/1340691923/ElasticView) | 这是一个简单易用的数据治理平台。目前，官方插件支持ElasticSearch，mysql，mongodb,redis,json管理(不再维护) | 1340691923 | 1236 |
+| 32 | [nginx-ui](https://github.com/0xJacky/nginx-ui) | Yet another WebUI for Nginx | 0xJacky | 11646 |
+| 33 | [traefik](https://github.com/traefik/traefik) | The Cloud Native Application Proxy | traefik | 65276 |
 | 34 | [mayfly-go](https://github.com/dromara/mayfly-go) | Browser-based management platform of machine, database (mysql pgsql oracle sqlserver Gauss sqlite), redis(standalone sentinel cluster), mongo, Es unified management and operation platform. (web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、数据同步、redis(单机 哨兵 集群)、mongo、Es统一管理操作平台) | dromara | 2367 |
-| 35 | [api-server](https://github.com/openscrm/api-server) | OpenSCRM是一套基于Go和React的高质量企业微信私域流量管理系统 。遵守Apache2.0协议，全网唯一免费商用。企业微信、私域流量、SCRM。 | openscrm | 1655 |
-| 36 | [harbor](https://github.com/goharbor/harbor) | An open source trusted cloud native registry project that stores, signs, and scans content. | goharbor | 29564 |
-| 37 | [Gaea](https://github.com/XiaoMi/Gaea) | Gaea is a mysql proxy, it's developed by xiaomi b2c-dev team. | XiaoMi | 2763 |
+| 35 | [api-server](https://github.com/openscrm/api-server) | OpenSCRM是一套基于Go和React的高质量企业微信私域流量管理系统 。遵守Apache2.0协议，全网唯一免费商用。企业微信、私域流量、SCRM。 | openscrm | 1656 |
+| 36 | [harbor](https://github.com/goharbor/harbor) | An open source trusted cloud native registry project that stores, signs, and scans content. | goharbor | 29567 |
+| 37 | [Gaea](https://github.com/XiaoMi/Gaea) | Gaea is a mysql proxy, it's developed by xiaomi b2c-dev team. | XiaoMi | 2764 |
 | 38 | [stream](https://github.com/merico-ai/stream) | DevStream: the open-source DevOps toolchain manager (DTM). *Note*: We have moved to CNCF https://github.com/devstream-io/devstream. | merico-ai | 109 |
-| 39 | [open-im-server](https://github.com/openimsdk/open-im-server) | IM Chat OpenClaw | openimsdk | 16701 |
-| 40 | [dtm](https://github.com/dtm-labs/dtm) | A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages. | dtm-labs | 10919 |
-| 41 | [sealos](https://github.com/labring/sealos) | Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations. | labring | 18369 |
+| 39 | [open-im-server](https://github.com/openimsdk/open-im-server) | IM Chat OpenClaw | openimsdk | 16706 |
+| 40 | [dtm](https://github.com/dtm-labs/dtm) | A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages. | dtm-labs | 10920 |
+| 41 | [sealos](https://github.com/labring/sealos) | Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations. | labring | 18373 |
 | 42 | [minio](https://github.com/minio/minio) | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. | minio | 61317 |
-| 43 | [v2ray-core](https://github.com/v2fly/v2ray-core) | A platform for building proxies to bypass network restrictions. | v2fly | 34685 |
+| 43 | [v2ray-core](https://github.com/v2fly/v2ray-core) | A platform for building proxies to bypass network restrictions. | v2fly | 34688 |
 | 44 | [echo-scoop](https://github.com/echoiron/echo-scoop) | A bucket of commonly used portable(green) software | echoiron | 57 |
-| 45 | [cloudreve](https://github.com/cloudreve/cloudreve) | 🌩 Self-hosted file management and sharing system, supports multiple storage providers | cloudreve | 28849 |
-| 46 | [trojan](https://github.com/Jrohy/trojan) | trojan���用户管理部署程序, 支持web页面管理 | Jrohy | 5637 |
+| 45 | [cloudreve](https://github.com/cloudreve/cloudreve) | 🌩 Self-hosted file management and sharing system, supports multiple storage providers | cloudreve | 28853 |
+| 46 | [trojan](https://github.com/Jrohy/trojan) | trojan多用户管理部署程序, 支持web页面管理 | Jrohy | 5635 |
 | 47 | [mtg](https://github.com/9seconds/mtg) | Highly opinionated MTPROTO proxy for Telegram | 9seconds | 3682 |
-| 48 | [ip2region](https://github.com/lionsoul2014/ip2region) | Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programming languages | lionsoul2014 | 19687 |
-| 49 | [filebrowser](https://github.com/filebrowser/filebrowser) | File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files. | filebrowser | 35888 |
-| 50 | [gogs](https://github.com/gogs/gogs) | The painless way to host your own Git service | gogs | 47883 |
-| 51 | [v2ray-core](https://github.com/v2ray/v2ray-core) | A platform for building proxies to bypass network restrictions. | v2ray | 46919 |
-| 52 | [frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. | fatedier | 109972 |
+| 48 | [ip2region](https://github.com/lionsoul2014/ip2region) | Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programming languages | lionsoul2014 | 19695 |
+| 49 | [filebrowser](https://github.com/filebrowser/filebrowser) | File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files. | filebrowser | 35886 |
+| 50 | [gogs](https://github.com/gogs/gogs) | The painless way to host your own Git service | gogs | 47886 |
+| 51 | [v2ray-core](https://github.com/v2ray/v2ray-core) | A platform for building proxies to bypass network restrictions. | v2ray | 46921 |
+| 52 | [frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. | fatedier | 109992 |
 | 53 | [ngrok](https://github.com/inconshreveable/ngrok) | Unified ingress for developers | inconshreveable | 24404 |
 
 **[⬆ Back to Index](#-contents)**
@@ -573,29 +573,29 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [PakePlus](https://github.com/Sjj1024/PakePlus) | Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app | Sjj1024 | 15360 |
-| 2 | [zoraxy](https://github.com/tobychui/zoraxy) | A general purpose HTTP reverse proxy and forwarding tool. Now written in Go! | tobychui | 5523 |
+| 1 | [PakePlus](https://github.com/Sjj1024/PakePlus) | Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app | Sjj1024 | 15387 |
+| 2 | [zoraxy](https://github.com/tobychui/zoraxy) | A general purpose HTTP reverse proxy and forwarding tool. Now written in Go! | tobychui | 5527 |
 | 3 | [report-designer](https://github.com/xinglie/report-designer) | ⚡设计、可视化、标签、编辑器、设计器、报表、流程图、试卷、SVG、物联网、小票、打印、套打 | xinglie | 1289 |
-| 4 | [bug](https://github.com/liu673cn/bug) | TVbox开源版（空壳-自行配置） | liu673cn | 10322 |
-| 5 | [webmin](https://github.com/webmin/webmin) | Powerful and flexible web-based server management control panel | webmin | 6094 |
+| 4 | [bug](https://github.com/liu673cn/bug) | TVbox开源版（空壳-自行配置） | liu673cn | 10324 |
+| 5 | [webmin](https://github.com/webmin/webmin) | Powerful and flexible web-based server management control panel | webmin | 6093 |
 | 6 | [stream-ui-kit](https://github.com/htmlstreamofficial/stream-ui-kit) | Stream - UI Kit. A beautiful Open Source Bootstrap 4 UI Kit under MIT license for better web! | htmlstreamofficial | 340 |
 | 7 | [AspNetCore2CoreUI](https://github.com/mvelosop/AspNetCore2CoreUI) | ASP.NET MVC Core 2 project using CoreUI.io template | mvelosop | 88 |
-| 8 | [dotnet](https://github.com/microsoft/dotnet) | This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation. | microsoft | 15112 |
-| 9 | [skill-map](https://github.com/TeamStuQ/skill-map) | 程序员技能图谱 | TeamStuQ | 22035 |
+| 8 | [dotnet](https://github.com/microsoft/dotnet) | This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation. | microsoft | 15113 |
+| 9 | [skill-map](https://github.com/TeamStuQ/skill-map) | 程序员技能图谱 | TeamStuQ | 22040 |
 | 10 | [vertical-center](https://github.com/yanhaijing/vertical-center) | 水平垂直居中，这是一道面试必考题，^_^ | yanhaijing | 431 |
-| 11 | [weui](https://github.com/Tencent/weui) | A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications. | Tencent | 27445 |
+| 11 | [weui](https://github.com/Tencent/weui) | A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications. | Tencent | 27444 |
 | 12 | [uikit](https://github.com/uikit/uikit) | A lightweight and modular front-end framework for developing fast and powerful web interfaces | uikit | 18533 |
 | 13 | [bulmaswatch](https://github.com/jenil/bulmaswatch) | Themes for Bulma | jenil | 1640 |
 | 14 | [PIE](https://github.com/lojjic/PIE) | A behavior for Internet Explorer allowing it to recognize and render various CSS3 box decoration properties | lojjic | 2760 |
-| 15 | [gentelella](https://github.com/ColorlibHQ/gentelella) | Free admin dashboard template — vanilla JS, SCSS, Vite 8. No Bootstrap, no jQuery. | ColorlibHQ | 21549 |
+| 15 | [gentelella](https://github.com/ColorlibHQ/gentelella) | Free admin dashboard template — vanilla JS, SCSS, Vite 8. No Bootstrap, no jQuery. | ColorlibHQ | 21548 |
 | 16 | [fastclick](https://github.com/ftlabs/fastclick) | Polyfill to remove click delays on browsers with touch UIs | ftlabs | 18501 |
-| 17 | [coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) | Free Bootstrap Admin & Dashboard Template Built for AI-Assisted Development | coreui | 12252 |
-| 18 | [zTree_v3](https://github.com/zTree/zTree_v3) | jQuery Tree Plugin | zTree | 4116 |
-| 19 | [EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) | open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture. | EasyDarwin | 6842 |
-| 20 | [chosen](https://github.com/harvesthq/chosen) | Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly. | harvesthq | 21925 |
+| 17 | [coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) | Free Bootstrap Admin & Dashboard Template Built for AI-Assisted Development | coreui | 12251 |
+| 18 | [zTree_v3](https://github.com/zTree/zTree_v3) | jQuery Tree Plugin | zTree | 4115 |
+| 19 | [EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) | open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture. | EasyDarwin | 6841 |
+| 20 | [chosen](https://github.com/harvesthq/chosen) | Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly. | harvesthq | 21923 |
 | 21 | [aui](https://github.com/liulangnan/aui) | 移动端UI快速布局解决方案，一个靠谱的高性能移动前端框架 | liulangnan | 972 |
 | 22 | [frozenui](https://github.com/frozenui/frozenui) | FrozenUI的CSS组件库，基于腾讯手Q样式规范，腾讯QXD出品 | frozenui | 2980 |
-| 23 | [zepto](https://github.com/madrobby/zepto) | Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API | madrobby | 15060 |
+| 23 | [zepto](https://github.com/madrobby/zepto) | Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API | madrobby | 15059 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -603,26 +603,26 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [dataease](https://github.com/dataease/dataease) | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. | dataease | 24615 |
-| 2 | [Jpom](https://github.com/dromara/Jpom) | 【dromara】🚀简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件 | dromara | 1948 |
-| 3 | [APIJSON](https://github.com/APIJSON/APIJSON) | 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 | APIJSON | 18390 |
-| 4 | [SmartTube](https://github.com/yuliskov/SmartTube) | Browse media content with your own rules on Android TV | yuliskov | 35105 |
+| 1 | [dataease](https://github.com/dataease/dataease) | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. | dataease | 24617 |
+| 2 | [Jpom](https://github.com/dromara/Jpom) | 【dromara】���简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件 | dromara | 1948 |
+| 3 | [APIJSON](https://github.com/APIJSON/APIJSON) | 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 | APIJSON | 18391 |
+| 4 | [SmartTube](https://github.com/yuliskov/SmartTube) | Browse media content with your own rules on Android TV | yuliskov | 35144 |
 | 5 | [polardbx-sql](https://github.com/polardb/polardbx-sql) | PolarDB-X is a cloud native distributed SQL Database designed for high concurrency, massive storage, complex querying scenarios. | polardb | 1686 |
-| 6 | [dbeaver](https://github.com/dbeaver/dbeaver) | Free universal database tool and SQL client | dbeaver | 52110 |
-| 7 | [canal](https://github.com/alibaba/canal) | 阿里巴巴 MySQL binlog 增量订阅&消费组件  | alibaba | 29737 |
-| 8 | [advanced-java](https://github.com/doocs/advanced-java) | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers \| 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 | doocs | 79154 |
+| 6 | [dbeaver](https://github.com/dbeaver/dbeaver) | Free universal database tool and SQL client | dbeaver | 52131 |
+| 7 | [canal](https://github.com/alibaba/canal) | 阿里巴巴 MySQL binlog 增量订阅&消费组件  | alibaba | 29735 |
+| 8 | [advanced-java](https://github.com/doocs/advanced-java) | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers \| 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 | doocs | 79158 |
 | 9 | [XposedInstaller](https://github.com/rovo89/XposedInstaller) |  | rovo89 | 3981 |
-| 10 | [proxyee-down](https://github.com/proxyee-down-org/proxyee-down) | http下载工具，基于http代理，支持多连接分块下载 | proxyee-down-org | 24626 |
-| 11 | [apollo](https://github.com/apolloconfig/apollo) | Apollo is a reliable configuration management system suitable for microservice configuration management scenarios. | apolloconfig | 29820 |
+| 10 | [proxyee-down](https://github.com/proxyee-down-org/proxyee-down) | http下载工具，基于http代理，支持多连接分块下载 | proxyee-down-org | 24625 |
+| 11 | [apollo](https://github.com/apolloconfig/apollo) | Apollo is a reliable configuration management system suitable for microservice configuration management scenarios. | apolloconfig | 29818 |
 | 12 | [Unblock163MusicClient-Xposed](https://github.com/bin456789/Unblock163MusicClient-Xposed) | Unblock 163 Cloud Music Android client through Xposed. | bin456789 | 2493 |
-| 13 | [lanproxy](https://github.com/ffay/lanproxy) | lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面、http代理、https代理、socks5代理...）。技术交流QQ群 736294209 | ffay | 5847 |
+| 13 | [lanproxy](https://github.com/ffay/lanproxy) | lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面、http代理、https代理、socks5代理...）。技术交流QQ群 736294209 | ffay | 5846 |
 | 14 | [OnePush](https://github.com/vicc1024/OnePush) | 消息推送用OnePush，就够了！ | vicc1024 | 1424 |
 | 15 | [dal](https://github.com/ctripcorp/dal) | Ctrip Database Access Layer | ctripcorp | 1249 |
 | 16 | [spring-boot-samples](https://github.com/netgloo/spring-boot-samples) | Spring Boot samples by Netgloo | netgloo | 1498 |
-| 17 | [hsweb-framework](https://github.com/hs-web/hsweb-framework) | hsweb (haʊs wɛb) 是一个基于spring-boot 2.x开发 ,首个使用全响应式编程的企业级后台管理系统基础项目。 | hs-web | 8395 |
-| 18 | [spring-boot](https://github.com/spring-projects/spring-boot) | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. | spring-projects | 81708 |
+| 17 | [hsweb-framework](https://github.com/hs-web/hsweb-framework) | hsweb (haʊs wɛb) 是一个基于spring-boot 2.x开发 ,首个使用全响应式编程的企业级后台管理系统基础项目。 | hs-web | 8394 |
+| 18 | [spring-boot](https://github.com/spring-projects/spring-boot) | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. | spring-projects | 81780 |
 | 19 | [swagger-core](https://github.com/swagger-api/swagger-core) | Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API | swagger-api | 7530 |
-| 20 | [SmarterStreaming](https://github.com/daniulive/SmarterStreaming) | 业内为数不多致力于极致体验的超强全自研跨平台(windows/linux/android/iOS)流媒体内核，通过模块化自由组合，支持实时RTMP推流、RTSP推流、RTMP播放器、RTSP播放器、录像、多路流媒体转发、音视频导播、动态视频合成、音频混音、直播互动、内置轻量级RTSP服务等，比快更快，业界真正靠谱的超低延迟直播SDK(延迟低至100~200ms)。 | daniulive | 11170 |
+| 20 | [SmarterStreaming](https://github.com/daniulive/SmarterStreaming) | 业内为数不多致力于极致体验的超强全自研跨平台(windows/linux/android/iOS)流媒体内核，通过模块化自由组合，支持实时RTMP推流、RTSP推流、RTMP播放器、RTSP播放器、录像、多路流媒体转发、音视频导播、动态视频合成、音频混音、直播互动、内置轻量级RTSP服务等，比快更快，业界真正靠谱的超低延迟直播SDK(延迟低至100~200ms)。 | daniulive | 11171 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -630,128 +630,128 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [linuxdo-idea-ui](https://github.com/czm15053/linuxdo-idea-ui) | 给 linux.do 换���的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据 | czm15053 | 594 |
-| 2 | [makemeahanzi](https://github.com/skishore/makemeahanzi) | Free, open-source Chinese character data | skishore | 2720 |
-| 3 | [LinkSwift](https://github.com/hmjz100/LinkSwift) | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘 | hmjz100 | 24515 |
-| 4 | [DoraCMS](https://github.com/doramart/DoraCMS) | DoraCMS 是一个基于 EggJS 3.x + Vue 3 + TypeScript 的现代化内容管理系统，采用 pnpm monorepo 架构管理。它不仅仅是一个 CMS 系统，更是一个优秀的企业级应用架构实践。 | doramart | 3547 |
-| 5 | [AIClient2API](https://github.com/justlovemaki/AIClient2API) | Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Supports OpenAI-compatible API, Claude API, Gemini protocol conversion, GPT, Grok Build, Claude Opus, Gemini Pro, Kimi, MiniMax, provider pools, smart routing, and automatic failover. | justlovemaki | 8896 |
+| 1 | [linuxdo-idea-ui](https://github.com/czm15053/linuxdo-idea-ui) | 给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据 | czm15053 | 594 |
+| 2 | [makemeahanzi](https://github.com/skishore/makemeahanzi) | Free, open-source Chinese character data | skishore | 2723 |
+| 3 | [LinkSwift](https://github.com/hmjz100/LinkSwift) | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘 | hmjz100 | 25740 |
+| 4 | [DoraCMS](https://github.com/doramart/DoraCMS) | DoraCMS 是一个基于 EggJS 3.x + Vue 3 + TypeScript 的现代化内容管理系统，采用 pnpm monorepo 架构管理。它不仅仅是一个 CMS 系统，更是一个优秀的企业级应用架构实践。 | doramart | 3548 |
+| 5 | [AIClient2API](https://github.com/justlovemaki/AIClient2API) | Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Supports OpenAI-compatible API, Claude API, Gemini protocol conversion, GPT, Grok Build, Claude Opus, Gemini Pro, Kimi, MiniMax, provider pools, smart routing, and automatic failover. | justlovemaki | 8899 |
 | 6 | [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) | 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新 | zhaoolee | 25896 |
 | 7 | [mkcertWeb](https://github.com/jeffcaldwellca/mkcertWeb) | Self-hosted web UI for mkcert: generate, download and monitor locally-trusted SSL certificates, with SCEP enrollment, SSO and Docker. | jeffcaldwellca | 220 |
-| 8 | [qqwry.dat](https://github.com/metowolf/qqwry.dat) | 纯真 IP 数据库同步仓库（2026 年持续更新中） | metowolf | 591 |
-| 9 | [n8n-i18n-chinese](https://github.com/other-blowsnow/n8n-i18n-chinese) | n8n 配置多语言 | other-blowsnow | 2174 |
+| 8 | [qqwry.dat](https://github.com/metowolf/qqwry.dat) | 纯真 IP 数据库同步仓库（2026 年持续更新中） | metowolf | 592 |
+| 9 | [n8n-i18n-chinese](https://github.com/other-blowsnow/n8n-i18n-chinese) | n8n 配置多语言 | other-blowsnow | 2176 |
 | 10 | [uapp](https://github.com/uappx/uapp) | uapp是一款基于uni-app跨平台开发的高效cli。 源自自有产品跨平台的最佳实践，通过集成 uni-app, electron, tauri，让开发者仅需维护一套代码，就能横跨所有平台。uapp助开发者无限制重构一切软件。 | uappx | 671 |
 | 11 | [xeokit-convert](https://github.com/xeokit/xeokit-convert) | Convert various AEC model formats for efficient viewing  in the browser with xeokit. | xeokit | 86 |
-| 12 | [drawdb](https://github.com/drawdb-io/drawdb) | Free, simple, and intuitive online database diagram editor and SQL generator. | drawdb-io | 40064 |
-| 13 | [sublink-worker](https://github.com/7Sageer/sublink-worker) | One Worker, All Subscriptions | 7Sageer | 5500 |
-| 14 | [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | 抖音 / TikTok 平台作品下载/数据采集工具 | JoeanAmier | 16937 |
-| 15 | [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) | 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具 | JoeanAmier | 13040 |
-| 16 | [electerm](https://github.com/electerm/electerm) | 📻Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS) | electerm | 15387 |
-| 17 | [NotionNext](https://github.com/notionnext-org/NotionNext) | Turn your Notion workspace into a fast, customizable website. Built with Next.js + Notion API, with multi-platform deployment and no self-hosted server required. | notionnext-org | 11862 |
+| 12 | [drawdb](https://github.com/drawdb-io/drawdb) | Free, simple, and intuitive online database diagram editor and SQL generator. | drawdb-io | 40078 |
+| 13 | [sublink-worker](https://github.com/7Sageer/sublink-worker) | One Worker, All Subscriptions | 7Sageer | 5502 |
+| 14 | [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | 抖音 / TikTok 平台作品下载/数据采集工具 | JoeanAmier | 16973 |
+| 15 | [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) | 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具 | JoeanAmier | 13054 |
+| 16 | [electerm](https://github.com/electerm/electerm) | 📻Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS) | electerm | 15393 |
+| 17 | [NotionNext](https://github.com/notionnext-org/NotionNext) | Turn your Notion workspace into a fast, customizable website. Built with Next.js + Notion API, with multi-platform deployment and no self-hosted server required. | notionnext-org | 11864 |
 | 18 | [markdown-nice](https://github.com/mdnice/markdown-nice) | 支持主题设计的 Markdown 编辑器，让排版变 Nice | mdnice | 4676 |
 | 19 | [crontab-ui](https://github.com/alseambusher/crontab-ui) | Easy and safe way to manage your crontab file | alseambusher | 3283 |
-| 20 | [edgetunnel](https://github.com/cmliu/edgetunnel) | edgetunnel2 VLESS/Trojan/SS 多功能面板 | cmliu | 47745 |
-| 21 | [one-api](https://github.com/songquanpeng/one-api) | LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI. | songquanpeng | 37193 |
+| 20 | [edgetunnel](https://github.com/cmliu/edgetunnel) | edgetunnel2 VLESS/Trojan/SS 多功能面板 | cmliu | 47837 |
+| 21 | [one-api](https://github.com/songquanpeng/one-api) | LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI. | songquanpeng | 37199 |
 | 22 | [openwrt-packages](https://github.com/haiibo/openwrt-packages) | 常用 OpenWrt 软件包合集，定时自动更新，适用于 Lean 源码 | haiibo | 303 |
 | 23 | [ToolGood.Words](https://github.com/toolgood/ToolGood.Words) | 一款高性能敏感词(非法词/脏字)检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。 | toolgood | 5188 |
-| 24 | [homepage](https://github.com/gethomepage/homepage) | A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. | gethomepage | 33210 |
-| 25 | [TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) | TikTok 無需拔卡解鎖最新支援  iPhone &iPad 、TikTok&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！ | Semporia | 12176 |
-| 26 | [Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) | A URL Shortener created using Cloudflare worker | xyTom | 1779 |
-| 27 | [nginx-proxy-manager-zh](https://github.com/xiaoxinpro/nginx-proxy-manager-zh) | 基于nginx-proxy-manager翻译的中文版本 | xiaoxinpro | 1431 |
+| 24 | [homepage](https://github.com/gethomepage/homepage) | A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. | gethomepage | 33221 |
+| 25 | [TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) | TikTok 無需拔卡解鎖最新支援  iPhone &iPad 、TikTok&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！ | Semporia | 12175 |
+| 26 | [Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) | A URL Shortener created using Cloudflare worker | xyTom | 1781 |
+| 27 | [nginx-proxy-manager-zh](https://github.com/xiaoxinpro/nginx-proxy-manager-zh) | 基于nginx-proxy-manager翻译的中文版本 | xiaoxinpro | 1430 |
 | 28 | [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) | :guide_dog: Powerful lowcode\|vue form editor,generator,designer,builder library. It provides an easy way to create custom forms. The project is extensible, easy to use and configure, and provides many commonly used form components and functions(vue可视化低代码表单设计器、表单编辑器、element-plus vant表单设计) | Liberty-liu | 512 |
-| 29 | [ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) | 分流规则、重写写规则及脚本。 | blackmatrix7 | 28319 |
+| 29 | [ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) | 分流规则、重写写规则及脚本。 | blackmatrix7 | 28333 |
 | 30 | [dejavu](https://github.com/appbaseio/dejavu) | A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs. | appbaseio | 8468 |
-| 31 | [dotNetify](https://github.com/dsuryd/dotNetify) | Simple, lightweight, yet powerful way to build real-time web apps. | dsuryd | 1199 |
+| 31 | [dotNetify](https://github.com/dsuryd/dotNetify) | Simple, lightweight, yet powerful way to build real-time web apps. | dsuryd | 1198 |
 | 32 | [vue-plugin-hiprint](https://github.com/CcSimple/vue-plugin-hiprint) | hiprint for Vue2/Vue3 ⚡打印、打印设计、可视化设计器、报表设计、元素编辑、可视化打印编辑 | CcSimple | 1739 |
 | 33 | [kr-print-designer](https://github.com/myliuxia/kr-print-designer) | 一个基于Vue、ElementUi、Lodop的打印模板设计器。实现打印模板的设计、预览和打印功能。 | myliuxia | 328 |
-| 34 | [certd](https://github.com/certd/certd) | 开源SSL证书管理工具；全自动证书申请、更新、续期；通配符证书，泛域名证书申请；证书自动化部署到阿里云、腾讯云、主机、群晖、宝塔；https证书，pfx证书，der证书，TLS证书，nginx证书自动续签自动部署 | certd | 5066 |
+| 34 | [certd](https://github.com/certd/certd) | 开源SSL证书管理工具；全自动证书申请、更新、续期；通配符证书，泛域名证书申请；证书自动化部署到阿里云、腾讯云、主机、群晖、宝塔；https证书，pfx证书，der证书，TLS证书，nginx证书自动续签自动部署 | certd | 5067 |
 | 35 | [avue](https://github.com/nmxiaowei/avue) | Avue.js2.0是基于现有的element-ui库进行的二次封装，简化一些繁琐的操作，核心理念为数据驱动视图,主要的组件库针对table表格和form表单场景，同时衍生出更多企业常用的组件，达到高复用，容易维护和扩展的框架，同时内置了丰富了数据展示组件，让开发变得更加容易 | nmxiaowei | 2301 |
 | 36 | [chameleon](https://github.com/didi/chameleon) | 🦎 一套代码运行多端，一端所见即多端所见 | didi | 8941 |
-| 37 | [form-create](https://github.com/xaboy/form-create) | :fire::fire::fire: 强大的低代码动态表单组件，通过 JSON 数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。 | xaboy | 7103 |
-| 38 | [feather](https://github.com/feathericons/feather) | Simply beautiful open-source icons | feathericons | 26014 |
-| 39 | [mpx](https://github.com/didi/mpx) | Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架 | didi | 3945 |
+| 37 | [form-create](https://github.com/xaboy/form-create) | :fire::fire::fire: 强大的低代码动态表单组件，通过 JSON 数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。 | xaboy | 7104 |
+| 38 | [feather](https://github.com/feathericons/feather) | Simply beautiful open-source icons | feathericons | 26015 |
+| 39 | [mpx](https://github.com/didi/mpx) | Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架 | didi | 3946 |
 | 40 | [ant-simple-pro](https://github.com/lgf196/ant-simple-pro) | 简洁，美观，快速上手，支持3大框架(vue3.0,react,angular,typescript)；Concise, beautiful, quick to get started, support 3 big frameworks | lgf196 | 389 |
 | 41 | [veui](https://github.com/ecomfe/veui) | Enterprise UI for Vue.js. | ecomfe | 1062 |
 | 42 | [miniprogram-to-uniapp](https://github.com/zhangdaren/miniprogram-to-uniapp) | 轻松将各种小程序转换为uni-app项目 | zhangdaren | 1807 |
-| 43 | [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) | H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks. \| 让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台. | MrXujiang | 10003 |
-| 44 | [docker.kitematic](https://github.com/docker-archive-public/docker.kitematic) | Visual Docker Container Management on Mac & Windows | docker-archive-public | 12119 |
-| 45 | [docsify](https://github.com/docsifyjs/docsify) | 🃏 A magical documentation site generator. | docsifyjs | 31550 |
-| 46 | [electron-vue](https://github.com/SimulatedGREG/electron-vue) | An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack. | SimulatedGREG | 15352 |
+| 43 | [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) | H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks. \| 让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台. | MrXujiang | 10005 |
+| 44 | [docker.kitematic](https://github.com/docker-archive-public/docker.kitematic) | Visual Docker Container Management on Mac & Windows | docker-archive-public | 12120 |
+| 45 | [docsify](https://github.com/docsifyjs/docsify) | 🃏 A magical documentation site generator. | docsifyjs | 31553 |
+| 46 | [electron-vue](https://github.com/SimulatedGREG/electron-vue) | An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack. | SimulatedGREG | 15351 |
 | 47 | [mp-html](https://github.com/jin-yufeng/mp-html) | 小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用 | jin-yufeng | 3754 |
 | 48 | [vue-html5-editor](https://github.com/PeakTai/vue-html5-editor) | An html5 wysiwyg editor for vue | PeakTai | 948 |
 | 49 | [nei-toolkit](https://github.com/NEIAPI/nei-toolkit) | NEI 接口文档管理平台配套自动化工具 | NEIAPI | 801 |
-| 50 | [kbone](https://github.com/Tencent/kbone) | 一个致力于微信小程序和 Web 端同构的解决方案 | Tencent | 4917 |
+| 50 | [kbone](https://github.com/Tencent/kbone) | 一个致力于微信小程序和 Web 端同构的解决方案 | Tencent | 4918 |
 | 51 | [vue-cli4-config](https://github.com/staven630/vue-cli4-config) | vue-cli4配置vue.config.js持续更新 | staven630 | 2631 |
-| 52 | [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) | The official Semantic-UI-React integration | Semantic-Org | 13199 |
-| 53 | [evil-huawei](https://github.com/evil-huawei/evil-huawei) | Evil Huawei - 华为作过的恶 | evil-huawei | 9479 |
+| 52 | [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) | The official Semantic-UI-React integration | Semantic-Org | 13200 |
+| 53 | [evil-huawei](https://github.com/evil-huawei/evil-huawei) | Evil Huawei - 华为作过的恶 | evil-huawei | 9480 |
 | 54 | [Chart.js](https://github.com/chartjs/Chart.js) | Simple HTML5 Charts using the <canvas> tag | chartjs | 67746 |
-| 55 | [wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) | 微信小程序商城，微信小程序微店 | EastWorld | 21873 |
-| 56 | [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) | 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac. | qishibo | 34809 |
-| 57 | [GM_script](https://github.com/langren1353/GM_script) | 我就是来分享脚本玩玩的 | langren1353 | 6057 |
+| 55 | [wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) | 微信小程序商城，微信小程序微店 | EastWorld | 21872 |
+| 56 | [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) | 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac. | qishibo | 34812 |
+| 57 | [GM_script](https://github.com/langren1353/GM_script) | 我就是来分享脚本玩玩的 | langren1353 | 6058 |
 | 58 | [neditor](https://github.com/notadd/neditor) | 基于 ueditor的更现代化的富文本编辑器，支持HTTPS | notadd | 1878 |
 | 59 | [jquery-weui](https://github.com/lihongxun945/jquery-weui) | 由于前端业界早已以React/Vue/Angular为主，个人也多年未使用过jQuery，此仓库已不再维护。推荐大家尽快转向 AntD、Element等更先进的UI库，https://ant.design/, https://element.eleme.io/#/zh-CN | lihongxun945 | 4409 |
-| 60 | [AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov) | 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2026年04月03日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、中国•国家地名信息库、统计局、高德地图、腾讯地图行政区划数据 | xiangyuecn | 6935 |
-| 61 | [bootswatch](https://github.com/thomaspark/bootswatch) | Themes for Bootstrap | thomaspark | 14747 |
+| 60 | [AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov) | 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2026年04月03日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、中国•国家地名信息库、统计局、高德地图、腾讯地图行政区划数据 | xiangyuecn | 6938 |
+| 61 | [bootswatch](https://github.com/thomaspark/bootswatch) | Themes for Bootstrap | thomaspark | 14748 |
 | 62 | [echo](https://github.com/toddmotto/echo) | Lazy-loading images with data-* attributes | toddmotto | 3692 |
 | 63 | [HexoEditor](https://github.com/zhuzhuyule/HexoEditor) | this markdown Editor for hexo blog | zhuzhuyule | 1226 |
-| 64 | [uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | gorhill | 68641 |
-| 65 | [BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) | This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App | BoostIO | 16871 |
-| 66 | [vant-weapp](https://github.com/youzan/vant-weapp) | 轻量、可靠的小程序 UI 组件库 | youzan | 18463 |
+| 64 | [uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | gorhill | 68667 |
+| 65 | [BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) | This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App | BoostIO | 16872 |
+| 66 | [vant-weapp](https://github.com/youzan/vant-weapp) | 轻量、可靠的小程序 UI 组件库 | youzan | 18464 |
 | 67 | [Kooboo](https://github.com/Kooboo/Kooboo) | High-performance platform for building websites, e-commerce, and web applications—with Native AI, JavaScript development, and a marketplace for portable sites and apps. | Kooboo | 344 |
 | 68 | [Photon](https://github.com/zmzhang8/Photon) | A lightweight multi-threaded downloader based on aria2. | zmzhang8 | 2985 |
-| 69 | [octotree](https://github.com/ovity/octotree) | GitHub on steroids | ovity | 23284 |
+| 69 | [octotree](https://github.com/ovity/octotree) | GitHub on steroids | ovity | 23286 |
 | 70 | [westore](https://github.com/Tencent/westore) | 小程序MVVM分层架构 | Tencent | 4284 |
-| 71 | [d2-admin](https://github.com/d2-projects/d2-admin) | An elegant dashboard | d2-projects | 12616 |
+| 71 | [d2-admin](https://github.com/d2-projects/d2-admin) | An elegant dashboard | d2-projects | 12614 |
 | 72 | [OpenAuth.Core](https://github.com/yubaolee/OpenAuth.Core) | .Net Core/.Net 5快速应用开发框架、最好用的权限工作流系统。基于经典领域驱动设计的权限管理及快速开发框架，源于Martin Fowler企业级应用开发思想及最新技术组合（IdentityServer、EF core、Quartz、AutoFac、WebAPI、Swagger、Mock、NUnit、VUE、Element-ui等）。已成功在docker/jenkins中实施。核心模块包括：组织机构、角色用户、权限授权、表单设计、工作流等。它的架构精良易于扩展，是中小企业的首选。 | yubaolee | 886 |
 | 73 | [ivideo](https://github.com/phobal/ivideo) | 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform | phobal | 11813 |
 | 74 | [SoundPirate](https://github.com/seekerlee/SoundPirate) | Chrome 插件：声海盗，下载在线音乐插件，支持豆瓣，虾米，QQ音乐，网易云音乐等 | seekerlee | 537 |
 | 75 | [multi-select](https://github.com/lou/multi-select) | A user-friendlier drop-in replacement for the standard select with multiple attribute activated. | lou | 1885 |
 | 76 | [velocity](https://github.com/julianshapiro/velocity) | Accelerated JavaScript animation. | julianshapiro | 17187 |
 | 77 | [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) | JavaScript image gallery for mobile and desktop, modular, framework independent | dimsemenov | 25279 |
-| 78 | [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | 中国程序员容易发音错误的单词 | shimohq | 23321 |
-| 79 | [dayjs](https://github.com/iamkun/dayjs) | ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API | iamkun | 48659 |
+| 78 | [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | 中国程序员容易发音错误的单词 | shimohq | 23324 |
+| 79 | [dayjs](https://github.com/iamkun/dayjs) | ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API | iamkun | 48661 |
 | 80 | [nerv](https://github.com/NervJS/nerv) | A blazing fast React alternative, compatible with IE8 and React 16. | NervJS | 5409 |
-| 81 | [qrcodejs](https://github.com/davidshimjs/qrcodejs) | Cross-browser QRCode generator for javascript | davidshimjs | 14312 |
-| 82 | [web-uploader](https://github.com/devin87/web-uploader) | 轻量级 web (html5 + html4) 文件上传组件，纯js，支持上传进度显示，支持秒传+分片上传+断点��传，支持图片预览及缩放，支持文件夹上传，支持 IE6+、Firefox、Chrome等 | devin87 | 463 |
-| 83 | [DeerResume](https://github.com/geekcompany/DeerResume) | MarkDown在线简��工具，可在线预览、编辑和生成PDF。[此项目已不再维护，建议使用 cv.ftqq.com 替代 ] | geekcompany | 3456 |
+| 81 | [qrcodejs](https://github.com/davidshimjs/qrcodejs) | Cross-browser QRCode generator for javascript | davidshimjs | 14311 |
+| 82 | [web-uploader](https://github.com/devin87/web-uploader) | 轻量级 web (html5 + html4) 文件上传组件，纯js，支持上传进度显示，支持秒传+分片上传+断点续传，支持图片预览及缩放，支持文件夹上传，支持 IE6+、Firefox、Chrome等 | devin87 | 463 |
+| 83 | [DeerResume](https://github.com/geekcompany/DeerResume) | MarkDown在线简历工具，可在线预览、编辑和生成PDF。[此项目已不再维护，建议使用 cv.ftqq.com 替代 ] | geekcompany | 3456 |
 | 84 | [Flarum](https://github.com/justjavac/Flarum) | Flarum - 优雅自由的 PHP 轻社区 | justjavac | 1543 |
-| 85 | [MKOnlineMusicPlayer](https://github.com/mengkunsoft/MKOnlineMusicPlayer) | ⛔【停止维护】一个在线音乐播放器（仅 UI，无功能） | mengkunsoft | 1931 |
+| 85 | [MKOnlineMusicPlayer](https://github.com/mengkunsoft/MKOnlineMusicPlayer) | ⛔【停止维护】一个在线音��播放器（仅 UI，无功能） | mengkunsoft | 1931 |
 | 86 | [html5ImgCompress](https://github.com/mhbseal/html5ImgCompress) | html5图片压缩，支持pc，mobile（ios/android）和multiple | mhbseal | 293 |
-| 87 | [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) | The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 | chinese-poetry | 53761 |
+| 87 | [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) | The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 | chinese-poetry | 53777 |
 | 88 | [recorder.js](https://github.com/feilongcheng/recorder.js) | :microphone:HTML5 Recorder - mp3 output | feilongcheng | 233 |
-| 89 | [yapi](https://github.com/YMFE/yapi) | YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 | YMFE | 27704 |
+| 89 | [yapi](https://github.com/YMFE/yapi) | YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 | YMFE | 27703 |
 | 90 | [fetch](https://github.com/JakeChampion/fetch) | A window.fetch JavaScript polyfill. | JakeChampion | 25835 |
-| 91 | [editor.md](https://github.com/pandao/editor.md) | The open source embeddable online markdown editor (component). | pandao | 14309 |
-| 92 | [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) | 中华人民共和国���政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。 | modood | 20979 |
+| 91 | [editor.md](https://github.com/pandao/editor.md) | The open source embeddable online markdown editor (component). | pandao | 14307 |
+| 92 | [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) | 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。 | modood | 20979 |
 | 93 | [CMS](https://github.com/Kooboo/CMS) | Old Kooboo CMS, Use Kooboo/Kooboo instead. | Kooboo | 335 |
 | 94 | [fullPage.js](https://github.com/alvarotrigo/fullPage.js) | fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple | alvarotrigo | 35376 |
 | 95 | [vue-typescript](https://github.com/MMF-FE/vue-typescript) | vue2.x typescript template | MMF-FE | 87 |
 | 96 | [cube-ui](https://github.com/didi/cube-ui) | :large_orange_diamond: A fantastic mobile ui lib implement by Vue | didi | 9093 |
-| 97 | [ckeditor5](https://github.com/ckeditor/ckeditor5) | Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing. | ckeditor | 10510 |
+| 97 | [ckeditor5](https://github.com/ckeditor/ckeditor5) | Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing. | ckeditor | 10512 |
 | 98 | [ckeditor4-releases](https://github.com/ckeditor/ckeditor4-releases) | Official distribution releases of CKEditor 4. | ckeditor | 519 |
-| 99 | [moon](https://github.com/kbrsh/moon) | �� The minimal & fast library for functional user interfaces | kbrsh | 5948 |
+| 99 | [moon](https://github.com/kbrsh/moon) | 🌙 The minimal & fast library for functional user interfaces | kbrsh | 5948 |
 | 100 | [zooming](https://github.com/kingdido999/zooming) | 🔍 Image zoom that makes sense. | kingdido999 | 1608 |
 | 101 | [lazysizes](https://github.com/aFarkas/lazysizes) | High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration. | aFarkas | 17709 |
 | 102 | [vuikit](https://github.com/vuikit/vuikit) | A responsive Vue UI library for web site interfaces | vuikit | 1458 |
 | 103 | [m-mall](https://github.com/skyvow/m-mall) | :dog: 微信小程序-小商城前台（基于 WeUI.wxss、ES6 前端技术开发...） | skyvow | 1551 |
 | 104 | [DPlayer](https://github.com/DIYgod/DPlayer) | :lollipop: Wow, such a lovely HTML5 danmaku video player | DIYgod | 16516 |
-| 105 | [APlayer](https://github.com/DIYgod/APlayer) | :lollipop: Wow, such a beautiful HTML5 music player | DIYgod | 7694 |
+| 105 | [APlayer](https://github.com/DIYgod/APlayer) | :lollipop: Wow, such a beautiful HTML5 music player | DIYgod | 7696 |
 | 106 | [vue-auth](https://github.com/websanova/vue-auth) | A simple light-weight authentication library for Vue.js | websanova | 2324 |
 | 107 | [sls-admin-vue](https://github.com/sls-admin/sls-admin-vue) |  | sls-admin | 887 |
 | 108 | [Simple-Ajax-Uploader](https://github.com/LPology/Simple-Ajax-Uploader) | Javascript file upload plugin with progress bar support. Works in all major browsers, including IE7+, Chrome, Firefox, Safari, and  Opera. No dependencies - use it with or without jQuery. | LPology | 984 |
 | 109 | [cms](https://github.com/siteserver/cms) | SSCMS 基于 .NET Core，能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的网站平台。链接是SSCMS推出的全新AI视频开源社区：献丑AI | siteserver | 3916 |
-| 110 | [UserScripts](https://github.com/hoothin/UserScripts) | Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集 | hoothin | 4334 |
+| 110 | [UserScripts](https://github.com/hoothin/UserScripts) | Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集 | hoothin | 4335 |
 | 111 | [Vueg----page-transition-plugin](https://github.com/jaweii/Vueg----page-transition-plugin) | 为Vue应用添加页面间的转场特效( Page level transition plugin for vue-router) | jaweii | 1039 |
-| 112 | [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | The iconic SVG, font, and CSS toolkit | FortAwesome | 76966 |
+| 112 | [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | The iconic SVG, font, and CSS toolkit | FortAwesome | 76967 |
 | 113 | [AdminBSBMaterialDesign](https://github.com/gurayyarar/AdminBSBMaterialDesign) | AdminBSB - Free admin panel that is based on Bootstrap 3.x with Material Design | gurayyarar | 2733 |
 | 114 | [redux-in-chinese](https://github.com/nefe/redux-in-chinese) | Redux 中文文档 | nefe | 3452 |
 | 115 | [Respond](https://github.com/scottjehl/Respond) | A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more) | scottjehl | 11188 |
 | 116 | [ieBetter.js](https://github.com/zhangxinxu/ieBetter.js) | make ie browser like a morden browser main for ie6~ie8, | zhangxinxu | 789 |
-| 117 | [swagger-ui](https://github.com/swagger-api/swagger-ui) | Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. | swagger-api | 29040 |
+| 117 | [swagger-ui](https://github.com/swagger-api/swagger-ui) | Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. | swagger-api | 29039 |
 | 118 | [TypeScript-Vue-Starter](https://github.com/microsoft/TypeScript-Vue-Starter) | A starter template for TypeScript and Vue with a detailed README describing how to use the two together. | microsoft | 4415 |
 | 119 | [avalon.oniui](https://github.com/RubyLouvre/avalon.oniui) | 基于avalon的组件库 | RubyLouvre | 413 |
 | 120 | [promise-polyfill](https://github.com/taylorhakes/promise-polyfill) | Lightweight ES6 Promise polyfill for the browser and node. A+ Compliant | taylorhakes | 2141 |
-| 121 | [Sortable](https://github.com/SortableJS/Sortable) | Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required. | SortableJS | 31196 |
-| 122 | [blur-admin](https://github.com/akveo/blur-admin) | AngularJS Bootstrap Admin Panel Framework | akveo | 11285 |
+| 121 | [Sortable](https://github.com/SortableJS/Sortable) | Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required. | SortableJS | 31197 |
+| 122 | [blur-admin](https://github.com/akveo/blur-admin) | AngularJS Bootstrap Admin Panel Framework | akveo | 11284 |
 | 123 | [gulp](https://github.com/gulpjs/gulp) | A toolkit to automate & enhance your workflow | gulpjs | 32921 |
 | 124 | [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) | 一个简洁优雅的hexo主题  A simple and elegant theme for hexo. | litten | 8339 |
 | 125 | [imgResize](https://github.com/CommanderXL/imgResize) | 移动端H5图片压缩 | CommanderXL | 399 |
@@ -760,12 +760,12 @@
 | 128 | [cnpm](https://github.com/cnpm/cnpm) | cnpm: npm client for China mirror of npm | cnpm | 2095 |
 | 129 | [axios](https://github.com/axios/axios) | Promise based HTTP client for the browser and node.js | axios | 109298 |
 | 130 | [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) | MOVED to https://github.com/bootstrap-vue-next/bootstrap-vue-next | bootstrap-vue | 14407 |
-| 131 | [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) | @quilljs editor component for @vuejs(2) | surmon-china | 7385 |
-| 132 | [angular.js](https://github.com/angular/angular.js) | AngularJS - HTML enhanced for web apps! | angular | 58477 |
+| 131 | [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) | @quilljs editor component for @vuejs(2) | surmon-china | 7383 |
+| 132 | [angular.js](https://github.com/angular/angular.js) | AngularJS - HTML enhanced for web apps! | angular | 58474 |
 | 133 | [SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile) | SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品的移动端UI库，轻量精美 | sdc-alibaba | 6046 |
 | 134 | [nosqlclient](https://github.com/nosqlclient/nosqlclient) | Cross-platform and self hosted, easy to use, intuitive mongodb management tool - Formerly Mongoclient | nosqlclient | 3463 |
 | 135 | [jekyll-admin](https://github.com/jekyll/jekyll-admin) | A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.  | jekyll | 2926 |
-| 136 | [framework7](https://github.com/framework7io/framework7) | Full featured HTML framework for building iOS & Android apps | framework7io | 18765 |
+| 136 | [framework7](https://github.com/framework7io/framework7) | Full featured HTML framework for building iOS & Android apps | framework7io | 18766 |
 | 137 | [Chrome_12306](https://github.com/feix760/Chrome_12306) | 12306 Chrome抢票插件 | feix760 | 181 |
 | 138 | [jstree](https://github.com/vakata/jstree) | jquery tree plugin | vakata | 5179 |
 | 139 | [avalon](https://github.com/RubyLouvre/avalon) | an elegant efficient express mvvm framework | RubyLouvre | 5770 |
@@ -777,35 +777,35 @@
 | 145 | [ueditor](https://github.com/fex-team/ueditor) | rich text 富文本编辑器 | fex-team | 6758 |
 | 146 | [webuploader](https://github.com/fex-team/webuploader) | It's a new file uploader solution!  | fex-team | 7627 |
 | 147 | [nodercms](https://github.com/welkinwong/nodercms) | 轻量级内容管理系统，基于 Node.js + MongoDB 开发，拥有灵活的内容模型以及完善的权限角色机制。 | welkinwong | 1082 |
-| 148 | [500lines](https://github.com/aosabook/500lines) | 500 Lines or Less | aosabook | 29581 |
+| 148 | [500lines](https://github.com/aosabook/500lines) | 500 Lines or Less | aosabook | 29580 |
 | 149 | [AppSoft2.0.IO-](https://github.com/fds/AppSoft2.0.IO-) | AppSoft2.0.IO不仅仅一个通用系统框架，更是你编程生涯的伴侣，可以让你编程效率有着事半功倍效果 | fds | 3 |
 | 150 | [Vue-cnodejs](https://github.com/shinygang/Vue-cnodejs) | 基于vue.js重写Cnodejs.org社区的webapp | shinygang | 3012 |
 | 151 | [webpack](https://github.com/webpack/webpack) | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. | webpack | 65980 |
 | 152 | [react-starter-kit](https://github.com/bodyno/react-starter-kit) | Start your first React App. By using React, Redux, and React-Router. | bodyno | 1747 |
-| 153 | [todomvc](https://github.com/tastejs/todomvc) | Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more | tastejs | 28961 |
+| 153 | [todomvc](https://github.com/tastejs/todomvc) | Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more | tastejs | 28962 |
 | 154 | [yo](https://github.com/yeoman/yo) | CLI tool for running Yeoman generators | yeoman | 3962 |
-| 155 | [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) | Semantic is a UI component framework based around useful principles from natural language. | Semantic-Org | 51009 |
-| 156 | [react](https://github.com/react/react) | The library for web and native user interfaces. | react | 251242 |
-| 157 | [yeti](https://github.com/foundation/yeti) | A CSS-first, native, zero-build layout and styling framework for web designers. | foundation | 29800 |
-| 158 | [pure](https://github.com/pure-css/pure) | A set of small, responsive CSS modules that you can use in every web project. | pure-css | 23709 |
+| 155 | [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) | Semantic is a UI component framework based around useful principles from natural language. | Semantic-Org | 51010 |
+| 156 | [react](https://github.com/react/react) | The library for web and native user interfaces. | react | 251358 |
+| 157 | [yeti](https://github.com/foundation/yeti) | A CSS-first, native, zero-build layout and styling framework for web designers. | foundation | 29802 |
+| 158 | [pure](https://github.com/pure-css/pure) | A set of small, responsive CSS modules that you can use in every web project. | pure-css | 23710 |
 | 159 | [localResizeIMG](https://github.com/think2011/localResizeIMG) | 🔥 前端本地客户端压缩图片，兼容IOS，Android，PC、自动按需加载文件  | think2011 | 3224 |
-| 160 | [moment](https://github.com/moment/moment) | Parse, validate, manipulate, and display dates in javascript. | moment | 47893 |
-| 161 | [HouseSearch](https://github.com/liguobao/HouseSearch) | 地图搜租房：满大街找租房心力交瘁？试试换个方式直接在地图上搜租房!【微信公众号、小程序：人生删除指南】 | liguobao | 1474 |
-| 162 | [vue-demo](https://github.com/kenberkeley/vue-demo) | Vue.js 示例项目 · 简易留言���。本项目拥有完善的文档说明与注释，让您快速上手 Vue.js 开发 SPA。Webpack / ES6 + Babel / Vue Router / (Vue Resource?) / (Vue Validator?) / (Vuex?)  —— An Excellent Vue Starter with Best Practice / 最佳实践 | kenberkeley | 1292 |
+| 160 | [moment](https://github.com/moment/moment) | Parse, validate, manipulate, and display dates in javascript. | moment | 47895 |
+| 161 | [HouseSearch](https://github.com/liguobao/HouseSearch) | 地图搜租房：满大街找租房心力交瘁？试试换个方式直接在地图上搜租房!【微信公众号、小程序：人生删除指南】 | liguobao | 1475 |
+| 162 | [vue-demo](https://github.com/kenberkeley/vue-demo) | Vue.js 示例项目 · 简易留言板。本项目拥有完善的文档说明与注释，让您快速上手 Vue.js 开发 SPA。Webpack / ES6 + Babel / Vue Router / (Vue Resource?) / (Vue Validator?) / (Vuex?)  —— An Excellent Vue Starter with Best Practice / 最佳实践 | kenberkeley | 1292 |
 | 163 | [maizuo](https://github.com/zhengguorong/maizuo) | 使用vue/vuex/redux开发的卖座网 | zhengguorong | 757 |
 | 164 | [fis3](https://github.com/fex-team/fis3) | FIS3 | fex-team | 2778 |
 | 165 | [ios-imagefile-megapixel](https://github.com/stomita/ios-imagefile-megapixel) | Fixes iOS6 Safari's image file rendering issue for large size image (over mega-pixel), which causes unexpected subsampling when drawing it in canvas. | stomita | 584 |
 | 166 | [yarn](https://github.com/yarnpkg/yarn) | The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry | yarnpkg | 41469 |
-| 167 | [pug](https://github.com/pugjs/pug) | Pug – robust, elegant, feature rich template engine for Node.js | pugjs | 21824 |
-| 168 | [vue-zhihu-daily](https://github.com/hilongjw/vue-zhihu-daily) | zhihu daily spa with vue  线上演示在这里 ----> | hilongjw | 1269 |
-| 169 | [nodeclub](https://github.com/cnodejs/nodeclub) | :baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统 | cnodejs | 9275 |
+| 167 | [pug](https://github.com/pugjs/pug) | Pug – robust, elegant, feature rich template engine for Node.js | pugjs | 21823 |
+| 168 | [vue-zhihu-daily](https://github.com/hilongjw/vue-zhihu-daily) | zhihu daily spa with vue  线上演示在这里 ----> | hilongjw | 1268 |
+| 169 | [nodeclub](https://github.com/cnodejs/nodeclub) | :baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统 | cnodejs | 9274 |
 | 170 | [OnsenUI](https://github.com/OnsenUI/OnsenUI) | Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js. | OnsenUI | 8849 |
 | 171 | [vue-beauty](https://github.com/FE-Driver/vue-beauty) | Beautiful  UI components build with vue and ant design | FE-Driver | 2098 |
-| 172 | [layui](https://github.com/layui/layui) | 一套遵循浏览器原生态开发模式的 Web UI 组件库。 | layui | 30579 |
+| 172 | [layui](https://github.com/layui/layui) | 一套遵循浏览器原生态开发模式的 Web UI 组件库。 | layui | 30578 |
 | 173 | [font-spider](https://github.com/aui/font-spider) | Smart webfont compression and format conversion tool | aui | 5140 |
 | 174 | [vue-strap](https://github.com/yuche/vue-strap) | Bootstrap components built with Vue.js | yuche | 4672 |
-| 175 | [fks](https://github.com/JacksonTian/fks) | 前端技能汇总 Frontend Knowledge Structure | JacksonTian | 17905 |
-| 176 | [node](https://github.com/nodejs/node) | Node.js JavaScript runtime ✨🐢🚀✨ | nodejs | 122401 |
+| 175 | [fks](https://github.com/JacksonTian/fks) | 前端技能汇总 Frontend Knowledge Structure | JacksonTian | 17904 |
+| 176 | [node](https://github.com/nodejs/node) | Node.js JavaScript runtime ✨🐢🚀✨ | nodejs | 122507 |
 | 177 | [https-everywhere](https://github.com/EFForg/https-everywhere) | A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections. | EFForg | 3353 |
 | 178 | [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) | Elegant theme for Hexo.  | iissnan | 15750 |
 | 179 | [WeX](https://github.com/Neuzilla/WeX) |  | Neuzilla | 18 |
@@ -814,24 +814,24 @@
 | 182 | [art-template](https://github.com/goofychris/art-template) | High performance JavaScript templating engine | goofychris | 9840 |
 | 183 | [BaiduTemplate](https://github.com/wangxiao/BaiduTemplate) | javascript模板引擎 | wangxiao | 365 |
 | 184 | [PrintArea](https://github.com/RitsC/PrintArea) | jQuery plugin to print specified area of a page. | RitsC | 262 |
-| 185 | [elasticsearch-head](https://github.com/mobz/elasticsearch-head) | A web front end for an elastic search cluster | mobz | 9466 |
+| 185 | [elasticsearch-head](https://github.com/mobz/elasticsearch-head) | A web front end for an elastic search cluster | mobz | 9467 |
 | 186 | [js-sdk](https://github.com/qiniu/js-sdk) | Qiniu Cloud JavaScript SDK | qiniu | 1404 |
 | 187 | [js-map-parser](https://github.com/megaboich/js-map-parser) | Extension for Visual Studio to improve JS support | megaboich | 86 |
 | 188 | [plupload](https://github.com/moxiecode/plupload) | Plupload is JavaScript API for building file uploaders. It supports multiple file selection, file filtering, chunked upload, client side image downsizing and when necessary can fallback to alternative runtimes, like Flash and Silverlight. | moxiecode | 5615 |
 | 189 | [wangEditor-mobile](https://github.com/wangfupeng1988/wangEditor-mobile) | wangEditor富文本编辑器移动版（暂不维护） | wangfupeng1988 | 303 |
 | 190 | [js-cookie](https://github.com/js-cookie/js-cookie) | A simple, lightweight JavaScript API for handling cookies, client-side. | js-cookie | 22567 |
-| 191 | [Mock](https://github.com/nuysoft/Mock) | A simulation data generator | nuysoft | 19560 |
+| 191 | [Mock](https://github.com/nuysoft/Mock) | A simulation data generator | nuysoft | 19559 |
 | 192 | [Hozz](https://github.com/ppoffice/Hozz) | [Development indefinitely suspended] A better way to manage your hosts. | ppoffice | 898 |
 | 193 | [iSlider](https://github.com/be-fe/iSlider) | Smooth mobile touch slider for Mobile WebApp, HTML5 App, Hybrid App | be-fe | 1635 |
 | 194 | [h-ui](https://github.com/jackying/h-ui) | h-ui前端框架 | jackying | 713 |
-| 195 | [layer](https://github.com/layui/layer) | 丰富多样的 Web 弹出层组件，可轻松实现 Alert/Confirm/Prompt/ 普通提示/页面区块/iframe/tips等等几乎所有的弹出交互。目前已成为最多人使用的弹层解决方案 | layui | 8179 |
+| 195 | [layer](https://github.com/layui/layer) | 丰富多样的 Web 弹出层组件，可轻松实现 Alert/Confirm/Prompt/ 普通提示/页面区块/iframe/tips等等几乎所有的弹出交互。目前已成为最多人使用的弹层解决方案 | layui | 8176 |
 | 196 | [jquery-modal](https://github.com/kylefox/jquery-modal) | The simplest possible modal for jQuery | kylefox | 2600 |
 | 197 | [jquery-timepicker](https://github.com/jonthornton/jquery-timepicker) | A javascript timepicker plugin for jQuery inspired by Google Calendar. | jonthornton | 1876 |
 | 198 | [jquery.nicescroll](https://github.com/inuyaksa/jquery.nicescroll) | nicescroll plugin for jquery - scrollbars like iphone/ipad | inuyaksa | 3563 |
-| 199 | [jquery-validation](https://github.com/jquery-validation/jquery-validation) | jQuery Validation Plugin library sources | jquery-validation | 10315 |
+| 199 | [jquery-validation](https://github.com/jquery-validation/jquery-validation) | jQuery Validation Plugin library sources | jquery-validation | 10316 |
 | 200 | [jquery-cookie](https://github.com/carhartl/jquery-cookie) | No longer maintained, superseded by JS Cookie: | carhartl | 8484 |
 | 201 | [lazyload](https://github.com/tuupola/lazyload) | Vanilla JavaScript plugin for lazyloading images  | tuupola | 8697 |
-| 202 | [jquery](https://github.com/jquery/jquery) | jQuery JavaScript Library | jquery | 59866 |
+| 202 | [jquery](https://github.com/jquery/jquery) | jQuery JavaScript Library | jquery | 59929 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -839,8 +839,8 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | Free MLOps course from DataTalks.Club. Register here 👇🏼 to get notified about the next cohort | DataTalksClub | 15433 |
-| 2 | [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 | jackfrued | 187263 |
+| 1 | [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | Free MLOps course from DataTalks.Club. Register here 👇🏼 to get notified about the next cohort | DataTalksClub | 15439 |
+| 2 | [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 | jackfrued | 187294 |
 | 3 | [jobsVisualization](https://github.com/wwj718/jobsVisualization) | 换一种姿势找合适的工作 | wwj718 | 137 |
 
 **[⬆ Back to Index](#-contents)**
@@ -849,9 +849,9 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android | topjohnwu | 63338 |
-| 2 | [kotlin](https://github.com/JetBrains/kotlin) | The Kotlin Programming Language.  | JetBrains | 53480 |
-| 3 | [fanqiang](https://github.com/bannedbook/fanqiang) | 翻墙-科学上网 | bannedbook | 54399 |
+| 1 | [Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android | topjohnwu | 63358 |
+| 2 | [kotlin](https://github.com/JetBrains/kotlin) | The Kotlin Programming Language.  | JetBrains | 53492 |
+| 3 | [fanqiang](https://github.com/bannedbook/fanqiang) | 翻墙-科学上网 | bannedbook | 55361 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -870,7 +870,7 @@
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
 | 1 | [nas-packages-luci](https://github.com/linkease/nas-packages-luci) | 易有云团队自研的 OpenWRT 插件汇总 | linkease | 202 |
-| 2 | [apisix](https://github.com/apache/apisix) | The Cloud-Native API Gateway and AI Gateway | apache | 17235 |
+| 2 | [apisix](https://github.com/apache/apisix) | The Cloud-Native API Gateway and AI Gateway | apache | 17239 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -878,7 +878,7 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [bootstrap](https://github.com/twbs/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | twbs | 174925 |
+| 1 | [bootstrap](https://github.com/twbs/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | twbs | 175014 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -886,7 +886,7 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | Free domain registration and practical DNS learning resources for everyone. | DigitalPlatDev | 204720 |
+| 1 | [FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | Free domain registration and practical DNS learning resources for everyone. | DigitalPlatDev | 204878 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -895,61 +895,61 @@
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
 | 1 | [fileview](https://github.com/basemetas/fileview) | 新一代通用型在线文件预览引擎，支持 Office、PDF、OFD、CAD、图片、代码文件、流程图、思维导图及数百种专业格式 | basemetas | 229 |
-| 2 | [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 | ruanyf | 106390 |
-| 3 | [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) |  | deepseek-ai | 91893 |
-| 4 | [WechatBakTool](https://github.com/SuxueCode/WechatBakTool) | 基于C#的微信PC版聊天记录备份工具，提供图形界面，解密微信数据库并导出聊天记录。 | SuxueCode | 3703 |
-| 5 | [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) |  | git-jiadong | 6419 |
-| 6 | [compose](https://github.com/FrozenGEE/compose) | 分享compose模板，方便新人，老手快速部署docker容器，注释特别多，不懂看注释和最上方的链接，文字量巨大，劝退预警XD，懒得建站建博客，直接拿github当博客lol | FrozenGEE | 1214 |
-| 7 | [MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) | MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】 | RipplePiam | 7346 |
+| 2 | [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 | ruanyf | 106460 |
+| 3 | [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) |  | deepseek-ai | 91899 |
+| 4 | [WechatBakTool](https://github.com/SuxueCode/WechatBakTool) | 基于C#的微信PC版聊天记录备份工具，提供图形界面，解密微信数据库并导出聊天记录。 | SuxueCode | 3702 |
+| 5 | [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) |  | git-jiadong | 6418 |
+| 6 | [compose](https://github.com/FrozenGEE/compose) | 分享compose模板，方便新人，老手快速部署docker容器，注释特别多，不懂看注释和最上方的链接，文字量巨大，劝退预警XD，懒得建站建博客，直接拿github当博客lol | FrozenGEE | 1213 |
+| 7 | [MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) | MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】 | RipplePiam | 7345 |
 | 8 | [Carp.Gateway](https://github.com/NanoFabricFX/Carp.Gateway) | C#.NET 基于Yarp实现的API网关Gateway，支持Kubernetes、Consul | NanoFabricFX | 2 |
 | 9 | [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) | A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql | dhamaniasad | 12117 |
-| 10 | [IPTV](https://github.com/joevess/IPTV) | IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新 | joevess | 10280 |
-| 11 | [carrot](https://github.com/xx025/carrot) | AI 工具导航大全，帮你快速筛选免费、实用、高效的网站资源 | xx025 | 17203 |
+| 10 | [IPTV](https://github.com/joevess/IPTV) | IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新 | joevess | 10282 |
+| 11 | [carrot](https://github.com/xx025/carrot) | AI 工具导航大全，帮你快速筛选免费、实用、高效的网站资源 | xx025 | 17202 |
 | 12 | [TrollStoreiPA](https://github.com/34306/TrollStoreiPA) | This repo saved iPA for TrollStore, work as jailbreak. | 34306 | 992 |
-| 13 | [TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) |  | j4Uq | 17861 |
+| 13 | [TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) |  | j4Uq | 17867 |
 | 14 | [Awesome-Userscripts](https://github.com/runningcheese/Awesome-Userscripts) |  | runningcheese | 478 |
-| 15 | [free-api](https://github.com/fangzesheng/free-api) | 收集免费的接口服务,做一个api的搬运工 | fangzesheng | 16282 |
-| 16 | [winget-pkgs](https://github.com/microsoft/winget-pkgs) | The Microsoft community Windows Package Manager manifest repository | microsoft | 11189 |
-| 17 | [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 | imDazui | 30166 |
-| 18 | [Awesome-Microservices-DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) | 💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET | mjebrahimi | 3085 |
-| 19 | [v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) | 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf. | Loyalsoldier | 20892 |
+| 15 | [free-api](https://github.com/fangzesheng/free-api) | 收集免费的接口服务,做一个api的搬运工 | fangzesheng | 16281 |
+| 16 | [winget-pkgs](https://github.com/microsoft/winget-pkgs) | The Microsoft community Windows Package Manager manifest repository | microsoft | 11192 |
+| 17 | [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 | imDazui | 30174 |
+| 18 | [Awesome-Microservices-DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) | 💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET | mjebrahimi | 3086 |
+| 19 | [v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) | 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf. | Loyalsoldier | 20894 |
 | 20 | [awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors) | A curated list of awesome WYSIWYG Editors. | JefMari | 3985 |
 | 21 | [StackExchange.Redis-docs-zh-cn](https://github.com/WeihanLi/StackExchange.Redis-docs-zh-cn) | StackExchange.Redis中文使用文档 | WeihanLi | 105 |
-| 22 | [bbr](https://github.com/google/bbr) |  | google | 5952 |
-| 23 | [996.ICU](https://github.com/996icu/996.ICU) | Repo for counting stars and contributing. Press F to pay respect to glorious developers. | 996icu | 277155 |
-| 24 | [CS-Notes](https://github.com/CyC2018/CS-Notes) | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 | CyC2018 | 186270 |
+| 22 | [bbr](https://github.com/google/bbr) |  | google | 5951 |
+| 23 | [996.ICU](https://github.com/996icu/996.ICU) | Repo for counting stars and contributing. Press F to pay respect to glorious developers. | 996icu | 277149 |
+| 24 | [CS-Notes](https://github.com/CyC2018/CS-Notes) | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 | CyC2018 | 186277 |
 | 25 | [architect-awesome](https://github.com/xingshaocheng/architect-awesome) | 后端架构师技术图谱 | xingshaocheng | 60843 |
-| 26 | [ChinaMobilePhoneNumberRegex](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex) | Regular expressions that match the mobile phone number in mainland China. / 一组匹配中国大陆手机号码的正则表达式。 | VincentSit | 4766 |
-| 27 | [standard](https://github.com/dotnet/standard) | This repo is building the .NET Standard | dotnet | 3036 |
+| 26 | [ChinaMobilePhoneNumberRegex](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex) | Regular expressions that match the mobile phone number in mainland China. / 一组匹配中国大陆手机号码的正则��达式。 | VincentSit | 4766 |
+| 27 | [standard](https://github.com/dotnet/standard) | This repo is building the .NET Standard | dotnet | 3037 |
 | 28 | [bye](https://github.com/erguotou520/bye) | bye to yesterday and do yourself | erguotou520 | 4485 |
 | 29 | [static](https://github.com/staticfile/static) | 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务 | staticfile | 1410 |
-| 30 | [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 | 1c7 | 61841 |
-| 31 | [Auto.js](https://github.com/clearw5/Auto.js) | Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE) | clearw5 | 12859 |
-| 32 | [ResumeSample](https://github.com/geekcompany/ResumeSample) | Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板 | geekcompany | 28350 |
+| 30 | [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 | 1c7 | 61855 |
+| 31 | [Auto.js](https://github.com/clearw5/Auto.js) | Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE) | clearw5 | 12857 |
+| 32 | [ResumeSample](https://github.com/geekcompany/ResumeSample) | Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板 | geekcompany | 28352 |
 | 33 | [AbpDocument2Chinese](https://github.com/ABPFrameWorkGroup/AbpDocument2Chinese) | Abp翻译文档 | ABPFrameWorkGroup | 1356 |
 | 34 | [easyhosts](https://github.com/forkgood/easyhosts) | 基于 Github 项目整合的远程 Hosts 直链，适配多种规则、终端，每 30 分钟 自动同步一次 Github 最新可用项目并提供打包下载 | forkgood | 269 |
 | 35 | [nideshop-admin](https://github.com/tumobi/nideshop-admin) | NideShop 开源微信小程序商城（后台管理系统） | tumobi | 587 |
 | 36 | [hosts](https://github.com/googlehosts/hosts) | 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts | googlehosts | 20558 |
-| 37 | [asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin) | Enhanced version of Asus's router firmware (Asuswrt) (legacy code base) | RMerl | 6759 |
+| 37 | [asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin) | Enhanced version of Asus's router firmware (Asuswrt) (legacy code base) | RMerl | 6757 |
 | 38 | [foundation](https://github.com/dotnet-foundation/foundation) | This repo is no longer being used. The information that is here has been migrated to https://github.com/dotnet-foundation/website. | dotnet-foundation | 1003 |
-| 39 | [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 175980 |
+| 39 | [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 175989 |
 | 40 | [Spring-Boot-Reference-Guide](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) | Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》 | qibaoguang | 4433 |
 | 41 | [android](https://github.com/SmartisanTech/android) | Smartisan open source code for full build.(repo manifest xml) | SmartisanTech | 2720 |
-| 42 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | :books: 免费的计算机编程类中文书籍，欢迎投稿 | justjavac | 119252 |
-| 43 | [jstraining](https://github.com/ruanyf/jstraining) | 全栈工程师培训材料 | ruanyf | 20030 |
-| 44 | [wiki](https://github.com/greatfire/wiki) |  | greatfire | 7293 |
+| 42 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | :books: 免费的计算机编程类中文书籍，欢迎投稿 | justjavac | 119269 |
+| 43 | [jstraining](https://github.com/ruanyf/jstraining) | 全栈工程师培训材料 | ruanyf | 20028 |
+| 44 | [wiki](https://github.com/greatfire/wiki) |  | greatfire | 7294 |
 | 45 | [crx-selection-translate](https://github.com/hcfyapp/crx-selection-translate) | 一站式划词 / 截图 / 网页全文 / 音视频 AI 翻译扩展。 | hcfyapp | 4140 |
-| 46 | [yeoman](https://github.com/yeoman/yeoman) | Yeoman - a set of tools for automating development workflow | yeoman | 10102 |
-| 47 | [gfwlist](https://github.com/gfwlist/gfwlist) | The one and only one gfwlist here | gfwlist | 25663 |
+| 46 | [yeoman](https://github.com/yeoman/yeoman) | Yeoman - a set of tools for automating development workflow | yeoman | 10101 |
+| 47 | [gfwlist](https://github.com/gfwlist/gfwlist) | The one and only one gfwlist here | gfwlist | 25665 |
 | 48 | [vue-admin](https://github.com/vue-bulma/vue-admin) | We are refactoring it, using the latest Vue and Bulma. WIP | vue-bulma | 9314 |
-| 49 | [awesome-vue](https://github.com/vuejs/awesome-vue) | 🎉 A curated list of awesome things related to Vue.js | vuejs | 73514 |
-| 50 | [awesome-dotnet](https://github.com/quozd/awesome-dotnet) | A collection of awesome .NET libraries, tools, frameworks and software | quozd | 21660 |
-| 51 | [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] | sindresorhus | 520675 |
+| 49 | [awesome-vue](https://github.com/vuejs/awesome-vue) | 🎉 A curated list of awesome things related to Vue.js | vuejs | 73511 |
+| 50 | [awesome-dotnet](https://github.com/quozd/awesome-dotnet) | A collection of awesome .NET libraries, tools, frameworks and software | quozd | 21662 |
+| 51 | [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] | sindresorhus | 521208 |
 | 52 | [Windsor-doc-cn](https://github.com/Chcwh/Windsor-doc-cn) | Castle Windsor 中文文档 | Chcwh | 28 |
 | 53 | [awesome-dotnet-cn](https://github.com/jobbole/awesome-dotnet-cn) | DotNet 资源大全中文版，内容包括：编译器、压缩、应用框架、应用模板、加密、数据库、反编译、IDE、日志、风格指南等。 | jobbole | 1771 |
-| 54 | [corefx](https://github.com/dotnet/corefx) | This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime  | dotnet | 17459 |
+| 54 | [corefx](https://github.com/dotnet/corefx) | This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime  | dotnet | 17458 |
 | 55 | [cli](https://github.com/dotnet/cli) | The .NET Core command-line (CLI) tools, used for building .NET Core apps and libraries through your development flow (compiling, NuGet package management, running, testing, ...). | dotnet | 3459 |
-| 56 | [blog](https://github.com/fouber/blog) | 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！ | fouber | 22551 |
+| 56 | [blog](https://github.com/fouber/blog) | 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！ | fouber | 22550 |
 | 57 | [truth](https://github.com/comeforu2012/truth) |  | comeforu2012 | 1537 |
 
 **[⬆ Back to Index](#-contents)**
@@ -964,7 +964,7 @@
 | 4 | [Postman-cn](https://github.com/hlmd/Postman-cn) | Postman汉化中文版 | hlmd | 5622 |
 | 5 | [YoungxjTools](https://github.com/Youngxj/YoungxjTools) |  | Youngxj | 111 |
 | 6 | [phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) | A web interface for MySQL and MariaDB | phpmyadmin | 7957 |
-| 7 | [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) | File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads. | blueimp | 30689 |
+| 7 | [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) | File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads. | blueimp | 30688 |
 | 8 | [showdoc](https://github.com/star7th/showdoc) | ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具 | star7th | 12865 |
 | 9 | [yii2-framework](https://github.com/yiisoft/yii2-framework) | [READ ONLY] Yii 2 framework core code only. This is a subtree split off the "yii2" repository | yiisoft | 234 |
 
@@ -974,7 +974,7 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [postgis](https://github.com/postgis/postgis) | PostGIS spatial database extension to PostgreSQL [mirror] | postgis | 2247 |
+| 1 | [postgis](https://github.com/postgis/postgis) | PostGIS spatial database extension to PostgreSQL [mirror] | postgis | 2246 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -982,14 +982,14 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [Win11Debloat](https://github.com/Raphire/Win11Debloat) | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. | Raphire | 59503 |
-| 2 | [winutil](https://github.com/ChrisTitusTech/winutil) | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates | ChrisTitusTech | 64428 |
+| 1 | [Win11Debloat](https://github.com/Raphire/Win11Debloat) | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. | Raphire | 59829 |
+| 2 | [winutil](https://github.com/ChrisTitusTech/winutil) | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates | ChrisTitusTech | 64533 |
 | 3 | [move-wsl](https://github.com/pxlrbt/move-wsl) | Easily move your WSL distros VHDX file to a new location. | pxlrbt | 1558 |
 | 4 | [scoop-raresoft](https://github.com/L-Trump/scoop-raresoft) | 提供许多破解版的应用 | L-Trump | 141 |
 | 5 | [dorado](https://github.com/chawyehsu/dorado) | 🐟 Yet Another bucket for lovely Scoop | chawyehsu | 1231 |
-| 6 | [Scoop](https://github.com/ScoopInstaller/Scoop) | A command-line installer for Windows. | ScoopInstaller | 24747 |
-| 7 | [core](https://github.com/dotnet/core) | .NET news, announcements, release notes, and more! | dotnet | 22049 |
-| 8 | [cmder](https://github.com/cmderdev/cmder) | Lovely console emulator package for Windows | cmderdev | 27004 |
+| 6 | [Scoop](https://github.com/ScoopInstaller/Scoop) | A command-line installer for Windows. | ScoopInstaller | 24749 |
+| 7 | [core](https://github.com/dotnet/core) | .NET news, announcements, release notes, and more! | dotnet | 22048 |
+| 8 | [cmder](https://github.com/cmderdev/cmder) | Lovely console emulator package for Windows | cmderdev | 27005 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1006,54 +1006,54 @@
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
 | 1 | [bimwing-convert](https://github.com/coolboy-never-die/bimwing-convert) | 上传 BIM/三维模型到 BIMWing 在线轻量化转换，生成可在浏览器直接在线浏览三维模型的分享链接 | coolboy-never-die | 1 |
-| 2 | [speech-to-speech](https://github.com/huggingface/speech-to-speech) | Build voice agents with open-source models | huggingface | 13494 |
-| 3 | [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. | nextlevelbuilder | 137011 |
-| 4 | [any-auto-register](https://github.com/lxf746/any-auto-register) | Auto-register & manage accounts for ChatGPT, Cursor, Kiro, Grok, Windsurf, Trae & 13+ AI platforms · Protocol/browser dual-mode · Plugin-based · One-click Mac/Windows desktop app | lxf746 | 3355 |
-| 5 | [full-stack-skills](https://github.com/partme-ai/full-stack-skills) | 这是一个免费的全栈开发所需的技能市场，提供各种实用的 AI 技能集合，支持多种平台。 | partme-ai | 701 |
-| 6 | [hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | NousResearch | 254791 |
-| 7 | [MinerU](https://github.com/opendatalab/MinerU) | Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. | opendatalab | 81958 |
-| 8 | [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Google Chromium, sans integration with Google | ungoogled-software | 28029 |
-| 9 | [Easy-AI-CodeReview](https://github.com/spherical-up/Easy-AI-CodeReview) | 这是一个专为开发者打造的高效 Code Review 工具，旨在提升代码审查质量、降低沟通成本，��加速团队协作流程。通过智能比对、注释建议、变更摘要、代码质量提示等功能，帮助开发者更快地理解提交内容、发现潜在问题，让每一次 Review 更加清晰、高效、有价值。 | spherical-up | 242 |
-| 10 | [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | ComposioHQ | 77345 |
-| 11 | [browser-use](https://github.com/browser-use/browser-use) | Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API. | browser-use | 118370 |
-| 12 | [RedInk](https://github.com/HisMax/RedInk) | Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images." | HisMax | 5637 |
-| 13 | [TrendRadar](https://github.com/sansan0/TrendRadar) | ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅���支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。 | sansan0 | 62991 |
-| 14 | [adblockfilters](https://github.com/217heidai/adblockfilters) | 去广告合并规则，每8个小时更新一次。 | 217heidai | 7686 |
-| 15 | [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. | Comfy-Org | 138118 |
-| 16 | [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) | ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。 | Zeyi-Lin | 21640 |
-| 17 | [minimind-v](https://github.com/jingyaogong/minimind-v) | 👀 Train a 65M-parameter VLM from scratch in just 2h!  | jingyaogong | 8756 |
-| 18 | [dify](https://github.com/langgenius/dify) | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. | langgenius | 158758 |
-| 19 | [minimind](https://github.com/jingyaogong/minimind) | 🧠 Train a 64M-parameter LLM from scratch in just 2h! | jingyaogong | 63919 |
-| 20 | [CowAgent](https://github.com/zhayujie/CowAgent) | Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install. | zhayujie | 47449 |
-| 21 | [ultralytics](https://github.com/ultralytics/ultralytics) | Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking | ultralytics | 62606 |
-| 22 | [cockpit](https://github.com/cockpit-project/cockpit) | Cockpit is a web-based graphical interface for servers. | cockpit-project | 15247 |
-| 23 | [patroni](https://github.com/patroni/patroni) | A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes | patroni | 8792 |
-| 24 | [rectg](https://github.com/rooktwo/rectg) | Telegram频道群组推荐 | rooktwo | 9333 |
+| 2 | [speech-to-speech](https://github.com/huggingface/speech-to-speech) | Build voice agents with open-source models | huggingface | 13507 |
+| 3 | [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. | nextlevelbuilder | 137444 |
+| 4 | [any-auto-register](https://github.com/lxf746/any-auto-register) | Auto-register & manage accounts for ChatGPT, Cursor, Kiro, Grok, Windsurf, Trae & 13+ AI platforms · Protocol/browser dual-mode · Plugin-based · One-click Mac/Windows desktop app | lxf746 | 3363 |
+| 5 | [full-stack-skills](https://github.com/partme-ai/full-stack-skills) | 这是一个免费的全栈开发所需的技能市场，提供各种实用的 AI 技能集合，支持多种平台。 | partme-ai | 703 |
+| 6 | [hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | NousResearch | 255107 |
+| 7 | [MinerU](https://github.com/opendatalab/MinerU) | Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. | opendatalab | 82037 |
+| 8 | [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Google Chromium, sans integration with Google | ungoogled-software | 28039 |
+| 9 | [Easy-AI-CodeReview](https://github.com/spherical-up/Easy-AI-CodeReview) | 这是一个专为开发者打造的高效 Code Review 工具，旨在提升代码审查质量、降低沟通成本，并加速团队协作流程。通过智能比对、注释建议、变更摘要、代码质量提示等功能，帮助开发者更快地理解提交内容、发现潜在问题，让每一次 Review 更加清晰、高效、有价值。 | spherical-up | 242 |
+| 10 | [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | ComposioHQ | 77417 |
+| 11 | [browser-use](https://github.com/browser-use/browser-use) | Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API. | browser-use | 118472 |
+| 12 | [RedInk](https://github.com/HisMax/RedInk) | Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images." | HisMax | 5640 |
+| 13 | [TrendRadar](https://github.com/sansan0/TrendRadar) | ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。 | sansan0 | 63020 |
+| 14 | [adblockfilters](https://github.com/217heidai/adblockfilters) | 去广告合并规则，每8个小时更新一次。 | 217heidai | 7691 |
+| 15 | [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. | Comfy-Org | 139117 |
+| 16 | [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) | ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。 | Zeyi-Lin | 21644 |
+| 17 | [minimind-v](https://github.com/jingyaogong/minimind-v) | 👀 Train a 65M-parameter VLM from scratch in just 2h!  | jingyaogong | 8761 |
+| 18 | [dify](https://github.com/langgenius/dify) | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. | langgenius | 158874 |
+| 19 | [minimind](https://github.com/jingyaogong/minimind) | 🧠 Train a 64M-parameter LLM from scratch in just 2h! | jingyaogong | 63983 |
+| 20 | [CowAgent](https://github.com/zhayujie/CowAgent) | Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install. | zhayujie | 47464 |
+| 21 | [ultralytics](https://github.com/ultralytics/ultralytics) | Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking | ultralytics | 62633 |
+| 22 | [cockpit](https://github.com/cockpit-project/cockpit) | Cockpit is a web-based graphical interface for servers. | cockpit-project | 15252 |
+| 23 | [patroni](https://github.com/patroni/patroni) | A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes | patroni | 8793 |
+| 24 | [rectg](https://github.com/rooktwo/rectg) | Telegram频道群组推荐 | rooktwo | 9336 |
 | 25 | [domain-admin](https://github.com/dromara/domain-admin) | 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System.  | dromara | 2454 |
-| 26 | [GitHub520](https://github.com/521xueweihan/GitHub520) | :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装） | 521xueweihan | 29998 |
+| 26 | [GitHub520](https://github.com/521xueweihan/GitHub520) | :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装） | 521xueweihan | 30006 |
 | 27 | [mdserver-web](https://github.com/midoks/mdserver-web) | Simple Linux Panel | midoks | 4516 |
-| 28 | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. | PaddlePaddle | 91304 |
-| 29 | [PaddleClas](https://github.com/PaddlePaddle/PaddleClas) | A treasure chest for visual classification and recognition powered by PaddlePaddle | PaddlePaddle | 5850 |
+| 28 | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. | PaddlePaddle | 91364 |
+| 29 | [PaddleClas](https://github.com/PaddlePaddle/PaddleClas) | A treasure chest for visual classification and recognition powered by PaddlePaddle | PaddlePaddle | 5851 |
 | 30 | [reset-navicat-premium](https://github.com/malaohu/reset-navicat-premium) | 无限重置试用 navicat premium所有版本 | malaohu | 703 |
 | 31 | [py12306](https://github.com/pjialin/py12306) | 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理  | pjialin | 14965 |
 | 32 | [scoop-directory](https://github.com/rasa/scoop-directory) | A searchable directory of buckets for the scoop package manager for Windows | rasa | 930 |
-| 33 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 489901 |
-| 34 | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. | 521xueweihan | 182822 |
-| 35 | [DDNS](https://github.com/NewFuture/DDNS) | 🌐自动更新域名解析到本机IP,支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM... | NewFuture | 4695 |
+| 33 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 490297 |
+| 34 | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. | 521xueweihan | 183039 |
+| 35 | [DDNS](https://github.com/NewFuture/DDNS) | 🌐自动更新域名解析到本机IP,支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM... | NewFuture | 4696 |
 | 36 | [multi-v2ray](https://github.com/Jrohy/multi-v2ray) | v2ray/xray多用户管理部署程序 | Jrohy | 6944 |
-| 37 | [Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) | 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。 | h2y | 16718 |
+| 37 | [Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) | 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。 | h2y | 16716 |
 | 38 | [AndroidDevTools](https://github.com/inferjay/AndroidDevTools) | 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。 | inferjay | 8061 |
-| 39 | [ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare) | (No longer maintained owing to the  lack of sufficient free ss accounts)Python爬虫/Flask网站/免费ShadowSocks账号/ssr订阅/json 订阅 | the0demiurge | 2990 |
+| 39 | [ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare) | (No longer maintained owing to the  lack of sufficient free ss accounts)Python爬虫/Flask网站/免费ShadowSocks账号/ssr订阅/json 订阅 | the0demiurge | 2989 |
 | 40 | [cnbankcard](https://github.com/digglife/cnbankcard) | :bank: 由银行卡卡号解析出发卡行和卡别，适用于中国国内多数银行，返回JSON数据。 | digglife | 965 |
 | 41 | [ipv6-hosts](https://github.com/lennylxx/ipv6-hosts) | Fork of https://code.google.com/archive/p/ipv6-hosts/, focusing on automation | lennylxx | 4486 |
 | 42 | [django-sspanel](https://github.com/Ehco1996/django-sspanel) | 用 diango 开发的 shadowsocks 面板 | Ehco1996 | 3065 |
-| 43 | [WeixinBot](https://github.com/Urinx/WeixinBot) | 网页版微信API，包含终端版微信及微信机器人 | Urinx | 7412 |
+| 43 | [WeixinBot](https://github.com/Urinx/WeixinBot) | 网页版微信API，包含终端版微信及微信机器人 | Urinx | 7413 |
 | 44 | [iScript](https://github.com/PeterDing/iScript) | 各种脚本 -- 关于 虾米 xiami.com, 百度网盘 pan.baidu.com, 115网盘 115.com, 网易音乐 music.163.com, 百度音乐 music.baidu.com, 360网盘/云盘 yunpan.cn, 视频解析 flvxz.com, bt torrent ↔ magnet, ed2k 搜索, tumblr 图片下载, unzip | PeterDing | 5125 |
-| 45 | [you-get](https://github.com/soimort/you-get) | :arrow_double_down: Dumb downloader that scrapes the web | soimort | 56859 |
-| 46 | [supervisor](https://github.com/Supervisor/supervisor) | Supervisor process control system for Unix (supervisord) | Supervisor | 9145 |
+| 45 | [you-get](https://github.com/soimort/you-get) | :arrow_double_down: Dumb downloader that scrapes the web | soimort | 56862 |
+| 46 | [supervisor](https://github.com/Supervisor/supervisor) | Supervisor process control system for Unix (supervisord) | Supervisor | 9146 |
 | 47 | [XX-Mini](https://github.com/xyuanmu/XX-Mini) | :ghost: XX-Net 精简版 | xyuanmu | 442 |
 | 48 | [GoAgent-Always-Available](https://github.com/out0fmemory/GoAgent-Always-Available) | 一直可用的GoAgent，会定时扫描可用的google gae ip，提供可自动化获取ip运行的版本 | out0fmemory | 1124 |
-| 49 | [XX-Net](https://github.com/XX-net/XX-Net) | A proxy tool to bypass GFW. | XX-net | 33451 |
+| 49 | [XX-Net](https://github.com/XX-net/XX-Net) | A proxy tool to bypass GFW. | XX-net | 33452 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1078,25 +1078,25 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | oven-sh | 96283 |
-| 2 | [qingjian](https://github.com/qingjian-team/qingjian) | 青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词 | qingjian-team | 6794 |
-| 3 | [msime](https://github.com/metasequoiaime/msime) | 下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 HarmonyOS 的多平台中文输入法，使用共享输入引擎与各平台原生宿主。 | metasequoiaime | 770 |
-| 4 | [WindInput](https://github.com/huanfeng/WindInput) | 清风输入法 \| 轻量、快速、可定制的开源中文输入法，专为五笔和码表输入方案设计，支持全拼/双拼（Windows / macOS / Linux） | huanfeng | 1212 |
-| 5 | [codeg](https://github.com/spacering-net/codeg) | Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker. | spacering-net | 4001 |
+| 1 | [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | oven-sh | 96299 |
+| 2 | [qingjian](https://github.com/qingjian-team/qingjian) | 青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词 | qingjian-team | 6870 |
+| 3 | [msime](https://github.com/metasequoiaime/msime) | 下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 HarmonyOS 的多平台中文输入法，使用共享输入引擎与各平台原生宿主。 | metasequoiaime | 788 |
+| 4 | [WindInput](https://github.com/huanfeng/WindInput) | 清风输入法 \| 轻量、快速、可定制的开源中文输入法，专为五笔和码表输入方案设计，支持全拼/双拼（Windows / macOS / Linux） | huanfeng | 1223 |
+| 5 | [codeg](https://github.com/spacering-net/codeg) | Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker. | spacering-net | 4018 |
 | 6 | [ccg-gateway](https://github.com/mos1128/ccg-gateway) | 多Agent兼容LLM智能网关与效率工具 | mos1128 | 202 |
-| 7 | [smolvm](https://github.com/smol-machines/smolvm) | An embeddable, portable, branchable virtual machine to safely run Agents locally. | smol-machines | 6759 |
-| 8 | [agent-browser](https://github.com/vercel-labs/agent-browser) | Browser automation CLI for AI agents | vercel-labs | 44169 |
-| 9 | [rustfs](https://github.com/rustfs/rustfs) | RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. | rustfs | 35065 |
-| 10 | [paradedb](https://github.com/paradedb/paradedb) | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension. | paradedb | 9405 |
-| 11 | [warp](https://github.com/warpdotdev/warp) | Warp is an agentic development environment, born out of the terminal. | warpdotdev | 65509 |
-| 12 | [defguard](https://github.com/DefGuard/defguard) | Zero-Trust access management with true WireGuard® 2FA/MFA | DefGuard | 2874 |
+| 7 | [smolvm](https://github.com/smol-machines/smolvm) | An embeddable, portable, branchable virtual machine to safely run Agents locally. | smol-machines | 6765 |
+| 8 | [agent-browser](https://github.com/vercel-labs/agent-browser) | Browser automation CLI for AI agents | vercel-labs | 44233 |
+| 9 | [rustfs](https://github.com/rustfs/rustfs) | RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. | rustfs | 35100 |
+| 10 | [paradedb](https://github.com/paradedb/paradedb) | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension. | paradedb | 9414 |
+| 11 | [warp](https://github.com/warpdotdev/warp) | Warp is an agentic development environment, born out of the terminal. | warpdotdev | 65525 |
+| 12 | [defguard](https://github.com/DefGuard/defguard) | Zero-Trust access management with true WireGuard® 2FA/MFA | DefGuard | 2876 |
 | 13 | [static-web-server](https://github.com/static-web-server/static-web-server) | A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡ | static-web-server | 2377 |
-| 14 | [gitbutler](https://github.com/gitbutlerapp/gitbutler) | The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte | gitbutlerapp | 21820 |
-| 15 | [pingora](https://github.com/cloudflare/pingora) | A library for building fast, reliable and evolvable network services. | cloudflare | 27640 |
-| 16 | [meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. | meilisearch | 59594 |
-| 17 | [clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) | Clash Nyanpasu～(∠・ω< )⌒☆​ | libnyanpasu | 13227 |
-| 18 | [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. | tauri-apps | 111978 |
-| 19 | [rust-course](https://github.com/sunface/rust-course) | 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book  | sunface | 31038 |
+| 14 | [gitbutler](https://github.com/gitbutlerapp/gitbutler) | The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte | gitbutlerapp | 21824 |
+| 15 | [pingora](https://github.com/cloudflare/pingora) | A library for building fast, reliable and evolvable network services. | cloudflare | 27647 |
+| 16 | [meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. | meilisearch | 59607 |
+| 17 | [clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) | Clash Nyanpasu～(∠・ω< )⌒☆​ | libnyanpasu | 13229 |
+| 18 | [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. | tauri-apps | 112012 |
+| 19 | [rust-course](https://github.com/sunface/rust-course) | 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book  | sunface | 31039 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1104,30 +1104,30 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [fnos-apps](https://github.com/conversun/fnos-apps) | 飞牛 fnOS NAS 第三方应用商店 — 175 款自托管应用的 .fpk 安装包 \| Plex, Emby, Jellyfin, qBittorrent, Immich, Sonarr, Radarr, Vaultwarden, ZeroClaw AI, OpenClaw 等 \| 每日自动同步上游版本 | conversun | 840 |
-| 2 | [superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | obra | 301373 |
-| 3 | [clashctl](https://github.com/nelvko/clashctl) | 😼 优雅地使用基于 clash/mihomo 的代理环境 | nelvko | 15031 |
+| 1 | [fnos-apps](https://github.com/conversun/fnos-apps) | 飞牛 fnOS NAS 第三方应用商店 — 175 款自托管应用的 .fpk 安装包 \| Plex, Emby, Jellyfin, qBittorrent, Immich, Sonarr, Radarr, Vaultwarden, ZeroClaw AI, OpenClaw 等 \| 每日自动同步上游版本 | conversun | 845 |
+| 2 | [superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | obra | 301867 |
+| 3 | [clashctl](https://github.com/nelvko/clashctl) | 😼 优雅地使用基于 clash/mihomo 的代理环境 | nelvko | 15040 |
 | 4 | [Tools](https://github.com/leitbogioro/Tools) | Something about tools | leitbogioro | 3890 |
-| 5 | [ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) | Proxmox VE Helper-Scripts (Community Edition)  | community-scripts | 29847 |
-| 6 | [pigsty](https://github.com/pgsty/pigsty) | Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 575 PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro! | pgsty | 5830 |
+| 5 | [ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) | Proxmox VE Helper-Scripts (Community Edition)  | community-scripts | 29855 |
+| 6 | [pigsty](https://github.com/pgsty/pigsty) | Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 575 PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro! | pgsty | 5834 |
 | 7 | [build-actions](https://github.com/281677160/build-actions) | 超简单的在线编译OpenWrt固件 | 281677160 | 390 |
-| 8 | [Proxmox](https://github.com/tteck/Proxmox) | Proxmox VE Helper-Scripts | tteck | 15156 |
+| 8 | [Proxmox](https://github.com/tteck/Proxmox) | Proxmox VE Helper-Scripts | tteck | 15154 |
 | 9 | [httpsok](https://github.com/httpsok/httpsok) | 🔥🔥🔥一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费SSL证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt | httpsok | 1300 |
-| 10 | [sh](https://github.com/kejilion/sh) | KEJILION.SH 一款全功能的Linux管理脚本！An all-in-one Linux management script! | kejilion | 3442 |
+| 10 | [sh](https://github.com/kejilion/sh) | KEJILION.SH 一款全功能的Linux管理脚本！An all-in-one Linux management script! | kejilion | 3445 |
 | 11 | [chislash](https://github.com/ChisBread/chislash) | 🐳 proxycenter in container 家用代理中心, 集成clash/yacd/subconverter | ChisBread | 155 |
-| 12 | [LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) | GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本 | SuperManito | 7805 |
+| 12 | [LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) | GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本 | SuperManito | 7810 |
 | 13 | [AE86Wrt](https://github.com/xiangfeidexiaohuo/AE86Wrt) | 自用 OpenWrt 固件！ | xiangfeidexiaohuo | 225 |
 | 14 | [OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi) | Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update) | SuLingGG | 6319 |
 | 15 | [openwrt-Exclusive](https://github.com/firker/openwrt-Exclusive) |  | firker | 328 |
 | 16 | [Kwrt](https://github.com/kiddin9/Kwrt) | openwrt 软路由固件 | kiddin9 | 9033 |
-| 17 | [across](https://github.com/teddysun/across) | Across the Great Wall we can reach every corner in the world | teddysun | 5372 |
+| 17 | [across](https://github.com/teddysun/across) | Across the Great Wall we can reach every corner in the world | teddysun | 5373 |
 | 18 | [N1HK1dabao](https://github.com/Netflixxp/N1HK1dabao) | 项目为自动打包N1和HK1（s905x3）盒子的固件，请勿fork，因为fork无法获取最新的固件，请收藏短网址https://jcnf.xyz/gj 获取最新固件版本 | Netflixxp | 332 |
 | 19 | [soga](https://github.com/vaxilu/soga) | soga | vaxilu | 651 |
 | 20 | [deployX.sh](https://github.com/h31105/deployX.sh) | 基于 Docker 容器架构的 Trojan/VLESS/VMess TCP/WS TLS 分流部署&管理脚本 | h31105 | 416 |
 | 21 | [Shell](https://github.com/loyess/Shell) | Shadowsocks with plugins one-click installation. e.g. v2ray-plugin, kcptun, simple-obfs, goquiet, cloak, mos-tls-tunnel, rabbit-tcp, simple-tls, gost-plugin, xray-plugin, qtun, gun | loyess | 784 |
-| 22 | [acme.sh](https://github.com/acmesh-official/acme.sh) | A pure Unix shell script ACME client for SSL / TLS certificate automation | acmesh-official | 47831 |
-| 23 | [doubi](https://github.com/ToyoDAdoubi/doubi) | 一个逗比写的各种逗���脚本~ | ToyoDAdoubi | 4680 |
-| 24 | [v2ray](https://github.com/233boy/v2ray) | 最好用的 V2Ray 一键安装脚本 & 管理脚本 | 233boy | 29741 |
+| 22 | [acme.sh](https://github.com/acmesh-official/acme.sh) | A pure Unix shell script ACME client for SSL / TLS certificate automation | acmesh-official | 47836 |
+| 23 | [doubi](https://github.com/ToyoDAdoubi/doubi) | 一个逗比写的各种逗比脚本~ | ToyoDAdoubi | 4680 |
+| 24 | [v2ray](https://github.com/233boy/v2ray) | 最好用的 V2Ray 一键安装脚本 & 管理脚本 | 233boy | 29750 |
 | 25 | [lamp](https://github.com/teddysun/lamp) | Install LAMP (Linux + Apache + MariaDB + PHP) for AlmaLinux/RockyLinux/CentOS/Debian/Ubuntu | teddysun | 2917 |
 | 26 | [shadowsocks_install](https://github.com/teddysun/shadowsocks_install) | Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu | teddysun | 8245 |
 | 27 | [initscripts](https://github.com/Supervisor/initscripts) | User-contributed OS init scripts for Supervisor | Supervisor | 1017 |
@@ -1140,7 +1140,7 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [hexo-theme-next](https://github.com/theme-next/hexo-theme-next) | Elegant and powerful theme for Hexo. | theme-next | 8214 |
+| 1 | [hexo-theme-next](https://github.com/theme-next/hexo-theme-next) | Elegant and powerful theme for Hexo. | theme-next | 8213 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1148,7 +1148,7 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [Asspp](https://github.com/Lakr233/Asspp) | The App Store for your multi-account eco system. | Lakr233 | 6008 |
+| 1 | [Asspp](https://github.com/Lakr233/Asspp) | The App Store for your multi-account eco system. | Lakr233 | 6017 |
 | 2 | [Potatso](https://github.com/haxpor/Potatso) | Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework. ***This project is unmaintained, try taking a look at this fork https://github.com/shadowcoel/shadowcoel instead. | haxpor | 2056 |
 | 3 | [12306ForMac](https://github.com/fancymax/12306ForMac) | An unofficial 12306 Client for Mac | fancymax | 2897 |
 
@@ -1158,136 +1158,136 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. | morluto | 313748 |
-| 2 | [dokploy](https://github.com/Dokploy/dokploy) | Open Source Alternative to Vercel, Netlify and Heroku. | Dokploy | 37845 |
-| 3 | [ui](https://github.com/shadcn-ui/ui) | Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own. | shadcn-ui | 125842 |
-| 4 | [nyaterm](https://github.com/nyakang/nyaterm) | A modern remote terminal workspace | nyakang | 1826 |
-| 5 | [paseo](https://github.com/getpaseo/paseo) | Orchestrate multiple coding agents from desktop and mobile | getpaseo | 21250 |
-| 6 | [openchamber](https://github.com/openchamber/openchamber) | Agentic Development Environment based on OpenCode AI agent | openchamber | 11779 |
-| 7 | [desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) | Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI. | zhukunpenglinyutong | 4484 |
-| 8 | [nest](https://github.com/nestjs/nest) | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 | nestjs | 76857 |
+| 1 | [rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. | morluto | 330015 |
+| 2 | [dokploy](https://github.com/Dokploy/dokploy) | Open Source Alternative to Vercel, Netlify and Heroku. | Dokploy | 37862 |
+| 3 | [ui](https://github.com/shadcn-ui/ui) | Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own. | shadcn-ui | 125928 |
+| 4 | [nyaterm](https://github.com/nyakang/nyaterm) | A modern remote terminal workspace | nyakang | 1837 |
+| 5 | [paseo](https://github.com/getpaseo/paseo) | Orchestrate multiple coding agents from desktop and mobile | getpaseo | 21385 |
+| 6 | [openchamber](https://github.com/openchamber/openchamber) | Agentic Development Environment based on OpenCode AI agent | openchamber | 11851 |
+| 7 | [desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) | Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI. | zhukunpenglinyutong | 4489 |
+| 8 | [nest](https://github.com/nestjs/nest) | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 | nestjs | 76865 |
 | 9 | [mail-hub](https://github.com/ydddp/mail-hub) | 多渠道临时邮箱聚合服务 — 统一 API、自动轮询、验证码提取 | ydddp | 136 |
-| 10 | [orca](https://github.com/stablyai/orca) | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | stablyai | 95843 |
-| 11 | [hoppscotch](https://github.com/hoppscotch/hoppscotch) | Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia | hoppscotch | 80641 |
-| 12 | [metapi](https://github.com/cita-777/metapi) | 把你在各处注册的 New API / One API / OneHub / DoneHub / Veloera / AnyRouter / Sub2API 等站点， 汇聚成 一个 API Key、一个入口，自动发现模型、智能路由、成本最优 | cita-777 | 3316 |
-| 13 | [cherry-studio](https://github.com/CherryHQ/cherry-studio) | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs | CherryHQ | 52721 |
+| 10 | [orca](https://github.com/stablyai/orca) | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | stablyai | 97469 |
+| 11 | [hoppscotch](https://github.com/hoppscotch/hoppscotch) | Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia | hoppscotch | 80654 |
+| 12 | [metapi](https://github.com/cita-777/metapi) | 把你在各处注册的 New API / One API / OneHub / DoneHub / Veloera / AnyRouter / Sub2API 等站点， 汇聚成 一个 API Key、一个入口，自动发现模型、智能路由、成本最优 | cita-777 | 3315 |
+| 13 | [cherry-studio](https://github.com/CherryHQ/cherry-studio) | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs | CherryHQ | 52738 |
 | 14 | [speckle-server](https://github.com/specklesystems/speckle-server) | The Speckle Server, Frontend, 3D Viewer, & other JS utilities. | specklesystems | 853 |
-| 15 | [Netcatty](https://github.com/binaricat/Netcatty) | SSH workspace, SFTP, and terminals in one | binaricat | 6634 |
-| 16 | [elasticvue](https://github.com/cars10/elasticvue) | Elasticsearch gui - desktop app, browser extension, docker, self hosted | cars10 | 2762 |
-| 17 | [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) | ORM | drizzle-team | 36073 |
-| 18 | [electrobun](https://github.com/blackboardsh/electrobun) | Build ultra fast, tiny, and cross-platform desktop apps with Typescript. | blackboardsh | 12923 |
-| 19 | [strapi](https://github.com/strapi/strapi) | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. | strapi | 73330 |
+| 15 | [Netcatty](https://github.com/binaricat/Netcatty) | SSH workspace, SFTP, and terminals in one | binaricat | 6664 |
+| 16 | [elasticvue](https://github.com/cars10/elasticvue) | Elasticsearch gui - desktop app, browser extension, docker, self hosted | cars10 | 2764 |
+| 17 | [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) | ORM | drizzle-team | 36083 |
+| 18 | [electrobun](https://github.com/blackboardsh/electrobun) | Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin. | blackboardsh | 12933 |
+| 19 | [strapi](https://github.com/strapi/strapi) | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. | strapi | 73340 |
 | 20 | [budibase](https://github.com/Budibase/budibase) | AI agents, automations and apps that run your operations. Model agnostic. | Budibase | 28330 |
-| 21 | [scriptcat](https://github.com/scriptscat/scriptcat) | ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展 | scriptscat | 5584 |
-| 22 | [open-notebook](https://github.com/lfnovo/open-notebook) | An Open Source implementation of Notebook LM with more flexibility and features | lfnovo | 40309 |
-| 23 | [WindowsCleaner](https://github.com/darkmatter2048/WindowsCleaner) | Windows Cleaner——专治C盘爆红及各种不服！ | darkmatter2048 | 4943 |
-| 24 | [RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | DIYgod | 46569 |
-| 25 | [Termix](https://github.com/Termix-SSH/Termix) | Self-hosted, plugin-based server management. | Termix-SSH | 15581 |
-| 26 | [databasus](https://github.com/databasus/databasus) | PostgreSQL backup tool with Point-In-Time-Recovery and restore verification | databasus | 9135 |
+| 21 | [scriptcat](https://github.com/scriptscat/scriptcat) | ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展 | scriptscat | 5590 |
+| 22 | [open-notebook](https://github.com/lfnovo/open-notebook) | An Open Source implementation of Notebook LM with more flexibility and features | lfnovo | 40363 |
+| 23 | [WindowsCleaner](https://github.com/darkmatter2048/WindowsCleaner) | Windows Cleaner——专治C盘爆红及各种不服！ | darkmatter2048 | 4954 |
+| 24 | [RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | DIYgod | 46579 |
+| 25 | [Termix](https://github.com/Termix-SSH/Termix) | Self-hosted, plugin-based server management. | Termix-SSH | 15590 |
+| 26 | [databasus](https://github.com/databasus/databasus) | PostgreSQL backup tool with Point-In-Time-Recovery and restore verification | databasus | 9147 |
 | 27 | [markdown-to-image-serve](https://github.com/wxingheng/markdown-to-image-serve) | 一个基于 Next.js 和 Puppeteer 的 Markdown 转图片服务，支持 Docker 部署和 API 集成。A Markdown to Image Service based on Next.js and Puppeteer, supporting Vercel deployment and API integration. | wxingheng | 266 |
-| 28 | [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | n8n-io | 207866 |
+| 28 | [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | n8n-io | 207985 |
 | 29 | [nebulajs-cloud](https://github.com/nebulajs-com/nebulajs-cloud) | 🚀 基于Nodejs + 百度Amis的分布式低代码平台，支持代码生成、工作流、可视化页面设计等功能。简单易用，可大幅度提高应用开发效率。/ lowcode fullstack platform | nebulajs-com | 106 |
 | 30 | [dcm](https://github.com/ajnart/dcm) | DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clicks! | ajnart | 1443 |
 | 31 | [allinssl](https://github.com/allinssl/allinssl) | AllinSSL 是一个集证书申请、管理、部署和监控于一体的SSL证书全生命周期管理工具。AllinSSL is an all-in-one SSL certificate lifecycle management tool that integrates certificate application, management, deployment, and monitoring.  | allinssl | 3616 |
-| 32 | [clash-party](https://github.com/mihomo-party-org/clash-party) | :electron: Another Mihomo GUI.  | mihomo-party-org | 26875 |
-| 33 | [sparkle](https://github.com/xishang0128/sparkle) | :electron: Another Mihomo GUI. (🛠building...) | xishang0128 | 7984 |
-| 34 | [vxe-table](https://github.com/x-extends/vxe-table) | vxe table 支持 vue2, vue3 的表格解决方案 | x-extends | 8628 |
+| 32 | [clash-party](https://github.com/mihomo-party-org/clash-party) | :electron: Another Mihomo GUI.  | mihomo-party-org | 26886 |
+| 33 | [sparkle](https://github.com/xishang0128/sparkle) | :electron: Another Mihomo GUI. (🛠building...) | xishang0128 | 7987 |
+| 34 | [vxe-table](https://github.com/x-extends/vxe-table) | vxe table 支持 vue2, vue3 的表格解决方案 | x-extends | 8626 |
 | 35 | [element-pro-components](https://github.com/tolking/element-pro-components) | A component library for Vue 3 base on element-plus | tolking | 327 |
-| 36 | [x](https://github.com/ant-design/x) | Craft AI-driven interface effortlessly🤖 | ant-design | 4813 |
+| 36 | [x](https://github.com/ant-design/x) | Craft AI-driven interface effortlessly🤖 | ant-design | 4815 |
 | 37 | [openapi-ts-request](https://github.com/openapi-ui/openapi-ts-request) | Swagger2/OpenAPI3/Apifox to TS/JS, request client, mock service, enum, react-query, type field label, JSON Schemas;  根据 Swagger2/OpenAPI3/Apifox 生成 TypeScript/JavaScript, 客户端请求函数(支持任意客户端), 模拟请求响应服务, 枚举和枚举翻译, react-query, 类型的字段翻译, JSON Schemas定义, 欢迎提功能请求 | openapi-ui | 458 |
-| 38 | [marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | marktext | 62779 |
-| 39 | [iptv-sources](https://github.com/HerbertHe/iptv-sources) | Autoupdate iptv sources | HerbertHe | 9030 |
-| 40 | [scalar](https://github.com/scalar/scalar) | Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support | scalar | 16282 |
+| 38 | [marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | marktext | 62842 |
+| 39 | [iptv-sources](https://github.com/HerbertHe/iptv-sources) | Autoupdate iptv sources | HerbertHe | 9031 |
+| 40 | [scalar](https://github.com/scalar/scalar) | Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　���　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support | scalar | 16286 |
 | 41 | [marsview](https://github.com/JackySoft/marsview) | Marsview 是一款中后台方向的低代码可视化搭建平台，开发者可以在平台上创建项目、页面和组件，支持事件交互、接口调用、数据联动和逻辑编排等，开发者还可通过微服务快速集成到自己的业务系统中。   Marsview is a low code visualization platform for middle and backend direction, supporting event interaction, interface calling, data linkage, and logical orchestration. | JackySoft | 1644 |
-| 42 | [leafer-ui](https://github.com/leaferjs/leafer-ui) | 好用的 Canvas 引擎，轻松构建可交互、可编辑的图形应用，AI 时代的无限画布引擎。An easy-to-use Canvas engine for building interactive and editable graphics applications — an infinite canvas engine for the AI era.  | leaferjs | 4456 |
-| 43 | [md](https://github.com/doocs/md) | ✍ WeChat Markdown Editor \| 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性 | doocs | 13440 |
+| 42 | [leafer-ui](https://github.com/leaferjs/leafer-ui) | 好用的 Canvas 引擎，轻松构建可交互、可编辑的图形应用，AI 时代的无限画布引擎。An easy-to-use Canvas engine for building interactive and editable graphics applications — an infinite canvas engine for the AI era.  | leaferjs | 4457 |
+| 43 | [md](https://github.com/doocs/md) | ✍ WeChat Markdown Editor \| 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性 | doocs | 13443 |
 | 44 | [vxe-pc-ui](https://github.com/x-extends/vxe-pc-ui) | Vxe UI 支持 vue2, vue3 的基础组件库 | x-extends | 240 |
 | 45 | [elog](https://github.com/LetTTGACO/elog) | Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等) | LetTTGACO | 1875 |
-| 46 | [floating-ui](https://github.com/floating-ui/floating-ui) | A JavaScript library to position floating elements and create interactions for them. | floating-ui | 32753 |
+| 46 | [floating-ui](https://github.com/floating-ui/floating-ui) | A JavaScript library to position floating elements and create interactions for them. | floating-ui | 32754 |
 | 47 | [taze](https://github.com/antfu-collective/taze) | 🥦 A modern cli tool that keeps your deps fresh | antfu-collective | 4292 |
-| 48 | [next-terminal](https://github.com/next-terminal/next-terminal) | A simple, secure, easy-to-use bastion and session auditing system. Supports RDP, SSH, VNC, Telnet, HTTP, records and replays sessions for auditing and compliance. | next-terminal | 5657 |
-| 49 | [linkwarden](https://github.com/linkwarden/linkwarden) | ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place. | linkwarden | 20133 |
+| 48 | [next-terminal](https://github.com/next-terminal/next-terminal) | A simple, secure, easy-to-use bastion and session auditing system. Supports RDP, SSH, VNC, Telnet, HTTP, records and replays sessions for auditing and compliance. | next-terminal | 5658 |
+| 49 | [linkwarden](https://github.com/linkwarden/linkwarden) | ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place. | linkwarden | 20148 |
 | 50 | [FastGateway](https://github.com/239573049/FastGateway) | FastGateway 一个超级简单方便的网关，基于Kestrel+Yarp实现的网关。 支持动态配置路由，支持动态配置集群，支持动态配置HTTPS证书，无需重启即可使用。 | 239573049 | 171 |
-| 51 | [vue-h5-template](https://github.com/sunniejs/vue-h5-template) | :tada:vue搭建移动端开发,基于vue-cli4.0+webpack 4+vant ui + sass+ rem适配方案+axios封装，构建手机端模板脚手架  | sunniejs | 3488 |
+| 51 | [vue-h5-template](https://github.com/sunniejs/vue-h5-template) | :tada:vue搭建移动端开发,基于vue-cli4.0+webpack 4+vant ui + sass+ rem适配方案+axios封装，构建手机端模板脚手架  | sunniejs | 3489 |
 | 52 | [fes.js](https://github.com/WeBankFinTech/fes.js) | Fes.js 是一个基于 Vue 3 好用的前端应用解决方案。以约定、配置化、组件化的设计思想，让用户仅仅关心用组件搭建页面内容。技术曲线平缓，上手也简单。在经过多个项目中打磨后趋于稳定。丰富的 Vue 3 生态 和 Fes.js 插件，让业务开发更加简单快捷~ | WeBankFinTech | 1659 |
 | 53 | [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) | File system based route generator for ⚡️Vite | hannoeru | 2076 |
 | 54 | [fast-crud](https://github.com/fast-crud/fast-crud) | 面向配置的crud框架，开发crud 快如闪电，超级表格；Options-oriented crud framework,  develop crud as fast as lightning；based on vue3；super table | fast-crud | 1150 |
-| 55 | [tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age | Eugeny | 75009 |
-| 56 | [dub](https://github.com/dubinc/dub) | The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more. | dubinc | 24904 |
+| 55 | [tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age | Eugeny | 75025 |
+| 56 | [dub](https://github.com/dubinc/dub) | The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more. | dubinc | 24911 |
 | 57 | [mtbird](https://github.com/staringos/mtbird) | 💻 无代码编辑器，无需代码生成小程序、H5页面和网站 ，拖拽操作、样式配置快速生成页面应用，数据可视化接入，支持定制业务拓展插件. StaringOS MtBird is a low-code platform for HTML Pages 、 Websites. We help users build pages without code or less code. | staringos | 752 |
-| 58 | [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | Use ChatGPT On Wechat via wechaty | fuergaosi233 | 13230 |
+| 58 | [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | Use ChatGPT On Wechat via wechaty | fuergaosi233 | 13228 |
 | 59 | [yn](https://github.com/purocean/yn) | A highly extensible Markdown editor featuring version control, AI Copilot, document annotations, mind maps, document encryption, executable code snippets, chart embedding, HTML applets, plugins, and macro replacement. Its integrated sidebar terminal makes working with AI faster and more convenient. | purocean | 6767 |
-| 60 | [Gitako](https://github.com/EnixCoda/Gitako) | 🐙 File tree extension for GitHub on Chrome & Firefox & Edge | EnixCoda | 2604 |
-| 61 | [x-render](https://github.com/alibaba/x-render) | 🚴‍♀️ Very easy to use process form table chart solution. | alibaba | 7852 |
+| 60 | [Gitako](https://github.com/EnixCoda/Gitako) | 🐙 File tree extension for GitHub on Chrome & Firefox & Edge | EnixCoda | 2605 |
+| 61 | [x-render](https://github.com/alibaba/x-render) | 🚴‍♀️ Very easy to use process form table chart solution. | alibaba | 7849 |
 | 62 | [hetu](https://github.com/LianjiaTech/hetu) | 低代码平台, 可视化编辑器，单手打代码，解放你的双手 | LianjiaTech | 796 |
-| 63 | [logto](https://github.com/logto-io/logto) | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. | logto-io | 14689 |
-| 64 | [immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. | immich-app | 116528 |
-| 65 | [appsmith](https://github.com/appsmithorg/appsmith) | Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. | appsmithorg | 41081 |
+| 63 | [logto](https://github.com/logto-io/logto) | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. | logto-io | 14692 |
+| 64 | [immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. | immich-app | 116634 |
+| 65 | [appsmith](https://github.com/appsmithorg/appsmith) | Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. | appsmithorg | 41084 |
 | 66 | [formily](https://github.com/alibaba/formily) | 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3 | alibaba | 12585 |
-| 67 | [RedisInsight](https://github.com/redis/RedisInsight) | Redis GUI by Redis | redis | 8910 |
-| 68 | [nocobase](https://github.com/nocobase/nocobase) | NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability. | nocobase | 24610 |
+| 67 | [RedisInsight](https://github.com/redis/RedisInsight) | Redis GUI by Redis | redis | 8913 |
+| 68 | [nocobase](https://github.com/nocobase/nocobase) | NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability. | nocobase | 24622 |
 | 69 | [think](https://github.com/fantasticit/think) | 云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。 | fantasticit | 2143 |
-| 70 | [semi-design](https://github.com/DouyinFE/semi-design) | 🚀A modern, comprehensive, flexible design system and React UI library, AI-friendly built-in.🎨Provide 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.🧑🏻‍💻 Design to Code in one click | DouyinFE | 10413 |
+| 70 | [semi-design](https://github.com/DouyinFE/semi-design) | 🚀A modern, comprehensive, flexible design system and React UI library, AI-friendly built-in.🎨Provide 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.🧑🏻‍💻 Design to Code in one click | DouyinFE | 10418 |
 | 71 | [vant](https://github.com/youzan/vant) | A lightweight, customizable Vue UI library for mobile web apps. | youzan | 24391 |
-| 72 | [sharelist](https://github.com/reruin/sharelist) | 快速分享 GoogleDrive OneDrive  | reruin | 2671 |
-| 73 | [ant-design](https://github.com/ant-design/ant-design) | An enterprise-class UI design language and React UI library | ant-design | 99805 |
-| 74 | [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | Docker container for managing Nginx proxy hosts with a simple, powerful interface | NginxProxyManager | 34433 |
+| 72 | [sharelist](https://github.com/reruin/sharelist) | 快速分享 GoogleDrive OneDrive  | reruin | 2670 |
+| 73 | [ant-design](https://github.com/ant-design/ant-design) | An enterprise-class UI design language and React UI library | ant-design | 99802 |
+| 74 | [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | Docker container for managing Nginx proxy hosts with a simple, powerful interface | NginxProxyManager | 34451 |
 | 75 | [mini-dynamic-antd-theme](https://github.com/luffyZh/mini-dynamic-antd-theme) | 🌈 Mini dynamic antd theme whether ant-design or ant-design-vue, after gizp 11 kB. | luffyZh | 49 |
 | 76 | [vben-admin-thin-next](https://github.com/vbenjs/vben-admin-thin-next) | vue-vben-admin-2.0 mini template.vue3,vite,typescript | vbenjs | 2070 |
-| 77 | [element-plus](https://github.com/element-plus/element-plus) | 🎉 A Vue.js 3 UI Library made by Element team | element-plus | 27813 |
-| 78 | [desktop](https://github.com/desktop/desktop) | Focus on what matters instead of fighting with Git. | desktop | 21976 |
-| 79 | [tui.editor](https://github.com/nhn/tui.editor) | 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible. | nhn | 17992 |
-| 80 | [taro](https://github.com/NervJS/taro) | 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。 | NervJS | 37714 |
+| 77 | [element-plus](https://github.com/element-plus/element-plus) | 🎉 A Vue.js 3 UI Library made by Element team | element-plus | 27814 |
+| 78 | [desktop](https://github.com/desktop/desktop) | Focus on what matters instead of fighting with Git. | desktop | 21977 |
+| 79 | [tui.editor](https://github.com/nhn/tui.editor) | 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible. | nhn | 17993 |
+| 80 | [taro](https://github.com/NervJS/taro) | 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。 | NervJS | 37720 |
 | 81 | [umi](https://github.com/umijs/umi) | A framework in react community ✨ | umijs | 16038 |
 | 82 | [remax](https://github.com/remaxjs/remax) | 使用真正的 React 构建跨平台小程序 | remaxjs | 4548 |
-| 83 | [slate](https://github.com/ianstormtaylor/slate) | A completely customizable framework for building rich text editors. (Currently in beta.) | ianstormtaylor | 31747 |
+| 83 | [slate](https://github.com/ianstormtaylor/slate) | A completely customizable framework for building rich text editors. (Currently in beta.) | ianstormtaylor | 31744 |
 | 84 | [Squire](https://github.com/fastmail/Squire) | The rich text editor for arbitrary HTML. | fastmail | 4917 |
-| 85 | [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | iptv-org | 141251 |
-| 86 | [nuxt](https://github.com/nuxt/nuxt) | The full-stack Vue framework. | nuxt | 60963 |
+| 85 | [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | iptv-org | 141420 |
+| 86 | [nuxt](https://github.com/nuxt/nuxt) | The full-stack Vue framework. | nuxt | 60969 |
 | 87 | [any-rule](https://github.com/any86/any-rule) | 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台 | any86 | 8642 |
 | 88 | [flatpickr](https://github.com/flatpickr/flatpickr) | lightweight, powerful javascript datetimepicker with no dependencies | flatpickr | 16463 |
 | 89 | [hiui](https://github.com/XiaoMi/hiui) | HIUI is a solution that is adequate for the fomulation and implementation of interaction and UI design standard for front, middle and backend. | XiaoMi | 879 |
-| 90 | [redoc](https://github.com/Redocly/redoc) | 📘  OpenAPI/Swagger-generated API Reference Documentation | Redocly | 25963 |
-| 91 | [Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. | agalwood | 56997 |
-| 92 | [carbon](https://github.com/carbon-design-system/carbon) | A design system built by IBM | carbon-design-system | 9556 |
-| 93 | [uppy](https://github.com/transloadit/uppy) | The next open source file uploader for web browsers :dog:  | transloadit | 31025 |
-| 94 | [eui](https://github.com/elastic/eui) | Elastic UI Framework 🙌 | elastic | 6370 |
-| 95 | [kibana](https://github.com/elastic/kibana) | Your window into all of your data | elastic | 21315 |
-| 96 | [etcher](https://github.com/balena-io/etcher) | Flash OS images to SD cards & USB drives, safely and easily. | balena-io | 34545 |
+| 90 | [redoc](https://github.com/Redocly/redoc) | 📘  OpenAPI/Swagger-generated API Reference Documentation | Redocly | 25964 |
+| 91 | [Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. | agalwood | 57065 |
+| 92 | [carbon](https://github.com/carbon-design-system/carbon) | A design system built by IBM | carbon-design-system | 9558 |
+| 93 | [uppy](https://github.com/transloadit/uppy) | The next open source file uploader for web browsers :dog:  | transloadit | 31026 |
+| 94 | [eui](https://github.com/elastic/eui) | Elastic UI Framework 🙌 | elastic | 6371 |
+| 95 | [kibana](https://github.com/elastic/kibana) | Your window into all of your data | elastic | 21317 |
+| 96 | [etcher](https://github.com/balena-io/etcher) | Flash OS images to SD cards & USB drives, safely and easily. | balena-io | 34554 |
 | 97 | [zui](https://github.com/easysoft/zui) | ZUI is an HTML5 front UI framework. | easysoft | 2766 |
 | 98 | [filterizr](https://github.com/giotiskl/filterizr) | :sparkles: Filterizr is a JavaScript library that sorts, shuffles and filters responsive galleries using CSS3 transitions :sparkles: | giotiskl | 640 |
-| 99 | [generator-jhipster](https://github.com/jhipster/generator-jhipster) | JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures. | jhipster | 22466 |
-| 100 | [socket.io](https://github.com/socketio/socket.io) | Bidirectional and low-latency communication for every platform | socketio | 63219 |
+| 99 | [generator-jhipster](https://github.com/jhipster/generator-jhipster) | JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures. | jhipster | 22464 |
+| 100 | [socket.io](https://github.com/socketio/socket.io) | Bidirectional and low-latency communication for every platform | socketio | 63221 |
 | 101 | [angular-material-app](https://github.com/stbui/angular-material-app) | 基于最新Angular 11框架与Material 2技术的web中后台前端应用框架。 | stbui | 513 |
 | 102 | [abp-ng-Zorro](https://github.com/yixiangling/abp-ng-Zorro) | 阿里云的NG-ZORRO为组件基础，替换ABP 免费版前端 | yixiangling | 102 |
 | 103 | [ng-alain](https://github.com/ng-alain/ng-alain) | NG-ZORRO admin panel front-end framework | ng-alain | 4532 |
 | 104 | [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) | Angular powered Bootstrap | ng-bootstrap | 8222 |
-| 105 | [ant-design-pro](https://github.com/ant-design/ant-design-pro) | 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro! | ant-design | 38863 |
-| 106 | [components](https://github.com/angular/components) | Component infrastructure and Material Design components for Angular | angular | 25029 |
-| 107 | [styled-components](https://github.com/styled-components/styled-components) | Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API. | styled-components | 41089 |
-| 108 | [video.js](https://github.com/videojs/video.js) | Video.js v10 - open source media player framework for HTML and React. | videojs | 39983 |
-| 109 | [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) | Angular UI Component Library based on Ant Design | NG-ZORRO | 9185 |
-| 110 | [SwitchHosts](https://github.com/oldj/SwitchHosts) | Switch hosts quickly! | oldj | 27283 |
-| 111 | [npm-check-updates](https://github.com/raineorshine/npm-check-updates) | Find newer versions of package dependencies than what your package.json allows | raineorshine | 10318 |
+| 105 | [ant-design-pro](https://github.com/ant-design/ant-design-pro) | 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro! | ant-design | 38864 |
+| 106 | [components](https://github.com/angular/components) | Component infrastructure and Material Design components for Angular | angular | 25031 |
+| 107 | [styled-components](https://github.com/styled-components/styled-components) | Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API. | styled-components | 41090 |
+| 108 | [video.js](https://github.com/videojs/video.js) | Video.js v10 - open source media player framework for HTML and React. | videojs | 39990 |
+| 109 | [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) | Angular UI Component Library based on Ant Design | NG-ZORRO | 9186 |
+| 110 | [SwitchHosts](https://github.com/oldj/SwitchHosts) | Switch hosts quickly! | oldj | 27281 |
+| 111 | [npm-check-updates](https://github.com/raineorshine/npm-check-updates) | Find newer versions of package dependencies than what your package.json allows | raineorshine | 10320 |
 | 112 | [antd-admin](https://github.com/zuiidea/antd-admin) | AI-friendly enterprise front-end best practices | zuiidea | 9764 |
-| 113 | [TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) | A starter template for TypeScript and React with a detailed README describing how to use the two together. | microsoft | 11014 |
+| 113 | [TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) | A starter template for TypeScript and React with a detailed README describing how to use the two together. | microsoft | 11015 |
 | 114 | [varharrie.github.io](https://github.com/varHarrie/varharrie.github.io) | :blue_book: Personal blog site based on github issues. | varHarrie | 3673 |
-| 115 | [primeng](https://github.com/primefaces/primeng) | The Most Complete Angular UI Component Library | primefaces | 12483 |
+| 115 | [primeng](https://github.com/primefaces/primeng) | The Most Complete Angular UI Component Library | primefaces | 12481 |
 | 116 | [omi](https://github.com/Tencent/omi) | Web Components Framework - Web组件框架 | Tencent | 13275 |
-| 117 | [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) | Bootstrap components built with React | react-bootstrap | 22607 |
-| 118 | [vuetify](https://github.com/vuetifyjs/vuetify) | 🐉 Vue Component Framework | vuetifyjs | 41032 |
-| 119 | [egg](https://github.com/eggjs/egg) | 🥚🥚🥚🥚 Born to build better enterprise frameworks and apps with Node.js & Koa. https://codewiki.google/github.com/eggjs/egg | eggjs | 18985 |
+| 117 | [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) | Bootstrap components built with React | react-bootstrap | 22608 |
+| 118 | [vuetify](https://github.com/vuetifyjs/vuetify) | 🐉 Vue Component Framework | vuetifyjs | 41031 |
+| 119 | [egg](https://github.com/eggjs/egg) | 🥚🥚🥚🥚 Born to build better enterprise frameworks and apps with Node.js & Koa. https://codewiki.google/github.com/eggjs/egg | eggjs | 18984 |
 | 120 | [recharts](https://github.com/recharts/recharts) | Redefined chart library built with React and D3 | recharts | 27638 |
 | 121 | [wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) | :traffic_light:小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具 | justjavac | 51176 |
-| 122 | [babel](https://github.com/babel/babel) | 🐠 Babel is a compiler for writing next generation JavaScript. | babel | 44059 |
-| 123 | [angular-cli](https://github.com/angular/angular-cli) | CLI tool for Angular | angular | 27013 |
-| 124 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. | freeCodeCamp | 457374 |
-| 125 | [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 193798 |
-| 126 | [swiper](https://github.com/nolimits4web/swiper) | Most modern mobile touch slider with hardware accelerated transitions | nolimits4web | 41900 |
-| 127 | [hexo](https://github.com/hexojs/hexo) | A fast, simple & powerful blog framework, powered by Node.js. | hexojs | 41778 |
-| 128 | [ngx-admin](https://github.com/akveo/ngx-admin) | Customizable admin dashboard template based on Angular 10+ | akveo | 25676 |
-| 129 | [vue](https://github.com/vuejs/vue) | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core | vuejs | 212622 |
-| 130 | [fullcalendar](https://github.com/fullcalendar/fullcalendar) | Full-sized drag & drop event calendar in JavaScript | fullcalendar | 20696 |
+| 122 | [babel](https://github.com/babel/babel) | 🐠 Babel is a compiler for writing next generation JavaScript. | babel | 44057 |
+| 123 | [angular-cli](https://github.com/angular/angular-cli) | CLI tool for Angular | angular | 27014 |
+| 124 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. | freeCodeCamp | 457474 |
+| 125 | [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 193940 |
+| 126 | [swiper](https://github.com/nolimits4web/swiper) | Most modern mobile touch slider with hardware accelerated transitions | nolimits4web | 41901 |
+| 127 | [hexo](https://github.com/hexojs/hexo) | A fast, simple & powerful blog framework, powered by Node.js. | hexojs | 41776 |
+| 128 | [ngx-admin](https://github.com/akveo/ngx-admin) | Customizable admin dashboard template based on Angular 10+ | akveo | 25674 |
+| 129 | [vue](https://github.com/vuejs/vue) | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core | vuejs | 212694 |
+| 130 | [fullcalendar](https://github.com/fullcalendar/fullcalendar) | Full-sized drag & drop event calendar in JavaScript | fullcalendar | 20703 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1295,7 +1295,7 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [vcredist](https://github.com/abbodi1406/vcredist) | AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes | abbodi1406 | 8199 |
+| 1 | [vcredist](https://github.com/abbodi1406/vcredist) | AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes | abbodi1406 | 8201 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1303,14 +1303,14 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [tiny-rdm](https://github.com/tiny-craft/tiny-rdm) | Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker. | tiny-craft | 13133 |
-| 2 | [vue-element-plus-admin](https://github.com/kailong321200875/vue-element-plus-admin) | A backend management system based on vue3, typescript, element-plus, and vite | kailong321200875 | 3700 |
+| 1 | [tiny-rdm](https://github.com/tiny-craft/tiny-rdm) | Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker. | tiny-craft | 13134 |
+| 2 | [vue-element-plus-admin](https://github.com/kailong321200875/vue-element-plus-admin) | A backend management system based on vue3, typescript, element-plus, and vite | kailong321200875 | 3701 |
 | 3 | [icones](https://github.com/antfu-collective/icones) | ⚡️ Icon Explorer with Instant searching, powered by Iconify | antfu-collective | 7476 |
-| 4 | [unibest](https://github.com/feige996/unibest) | 【这是新仓库，codercup那个进不去不维护了。】unibest - 最好用的 uniapp 开发框架。unibest 是由 uniapp + Vue3 + Ts + Vite5 + UnoCss + WotUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。 | feige996 | 2299 |
-| 5 | [cool-admin-vue](https://github.com/cool-team-official/cool-admin-vue) | 🔥 cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发���永久开源免费，基于vue3、element-plus、pinia、vite、tailwindcss、i18n等构建 | cool-team-official | 2450 |
-| 6 | [it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX.  | CorentinTh | 40892 |
+| 4 | [unibest](https://github.com/feige996/unibest) | 【这是新仓库，codercup那个进不去不维护了。】unibest - 最好用的 uniapp 开发框架。unibest 是由 uniapp + Vue3 + Ts + Vite5 + UnoCss + WotUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。 | feige996 | 2300 |
+| 5 | [cool-admin-vue](https://github.com/cool-team-official/cool-admin-vue) | 🔥 cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于vue3、element-plus、pinia、vite、tailwindcss、i18n等构建 | cool-team-official | 2450 |
+| 6 | [it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX.  | CorentinTh | 40905 |
 | 7 | [t-ui](https://github.com/wocwin/t-ui) | Vue 项目中基于Element-ui 二次封装基础组件文档；Vue基础组件文档 | wocwin | 257 |
-| 8 | [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) | ✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。 | HalseySpicy | 8089 |
+| 8 | [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) | ✨✨✨ Geeker Admin，基于 Vue3.4���TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。 | HalseySpicy | 8087 |
 | 9 | [varlet](https://github.com/varletjs/varlet) | A Vue3 component library based on Material Design 2 and 3, supporting mobile and desktop. | varletjs | 5336 |
 | 10 | [basic](https://github.com/fantastic-admin/basic) | ⭐⭐⭐⭐⭐ 面向 AI 编程的管理系统框架，兼容PC、移动端。AI-oriented management system framework, compatible with PC and mobile device. | fantastic-admin | 3417 |
 | 11 | [k-form-design](https://github.com/Kchengz/k-form-design) | 基于vue Ant-Design 的表单设计器，快速开发 | Kchengz | 1248 |
@@ -1318,14 +1318,14 @@
 | 13 | [nutui](https://github.com/jd-opensource/nutui) | 京东风格的移动端 Vue 组件库，支持多端小程序(A Vue.js UI Toolkit for Mobile Web) | jd-opensource | 6510 |
 | 14 | [uView](https://github.com/umicro/uView) | uView UI，是uni-app生态最优秀的UI框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水 | umicro | 4214 |
 | 15 | [ViewUI](https://github.com/view-design/ViewUI) | A high quality UI Toolkit built on Vue.js 2.0 | view-design | 2625 |
-| 16 | [coloruicss](https://github.com/weilanwl/coloruicss) | 鲜亮的高饱���色彩，专注视觉的小程序组件库 | weilanwl | 12366 |
+| 16 | [coloruicss](https://github.com/weilanwl/coloruicss) | 鲜亮的高饱和色彩，专注视觉的小程序组件库 | weilanwl | 12365 |
 | 17 | [buefy](https://github.com/buefy/buefy) | Lightweight UI components for Vue.js based on Bulma | buefy | 9509 |
 | 18 | [vue-neditor-wrap](https://github.com/caiya/vue-neditor-wrap) | 基于vue和neditor的双向绑定组件，使用vue-cli3的项目可以直接使用 | caiya | 242 |
-| 19 | [ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) | 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   (vue2) | vueComponent | 10924 |
-| 20 | [ant-design-vue](https://github.com/vueComponent/ant-design-vue) | 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜 | vueComponent | 21685 |
+| 19 | [ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) | 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   (vue2) | vueComponent | 10922 |
+| 20 | [ant-design-vue](https://github.com/vueComponent/ant-design-vue) | 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜 | vueComponent | 21682 |
 | 21 | [vue-material](https://github.com/vuematerial/vue-material) | Vue.js Framework - ready-to-use Vue components with Material Design, free forever. | vuematerial | 9820 |
 | 22 | [at-ui](https://github.com/AT-UI/at-ui) | A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0 (DEPRECATED) | AT-UI | 2316 |
-| 23 | [iview-admin](https://github.com/iview/iview-admin) | Vue 2.0 admin management system template based on iView | iview | 16338 |
+| 23 | [iview-admin](https://github.com/iview/iview-admin) | Vue 2.0 admin management system template based on iView | iview | 16336 |
 | 24 | [incubator-weex-ui](https://github.com/apache/incubator-weex-ui) | 🏄  A rich interaction, lightweight, high performance UI library based on Weex. | apache | 4711 |
 | 25 | [N3-admin](https://github.com/x-cold/N3-admin) | vue / vuex / N3 / vue-router / axios v2 | x-cold | 192 |
 | 26 | [douban](https://github.com/jeneser/douban) | Awesome douban DEMO created with Vue2.x + Vuex + Vue-router + Superagent | jeneser | 2290 |
@@ -1334,12 +1334,12 @@
 | 29 | [vue-admin](https://github.com/taylorchen709/vue-admin) | admin template based on vuejs2 and element. | taylorchen709 | 6550 |
 | 30 | [framework7-vue](https://github.com/framework7io/framework7-vue) | Deprecated! Build full featured iOS & Android apps using Framework7 & Vue | framework7io | 670 |
 | 31 | [radon-ui](https://github.com/luojilab/radon-ui) | 一个用于快速开发产品的简洁、优雅、高效的 Vue 组件库 | luojilab | 890 |
-| 32 | [vue-music](https://github.com/Sioxas/vue-music) | Vue 音乐搜索、播放 Demo | Sioxas | 1593 |
-| 33 | [mint-ui](https://github.com/ElemeFE/mint-ui) | Mobile UI elements for Vue.js | ElemeFE | 16430 |
+| 32 | [vue-music](https://github.com/Sioxas/vue-music) | Vue 音乐搜索、播放 Demo | Sioxas | 1592 |
+| 33 | [mint-ui](https://github.com/ElemeFE/mint-ui) | Mobile UI elements for Vue.js | ElemeFE | 16432 |
 | 34 | [N3-components](https://github.com/N3-components/N3-components) | N3-components , Powerful Vue UI Library. | N3-components | 1000 |
 | 35 | [vux](https://github.com/airyland/vux) | Mobile UI Components based on Vue & WeUI | airyland | 17446 |
-| 36 | [iview](https://github.com/iview/iview) | A high quality UI Toolkit built on Vue.js 2.0 | iview | 23743 |
-| 37 | [element](https://github.com/ElemeFE/element) | A Vue.js 2.0 UI Toolkit for Web | ElemeFE | 54014 |
+| 36 | [iview](https://github.com/iview/iview) | A high quality UI Toolkit built on Vue.js 2.0 | iview | 23744 |
+| 37 | [element](https://github.com/ElemeFE/element) | A Vue.js 2.0 UI Toolkit for Web | ElemeFE | 54015 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1347,7 +1347,7 @@
 
 |  | Name | Description | Author | Stars |
 |---|---|---|---|---|
-| 1 | [native](https://github.com/vercel-labs/native) | Toolkit for building native desktop apps | vercel-labs | 7782 |
+| 1 | [native](https://github.com/vercel-labs/native) | Toolkit for building native desktop apps | vercel-labs | 7784 |
 
 **[⬆ Back to Index](#-contents)**
 
